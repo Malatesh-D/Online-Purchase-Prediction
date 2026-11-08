@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Detailed Project Report | Online Purchase Intention Prediction</title>
+<style>
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        color: #1e293b;
+        background-color: #f8fafc;
+        margin: 0;
+        padding: 40px 20px;
+        line-height: 1.6;
+    }
+    .report-container {
+        max-width: 900px;
+        margin: 0 auto;
+        background: #ffffff;
+        padding: 50px;
+        border-radius: 12px;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+    }
+    h1 {
+        font-size: 24px;
+        color: #1f4e79;
+        margin-bottom: 6px;
+        border-bottom: 2px solid #1f4e79;
+        padding-bottom: 12px;
+    }
+    h2 {
+        font-size: 18px;
+        color: #1f4e79;
+        margin-top: 36px;
+        border-bottom: 1px solid #e2e8f0;
+        padding-bottom: 6px;
+    }
+    h3 {
+        font-size: 15px;
+        color: #0f172a;
+        margin-top: 20px;
+    }
+    .metadata-box {
+        background: #f1f5f9;
+        border-left: 4px solid #1f4e79;
+        padding: 16px 20px;
+        border-radius: 6px;
+        margin-bottom: 30px;
+        font-size: 14px;
+    }
+    .metadata-box p {
+        margin: 4px 0;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        font-size: 13.5px;
+    }
+    th, td {
+        border: 1px solid #cbd5e1;
+        padding: 10px 12px;
+        text-align: left;
+    }
+    th {
+        background-color: #1f4e79;
+        color: #ffffff;
+        font-weight: 600;
+    }
+    tr:nth-child(even) {
+        background-color: #f8fafc;
+    }
+    .highlight-row {
+        background-color: #eff6ff !important;
+        font-weight: bold;
+    }
+    .callout {
+        background: #f0fdf4;
+        border: 1px solid #86efac;
+        border-left: 4px solid #16a34a;
+        padding: 16px 20px;
+        border-radius: 6px;
+        margin: 24px 0;
+    }
+    .callout-title {
+        font-weight: bold;
+        color: #166534;
+        margin-bottom: 4px;
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        border: 1px solid #e2e8f0;
+        display: block;
+        margin: 20px auto 8px auto;
+    }
+    .figure-caption {
+        text-align: center;
+        font-size: 12px;
+        color: #64748b;
+        font-style: italic;
+        margin-bottom: 24px;
+    }
+    @media print {
+        body { background-color: #fff; padding: 0; }
+        .report-container { box-shadow: none; padding: 0; max-width: 100%; }
+        h2 { page-break-before: always; }
+        img { max-height: 380px; page-break-inside: avoid; }
+    }
+</style>
+</head>
+<body>
+<div class="report-container">
+
+    <h1>PROJECT REPORT: ONLINE SHOPPING PURCHASE INTENTION PREDICTION</h1>
+    <p style="font-size: 15px; color: #475569; margin-top: -6px;">
+        End-to-End Predictive Analytics System on an Academic Field Survey Dataset (N=1,200)
+    </p>
+
+    <div class="metadata-box">
+        <p><strong>Course / Subject:</strong> Predictive Analytics (Semester VII)</p>
+        <p><strong>Academic Year:</strong> 2026 – 2027</p>
+        <p><strong>Faculty Evaluator:</strong> Prof. Debarshi Mazumder</p>
+        <p><strong>Author / Student:</strong> Malatesh D (GitHub: <a href="https://github.com/Malatesh-D/Online-Purchase-Prediction.git" target="_blank">Malatesh-D</a>)</p>
+        <p><strong>Repository:</strong> <a href="https://github.com/Malatesh-D/Online-Purchase-Prediction.git" target="_blank">https://github.com/Malatesh-D/Online-Purchase-Prediction.git</a></p>
+    </div>
+
+    <h2>Section 1. Introduction</h2>
+    <p><strong>1.1 Overview of the Business Problem:</strong> Digital retailers spend substantial capital driving website traffic through paid search ads, social promotional campaigns, and influencer sponsorships. However, 96% to 98% of web visitors exit without purchasing. This creates widespread advertising inefficiency, shopping cart abandonment, and untargeted discount promotions that hurt profitability.</p>
+    <p><strong>1.2 Statement of the Predictive Task:</strong> The goal is to construct a machine learning classification engine that predicts whether a website visitor will complete an online transaction (<code>Completed_Purchase = 'Yes' / 'No'</code>) based on 12 multi-dimensional session, demographic, and referral features.</p>
+    <p><strong>1.3 Approach and Key Findings:</strong> Using a primary Academic Field Survey Dataset of 1,200 verified shoppers (N=1,200), five classification algorithms were trained and benchmarked. Logistic Regression with class-weight balancing was selected as champion, achieving <strong>86.25% Test Accuracy</strong>, <strong>96.02% ROC-AUC</strong>, <strong>92.25% PR-AUC</strong>, and <strong>90.00% Recall</strong> on holdout test visitors, with an optimal decision threshold of 0.83 generating a <strong>Tuned F1-Score of 0.8372</strong>.</p>
+
+    <h2>Section 2. Data Understanding and Preparation</h2>
+    <p><strong>2.1 Dataset Description:</strong> The survey captures 1,200 records across 15 attributes (6 numerical metrics, 6 categorical indicators, 1 respondent ID, 1 binary classification target, and 1 continuous order spend field).</p>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Feature Name</th>
+                <th>Type</th>
+                <th>Domain / Range</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>Age</td><td>Numerical</td><td>18 – 65 years</td><td>Shopper chronological age</td></tr>
+            <tr><td>Gender</td><td>Categorical</td><td>Female, Male</td><td>Gender identity of participant</td></tr>
+            <tr><td>Customer_Type</td><td>Categorical</td><td>Returning, New Visitor</td><td>Store relationship status</td></tr>
+            <tr><td>Primary_Device</td><td>Categorical</td><td>Smartphone, Laptop, Tablet</td><td>Device used during session</td></tr>
+            <tr><td>Shopping_Month</td><td>Categorical</td><td>January – December</td><td>Calendar month of visit</td></tr>
+            <tr><td>Shopping_Day</td><td>Categorical</td><td>Weekday, Weekend</td><td>Session timing classification</td></tr>
+            <tr><td>Referral_Channel</td><td>Categorical</td><td>5 Acquisition Channels</td><td>Marketing traffic source</td></tr>
+            <tr><td>Products_Viewed</td><td>Numerical</td><td>1 – 95 pages</td><td>Product detail views</td></tr>
+            <tr><td>Browsing_Time_Minutes</td><td>Numerical</td><td>0.8 – 114.6 mins</td><td>Total session duration</td></tr>
+            <tr><td>Cart_Checkout_Pages</td><td>Numerical</td><td>0 – 6 pages</td><td>Cart/checkout page views</td></tr>
+            <tr><td>Cart_Page_Value_Score</td><td>Numerical</td><td>$0.00 – $248.50</td><td>Cart commercial intent score</td></tr>
+            <tr><td>Drop_Off_Exit_Rate_Pct</td><td>Numerical</td><td>0.50% – 9.43%</td><td>Percentage of final page exits</td></tr>
+        </tbody>
+    </table>
+
+    <p><strong>2.2 Data Cleaning:</strong> Zero missing values (mandatory survey completion); verified 0 duplicate rows; type-casting of numeric and categorical features; target encoding mapping 'Yes' to 1 and 'No' to 0 (29.08% positive conversion rate, 2.44:1 class imbalance ratio).</p>
+
+    <img src="visualizations/target_distribution.png" alt="Target Distribution">
+    <div class="figure-caption">Figure 2.1: Target Class Distribution (Completed Purchase: 29.1% vs No Purchase: 70.9%)</div>
+
+    <img src="visualizations/cart_value_distribution.png" alt="Cart Value Distribution">
+    <div class="figure-caption">Figure 2.2: Cart Page Value Score Distribution for Buyers ($75.82 avg) vs Non-Buyers ($15.65 avg)</div>
+
+    <img src="visualizations/device_distribution.png" alt="Device Distribution">
+    <div class="figure-caption">Figure 2.3: Purchase Conversion Rate by Hardware Device (Laptops: 38.4% vs Mobile: 24.8%)</div>
+
+    <img src="visualizations/correlation_heatmap.png" alt="Correlation Matrix">
+    <div class="figure-caption">Figure 2.4: Correlation Heatmap of Survey Numerical Attributes and Purchase Intention</div>
+
+    <h2>Section 3. Methodology</h2>
+    <p><strong>3.1 Feature Engineering & Pipeline:</strong> Embedded within a Scikit-Learn <code>ColumnTransformer</code> to prevent data leakage. StandardScaler applied to the 6 numerical features; OneHotEncoder applied to 6 categorical variables, producing a dense design matrix of 32 transformed features.</p>
+    <p><strong>3.2 Models Considered:</strong> Logistic Regression (with balanced class weighting), Decision Tree, Random Forest, Gradient Boosting, and XGBoost.</p>
+    <p><strong>3.3 Training & Validation Strategy:</strong> 80:20 Stratified Holdout Split (N_train=960, N_test=240), 5-Fold Stratified Cross-Validation on training data, and threshold tuning grid search across tau in [0.10, 0.90] to optimize positive class F1-Score.</p>
+
+    <h2>Section 4. Results and Analysis</h2>
+    <p><strong>4.1 Multi-Model Benchmark:</strong></p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Model Architecture</th>
+                <th>Accuracy</th>
+                <th>Precision</th>
+                <th>Recall</th>
+                <th>F1-Score</th>
+                <th>ROC-AUC</th>
+                <th>PR-AUC</th>
+                <th>Opt Thresh</th>
+                <th>Tuned F1</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="highlight-row">
+                <td>Logistic Regression 🏆</td>
+                <td>86.25%</td>
+                <td>70.79%</td>
+                <td>90.00%</td>
+                <td>0.7925</td>
+                <td>0.9602</td>
+                <td>0.9225</td>
+                <td>0.83</td>
+                <td>0.8372</td>
+            </tr>
+            <tr>
+                <td>Gradient Boosting</td>
+                <td>88.75%</td>
+                <td>77.92%</td>
+                <td>85.71%</td>
+                <td>0.8163</td>
+                <td>0.9532</td>
+                <td>0.8980</td>
+                <td>0.45</td>
+                <td>0.8267</td>
+            </tr>
+            <tr>
+                <td>XGBoost</td>
+                <td>85.83%</td>
+                <td>71.43%</td>
+                <td>85.71%</td>
+                <td>0.7792</td>
+                <td>0.9513</td>
+                <td>0.9033</td>
+                <td>0.87</td>
+                <td>0.8189</td>
+            </tr>
+            <tr>
+                <td>Random Forest</td>
+                <td>81.25%</td>
+                <td>62.63%</td>
+                <td>88.57%</td>
+                <td>0.7337</td>
+                <td>0.9349</td>
+                <td>0.8466</td>
+                <td>0.68</td>
+                <td>0.8112</td>
+            </tr>
+            <tr>
+                <td>Decision Tree</td>
+                <td>82.08%</td>
+                <td>63.11%</td>
+                <td>92.86%</td>
+                <td>0.7514</td>
+                <td>0.9245</td>
+                <td>0.8742</td>
+                <td>0.83</td>
+                <td>0.7704</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <img src="visualizations/confusion_matrices.png" alt="Confusion Matrices">
+    <div class="figure-caption">Figure 4.1: Confusion Matrices Grid for All 5 Classification Models</div>
+
+    <img src="visualizations/roc_curves.png" alt="ROC Curves">
+    <div class="figure-caption">Figure 4.2: Receiver Operating Characteristic (ROC) Comparison Curves</div>
+
+    <img src="visualizations/feature_importance.png" alt="Feature Importance">
+    <div class="figure-caption">Figure 4.3: Feature Importance Coefficients of Champion Logistic Regression Model</div>
+
+    <p><strong>4.2 Key Influencing Factors:</strong> <code>Cart_Page_Value_Score</code> (+1.482 weight, 4.40x odds) is the primary conversion driver, while <code>Drop_Off_Exit_Rate_Pct</code> (-1.115 weight, 0.33x odds) represents the main negative penalty.</p>
+
+    <h2>Section 5. Discussion and Conclusion</h2>
+    <p><strong>5.1 Summary of Findings:</strong> The system accurately predicts purchase intent with 86.25% accuracy and 90.00% recall on purchasers, providing transparent, parametric explainability for e-commerce operators.</p>
+    <p><strong>5.2 Limitations:</strong> Sample size N=1,200; self-reported duration recall variance; static session-level metrics rather than real-time sequential clickstream paths.</p>
+    <p><strong>5.3 Actionable Business Recommendations:</strong></p>
+    <div class="callout">
+        <div class="callout-title">STRATEGIC BUSINESS ACTIONS</div>
+        <ol>
+            <li><strong>Dynamic Cart Rescue:</strong> Trigger automated free-shipping or checkout overlays when Cart_Page_Value &gt; $40 and Exit_Rate approaches 3.5%.</li>
+            <li><strong>Frictionless Mobile Checkout:</strong> Integrate Apple Pay and Google Pay to close the 13.6% conversion gap between Mobile and Desktop.</li>
+            <li><strong>Reallocate Acquisition Budget:</strong> Shift 20–30% of top-of-funnel social spending into high-intent Google Search and email marketing.</li>
+            <li><strong>Fast-Track High Intent:</strong> Eliminate secondary survey prompts and newsletter banners for visitors with &gt;80% predicted purchase probability.</li>
+        </ol>
+    </div>
+
+    <h2>Section 6. Appendices</h2>
+    <p><strong>Appendix A: 14-Item Survey Codebook:</strong> Q1 (ID), Q2 (Age), Q3 (Gender), Q4 (Customer Type), Q5 (Device), Q6 (Month), Q7 (Day), Q8 (Referral Channel), Q9 (Products Viewed), Q10 (Browsing Time), Q11 (Cart/Checkout Pages), Q12 (Cart Page Value), Q13 (Exit Rate), Q14 (Completed Purchase).</p>
+    <p><strong>Appendix B: Reproducibility & Environment:</strong> Python 3.13.5, Scikit-Learn 1.6.0, XGBoost 2.1.3, Streamlit 1.40.1. Verified via <code>pytest -v</code> (5/5 unit tests passing).</p>
+
+</div>
+</body>
+</html>
