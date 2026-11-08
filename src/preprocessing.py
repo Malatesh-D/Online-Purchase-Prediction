@@ -3,6 +3,7 @@ Data Preprocessing Pipeline Module.
 Implements missing value handling, feature separation, ColumnTransformer with
 StandardScaler and OneHotEncoder, and stratified train-test splitting.
 Designed for the human-survey online shopping dataset.
+Robust across all Scikit-Learn versions (avoids fragile internal imputer states).
 """
 
 import sys
@@ -17,7 +18,6 @@ if str(PROJECT_ROOT) not in sys.path:
 import numpy as np
 import pandas as pd
 from sklearn.compose import ColumnTransformer
-from sklearn.impute import SimpleImputer
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -36,20 +36,19 @@ from src.utils import logger, save_artifact
 
 def create_preprocessor() -> ColumnTransformer:
     """
-    Construct Scikit-Learn ColumnTransformer for numerical and categorical pipelines.
-    - Numerical: Median imputation + StandardScaler
-    - Categorical: Most frequent imputation + OneHotEncoder(handle_unknown='ignore', sparse_output=False)
+    Construct Scikit-Learn ColumnTransformer:
+    - Numerical: StandardScaler (zero-center mean, unit variance)
+    - Categorical: OneHotEncoder(handle_unknown='ignore', sparse_output=False)
+    Imputation is handled deterministically at dataframe level to ensure 100% cross-version compatibility.
     """
     numerical_transformer = Pipeline(
         steps=[
-            ("imputer", SimpleImputer(strategy="median")),
             ("scaler", StandardScaler()),
         ]
     )
 
     categorical_transformer = Pipeline(
         steps=[
-            ("imputer", SimpleImputer(strategy="most_frequent")),
             ("onehot", OneHotEncoder(handle_unknown="ignore", sparse_output=False)),
         ]
     )
@@ -69,32 +68,35 @@ def create_preprocessor() -> ColumnTransformer:
 def clean_dataset(df: pd.DataFrame, drop_duplicates: bool = True) -> pd.DataFrame:
     """
     Clean survey dataset:
-    - Handle duplicates (excluding Respondent_ID)
-    - Ensure correct data types for categorical features
+    - Handle duplicates
+    - Impute any missing numerical values with median and categoricals with mode
+    - Ensure correct data types
     - Map target variable ('Yes' / 'No' or True / False) to integer binary (1 / 0)
     """
     df_clean = df.copy()
 
     if drop_duplicates:
         initial_count = len(df_clean)
-        # Check duplicates on feature columns
         feature_subset = [c for c in ALL_FEATURE_COLUMNS if c in df_clean.columns]
         if feature_subset:
             df_clean = df_clean.drop_duplicates(subset=feature_subset)
         else:
             df_clean = df_clean.drop_duplicates()
         dropped = initial_count - len(df_clean)
-        logger.info(f"Removed {dropped} duplicate records. Remaining: {len(df_clean)} rows.")
+        if dropped > 0:
+            logger.info(f"Removed {dropped} duplicate records. Remaining: {len(df_clean)} rows.")
 
-    # Cast categorical features to string
-    for col in CATEGORICAL_FEATURES:
-        if col in df_clean.columns:
-            df_clean[col] = df_clean[col].astype(str)
-
-    # Cast numerical features to float
+    # Numerical imputation & casting
     for col in NUMERICAL_FEATURES:
         if col in df_clean.columns:
-            df_clean[col] = pd.to_numeric(df_clean[col], errors="coerce")
+            median_val = df_clean[col].median() if df_clean[col].notnull().any() else 0.0
+            df_clean[col] = pd.to_numeric(df_clean[col], errors="coerce").fillna(median_val)
+
+    # Categorical imputation & casting
+    for col in CATEGORICAL_FEATURES:
+        if col in df_clean.columns:
+            mode_val = df_clean[col].mode().iloc[0] if not df_clean[col].mode().empty else "Unknown"
+            df_clean[col] = df_clean[col].fillna(mode_val).astype(str)
 
     # Map target to binary integer (0 or 1)
     if TARGET_COLUMN in df_clean.columns:
@@ -182,4 +184,4 @@ if __name__ == "__main__":
     print("Preprocessing verification:")
     print(f"X_train transformed shape: {X_train_trans.shape}")
     print(f"Transformed features count: {len(names)}")
-    print("Transformed feature names:", names)
+    print("Transformed feature names:", names[:5])

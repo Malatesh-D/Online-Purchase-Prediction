@@ -11,11 +11,11 @@ ONLINE SHOPPING PURCHASE INTENTION PREDICTION - MODEL EVALUATION REPORT
 
 2. COMPLETE MODEL COMPARISON BENCHMARK:
               Model  CV F1-Score  CV ROC-AUC  Test Accuracy  Test Precision  Test Recall  Test F1-Score  Test ROC-AUC  Test PR-AUC  Optimal Threshold  Tuned F1-Score  Training Time (s)
-Logistic Regression       0.8423      0.9701         0.8625          0.7079       0.9000         0.7925        0.9602       0.9225               0.83          0.8372               8.97
-  Gradient Boosting       0.8296      0.9643         0.8875          0.7792       0.8571         0.8163        0.9532       0.8980               0.45          0.8267               1.67
-            XGBoost       0.8185      0.9642         0.8583          0.7143       0.8571         0.7792        0.9513       0.9033               0.87          0.8189               2.72
-      Random Forest       0.8327      0.9632         0.8125          0.6263       0.8857         0.7337        0.9349       0.8466               0.68          0.8112               3.14
-      Decision Tree       0.7959      0.9414         0.8208          0.6311       0.9286         0.7514        0.9245       0.8742               0.83          0.7704               7.34
+Logistic Regression       0.8423      0.9701         0.8625          0.7079       0.9000         0.7925        0.9602       0.9225               0.83          0.8372               8.41
+  Gradient Boosting       0.8296      0.9643         0.8875          0.7792       0.8571         0.8163        0.9532       0.8980               0.45          0.8267               1.41
+            XGBoost       0.8185      0.9642         0.8583          0.7143       0.8571         0.7792        0.9513       0.9033               0.87          0.8189               1.92
+      Random Forest       0.8327      0.9632         0.8125          0.6263       0.8857         0.7337        0.9349       0.8466               0.68          0.8112               2.91
+      Decision Tree       0.7959      0.9414         0.8208          0.6311       0.9286         0.7514        0.9245       0.8742               0.83          0.7704               6.12
 
 3. MODEL SELECTION RATIONALE:
    - The dataset exhibits an 85:15 negative:positive class imbalance.

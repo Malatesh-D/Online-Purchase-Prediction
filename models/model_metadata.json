@@ -13,7 +13,7 @@
         "Test PR-AUC": 0.9225,
         "Optimal Threshold": 0.83,
         "Tuned F1-Score": 0.8372,
-        "Training Time (s)": 8.97
+        "Training Time (s)": 8.41
     },
     "feature_count": 32,
     "feature_names": [
