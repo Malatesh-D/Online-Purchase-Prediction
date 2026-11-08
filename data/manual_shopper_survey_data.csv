@@ -1,0 +1,1201 @@
+Respondent_ID,Age,Gender,Customer_Type,Primary_Device,Shopping_Month,Shopping_Day,Referral_Channel,Products_Viewed,Browsing_Time_Minutes,Cart_Checkout_Pages_Visited,Cart_Page_Value_Score,Drop_Off_Exit_Rate_Pct,Completed_Purchase,Order_Amount_Spent_USD
+RESP_0001,23,Male,Returning Customer,Smartphone,March,Weekday,Instagram / Social Ad,18,25.0,1,19.95,2.96,No,0.0
+RESP_0002,41,Female,Returning Customer,Smartphone,February,Weekday,Google Search,2,5.8,0,0.0,5.44,No,0.0
+RESP_0003,28,Female,Returning Customer,Smartphone,December,Weekend,Instagram / Social Ad,31,46.4,0,0.0,2.3,No,0.0
+RESP_0004,26,Female,Returning Customer,Smartphone,April,Weekday,Google Search,7,12.6,0,0.0,3.41,No,0.0
+RESP_0005,21,Female,Returning Customer,Smartphone,November,Weekday,Friend Recommendation,9,11.3,0,0.0,3.11,No,0.0
+RESP_0006,21,Male,Returning Customer,Smartphone,August,Weekend,Google Search,7,14.5,0,6.72,4.3,No,0.0
+RESP_0007,19,Male,Returning Customer,Laptop / Desktop,February,Weekday,Google Search,5,5.9,3,119.5,3.15,Yes,182.09
+RESP_0008,35,Female,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,19,15.9,0,0.0,3.33,No,0.0
+RESP_0009,26,Female,New Visitor,Laptop / Desktop,April,Weekday,Instagram / Social Ad,10,16.2,0,0.0,4.55,No,0.0
+RESP_0010,28,Male,Returning Customer,Tablet,November,Weekday,Direct Website Visit,21,21.0,1,32.13,2.48,No,0.0
+RESP_0011,19,Female,Returning Customer,Smartphone,March,Weekend,Instagram / Social Ad,4,9.2,0,0.0,5.71,No,0.0
+RESP_0012,48,Female,Returning Customer,Smartphone,November,Weekend,Google Search,5,9.3,0,0.0,4.27,No,0.0
+RESP_0013,32,Female,Returning Customer,Smartphone,January,Weekend,Google Search,21,28.4,3,44.99,3.69,Yes,69.15
+RESP_0014,21,Male,Returning Customer,Laptop / Desktop,August,Weekday,Instagram / Social Ad,8,10.1,0,0.0,5.03,No,0.0
+RESP_0015,21,Male,Returning Customer,Smartphone,November,Weekday,Google Search,17,15.7,1,52.83,5.49,Yes,86.51
+RESP_0016,21,Female,New Visitor,Smartphone,December,Weekend,Instagram / Social Ad,9,13.7,1,109.64,1.23,Yes,132.21
+RESP_0017,21,Female,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,12,14.5,0,0.0,4.22,No,0.0
+RESP_0018,23,Male,Returning Customer,Laptop / Desktop,November,Weekday,Direct Website Visit,16,17.7,2,80.7,3.1,Yes,127.9
+RESP_0019,23,Male,Returning Customer,Laptop / Desktop,November,Weekday,Friend Recommendation,10,9.3,0,0.0,1.76,No,0.0
+RESP_0020,21,Female,Returning Customer,Smartphone,April,Weekday,Email Promo,15,18.0,2,50.54,2.3,No,0.0
+RESP_0021,26,Male,Returning Customer,Laptop / Desktop,May,Weekday,Friend Recommendation,23,34.7,1,76.35,3.97,Yes,117.83
+RESP_0022,19,Female,Returning Customer,Smartphone,May,Weekend,Google Search,8,13.0,1,13.25,4.38,No,0.0
+RESP_0023,21,Female,New Visitor,Smartphone,June,Weekend,Google Search,8,9.2,1,69.69,1.35,Yes,109.45
+RESP_0024,23,Male,Returning Customer,Laptop / Desktop,June,Weekday,Google Search,8,10.3,2,29.23,0.5,Yes,54.58
+RESP_0025,23,Female,Returning Customer,Smartphone,August,Weekday,Email Promo,24,27.0,0,0.0,5.34,No,0.0
+RESP_0026,32,Male,New Visitor,Smartphone,March,Weekday,Friend Recommendation,8,15.8,1,39.99,5.15,No,0.0
+RESP_0027,21,Female,Returning Customer,Smartphone,October,Weekend,Email Promo,2,3.5,1,43.74,4.24,No,0.0
+RESP_0028,23,Female,New Visitor,Laptop / Desktop,March,Weekday,Google Search,14,14.6,0,0.0,3.3,No,0.0
+RESP_0029,26,Male,Returning Customer,Laptop / Desktop,May,Weekday,Friend Recommendation,8,13.6,0,0.0,6.99,No,0.0
+RESP_0030,19,Female,New Visitor,Laptop / Desktop,August,Weekday,Instagram / Social Ad,4,7.8,2,27.28,4.08,No,0.0
+RESP_0031,26,Male,Returning Customer,Laptop / Desktop,November,Weekday,Google Search,7,10.1,0,1.16,4.16,No,0.0
+RESP_0032,21,Female,New Visitor,Smartphone,November,Weekday,Instagram / Social Ad,23,30.1,0,0.0,3.61,No,0.0
+RESP_0033,19,Female,New Visitor,Smartphone,October,Weekend,Google Search,5,7.7,1,39.41,2.11,Yes,75.33
+RESP_0034,41,Female,Returning Customer,Smartphone,March,Weekday,Instagram / Social Ad,6,10.4,0,0.0,4.03,No,0.0
+RESP_0035,48,Male,New Visitor,Smartphone,August,Weekday,Google Search,11,18.1,0,0.0,5.42,No,0.0
+RESP_0036,32,Female,Returning Customer,Smartphone,February,Weekday,Instagram / Social Ad,10,18.6,2,22.51,2.53,No,0.0
+RESP_0037,21,Male,Returning Customer,Laptop / Desktop,June,Weekday,Instagram / Social Ad,3,6.1,0,0.0,7.83,No,0.0
+RESP_0038,19,Female,Returning Customer,Smartphone,June,Weekend,Email Promo,6,10.6,0,2.98,1.56,No,0.0
+RESP_0039,28,Male,Returning Customer,Smartphone,January,Weekday,Direct Website Visit,34,38.3,1,44.49,1.43,Yes,59.11
+RESP_0040,23,Female,Returning Customer,Smartphone,May,Weekend,Instagram / Social Ad,5,5.2,1,77.85,3.38,Yes,92.99
+RESP_0041,19,Male,Returning Customer,Smartphone,December,Weekday,Direct Website Visit,16,14.9,1,27.84,2.27,No,0.0
+RESP_0042,23,Male,Returning Customer,Laptop / Desktop,December,Weekday,Email Promo,23,28.3,1,114.22,3.25,Yes,118.91
+RESP_0043,19,Male,New Visitor,Smartphone,May,Weekday,Google Search,12,15.1,0,0.0,2.02,No,0.0
+RESP_0044,35,Male,New Visitor,Smartphone,January,Weekday,Instagram / Social Ad,4,8.3,4,41.11,2.97,Yes,63.59
+RESP_0045,21,Male,Returning Customer,Laptop / Desktop,March,Weekday,Google Search,8,10.9,2,100.23,0.67,Yes,135.97
+RESP_0046,26,Male,Returning Customer,Smartphone,June,Weekend,Google Search,23,22.9,0,0.0,2.0,No,0.0
+RESP_0047,21,Female,Returning Customer,Smartphone,December,Weekday,Direct Website Visit,3,6.4,3,133.09,7.4,Yes,192.0
+RESP_0048,23,Female,Returning Customer,Smartphone,March,Weekday,Email Promo,24,25.5,2,60.4,3.41,Yes,94.83
+RESP_0049,26,Male,Returning Customer,Smartphone,November,Weekend,Google Search,9,14.1,1,86.69,3.78,Yes,102.48
+RESP_0050,21,Male,Returning Customer,Tablet,February,Weekend,Direct Website Visit,34,42.8,0,0.86,3.58,No,0.0
+RESP_0051,48,Male,Returning Customer,Laptop / Desktop,December,Weekday,Email Promo,3,5.6,0,0.0,6.99,No,0.0
+RESP_0052,28,Female,New Visitor,Smartphone,June,Weekend,Email Promo,24,36.8,0,0.0,5.15,No,0.0
+RESP_0053,41,Female,Returning Customer,Laptop / Desktop,November,Weekday,Google Search,9,10.2,0,0.0,2.87,No,0.0
+RESP_0054,35,Female,Returning Customer,Smartphone,May,Weekday,Email Promo,8,16.2,2,72.91,4.73,Yes,115.53
+RESP_0055,26,Male,Returning Customer,Smartphone,September,Weekend,Google Search,31,46.0,0,0.0,4.49,No,0.0
+RESP_0056,41,Female,Returning Customer,Smartphone,April,Weekday,Instagram / Social Ad,1,8.5,1,17.84,6.51,No,0.0
+RESP_0057,19,Female,Returning Customer,Smartphone,March,Weekday,Google Search,12,15.6,0,0.0,3.92,No,0.0
+RESP_0058,21,Female,Returning Customer,Smartphone,December,Weekday,Google Search,6,9.8,1,31.29,3.66,No,0.0
+RESP_0059,19,Female,Returning Customer,Laptop / Desktop,December,Weekend,Direct Website Visit,4,9.5,3,55.5,3.93,Yes,90.69
+RESP_0060,21,Male,Returning Customer,Laptop / Desktop,November,Weekend,Instagram / Social Ad,2,7.0,0,0.0,3.59,No,0.0
+RESP_0061,23,Female,New Visitor,Smartphone,September,Weekday,Google Search,21,30.0,2,58.91,0.5,Yes,94.34
+RESP_0062,21,Male,New Visitor,Smartphone,November,Weekday,Google Search,8,12.5,0,0.0,4.18,No,0.0
+RESP_0063,32,Female,Returning Customer,Smartphone,February,Weekday,Direct Website Visit,8,7.8,1,65.56,5.06,No,0.0
+RESP_0064,23,Female,Returning Customer,Smartphone,May,Weekday,Google Search,28,39.3,0,0.0,4.84,No,0.0
+RESP_0065,21,Female,Returning Customer,Smartphone,May,Weekday,Direct Website Visit,13,17.5,0,0.0,1.19,No,0.0
+RESP_0066,26,Female,Returning Customer,Smartphone,October,Weekend,Google Search,3,7.9,0,14.69,8.15,No,0.0
+RESP_0067,19,Female,Returning Customer,Laptop / Desktop,May,Weekday,Google Search,49,50.4,0,0.0,8.07,No,0.0
+RESP_0068,32,Female,Returning Customer,Smartphone,March,Weekday,Instagram / Social Ad,4,3.3,0,0.0,3.61,No,0.0
+RESP_0069,19,Male,Returning Customer,Smartphone,September,Weekday,Instagram / Social Ad,9,14.0,1,83.86,0.5,Yes,117.4
+RESP_0070,55,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,4,6.3,2,64.04,3.4,Yes,97.29
+RESP_0071,28,Male,Returning Customer,Smartphone,June,Weekend,Google Search,7,4.8,0,0.0,4.03,No,0.0
+RESP_0072,21,Male,New Visitor,Smartphone,March,Weekday,Friend Recommendation,11,13.7,0,0.0,2.93,No,0.0
+RESP_0073,19,Male,New Visitor,Laptop / Desktop,April,Weekday,Instagram / Social Ad,13,17.7,1,17.56,2.94,No,0.0
+RESP_0074,32,Female,Returning Customer,Smartphone,April,Weekday,Google Search,14,13.5,1,55.58,4.48,Yes,72.46
+RESP_0075,28,Female,Returning Customer,Laptop / Desktop,May,Weekday,Instagram / Social Ad,1,3.7,0,0.0,5.91,No,0.0
+RESP_0076,28,Female,New Visitor,Smartphone,October,Weekday,Email Promo,15,16.7,0,0.0,4.19,No,0.0
+RESP_0077,28,Female,Returning Customer,Smartphone,September,Weekday,Google Search,7,9.8,3,103.64,0.5,Yes,116.12
+RESP_0078,19,Male,New Visitor,Smartphone,October,Weekday,Google Search,4,5.2,1,66.42,8.56,Yes,91.61
+RESP_0079,23,Female,Returning Customer,Laptop / Desktop,May,Weekday,Direct Website Visit,69,75.0,3,148.59,1.26,Yes,186.64
+RESP_0080,19,Female,New Visitor,Smartphone,November,Weekday,Instagram / Social Ad,9,15.3,0,4.82,6.51,No,0.0
+RESP_0081,35,Male,Returning Customer,Laptop / Desktop,April,Weekday,Instagram / Social Ad,25,28.6,0,4.3,6.55,No,0.0
+RESP_0082,26,Male,New Visitor,Smartphone,July,Weekend,Google Search,34,34.4,1,17.48,1.62,No,0.0
+RESP_0083,21,Male,New Visitor,Laptop / Desktop,November,Weekday,Google Search,3,5.4,3,124.55,5.02,Yes,177.37
+RESP_0084,19,Female,Returning Customer,Smartphone,March,Weekday,Instagram / Social Ad,17,30.2,0,0.0,4.43,No,0.0
+RESP_0085,21,Female,Returning Customer,Laptop / Desktop,February,Weekday,Google Search,4,7.2,0,4.97,4.54,No,0.0
+RESP_0086,21,Female,New Visitor,Smartphone,November,Weekday,Instagram / Social Ad,9,13.3,1,30.55,4.38,Yes,60.8
+RESP_0087,28,Female,Returning Customer,Laptop / Desktop,May,Weekend,Instagram / Social Ad,6,17.1,0,0.0,5.53,No,0.0
+RESP_0088,26,Female,New Visitor,Smartphone,October,Weekday,Google Search,19,32.7,0,0.0,5.31,No,0.0
+RESP_0089,35,Female,Returning Customer,Smartphone,January,Weekday,Friend Recommendation,11,14.3,0,15.73,5.36,No,0.0
+RESP_0090,23,Female,Returning Customer,Smartphone,October,Weekday,Email Promo,31,36.6,0,3.63,2.84,No,0.0
+RESP_0091,19,Female,Returning Customer,Laptop / Desktop,May,Weekday,Direct Website Visit,48,51.0,1,82.99,4.87,Yes,107.36
+RESP_0092,28,Female,Returning Customer,Smartphone,January,Weekend,Google Search,19,21.8,0,0.0,3.37,No,0.0
+RESP_0093,28,Male,New Visitor,Laptop / Desktop,September,Weekday,Google Search,24,26.0,0,0.0,3.11,No,0.0
+RESP_0094,26,Male,Returning Customer,Smartphone,April,Weekday,Instagram / Social Ad,10,13.6,0,0.0,2.54,No,0.0
+RESP_0095,28,Male,Returning Customer,Smartphone,June,Weekday,Google Search,2,8.5,0,0.0,4.31,No,0.0
+RESP_0096,23,Female,Returning Customer,Smartphone,February,Weekend,Friend Recommendation,10,12.0,1,43.96,4.01,No,0.0
+RESP_0097,23,Female,Returning Customer,Tablet,March,Weekday,Google Search,25,30.4,0,0.0,6.67,No,0.0
+RESP_0098,23,Female,New Visitor,Laptop / Desktop,May,Weekend,Instagram / Social Ad,16,27.4,2,48.24,1.9,Yes,74.24
+RESP_0099,19,Male,New Visitor,Laptop / Desktop,February,Weekday,Instagram / Social Ad,26,25.6,0,0.0,4.77,No,0.0
+RESP_0100,19,Male,Returning Customer,Smartphone,December,Weekend,Instagram / Social Ad,4,5.3,2,58.45,6.07,Yes,86.43
+RESP_0101,19,Female,New Visitor,Laptop / Desktop,January,Weekday,Google Search,3,9.5,3,46.14,4.4,Yes,78.02
+RESP_0102,26,Male,New Visitor,Laptop / Desktop,July,Weekend,Instagram / Social Ad,21,28.7,1,35.08,2.71,No,0.0
+RESP_0103,21,Female,Returning Customer,Smartphone,March,Weekday,Google Search,14,27.4,2,72.22,3.2,Yes,83.84
+RESP_0104,23,Male,New Visitor,Laptop / Desktop,May,Weekend,Email Promo,7,12.2,2,63.94,4.52,Yes,84.83
+RESP_0105,35,Male,Returning Customer,Laptop / Desktop,December,Weekday,Google Search,10,11.1,2,66.0,4.65,Yes,100.44
+RESP_0106,21,Male,Returning Customer,Laptop / Desktop,March,Weekday,Email Promo,4,3.1,1,87.36,4.46,Yes,119.79
+RESP_0107,23,Male,New Visitor,Laptop / Desktop,December,Weekday,Email Promo,18,19.9,0,0.0,2.66,No,0.0
+RESP_0108,28,Male,Returning Customer,Smartphone,April,Weekday,Google Search,15,14.0,0,0.0,4.3,No,0.0
+RESP_0109,21,Female,New Visitor,Smartphone,November,Weekday,Direct Website Visit,10,8.6,1,36.23,3.74,No,0.0
+RESP_0110,19,Male,New Visitor,Tablet,August,Weekend,Google Search,5,11.2,3,193.62,0.5,Yes,291.68
+RESP_0111,21,Female,Returning Customer,Smartphone,November,Weekend,Friend Recommendation,18,21.6,2,44.08,3.31,No,0.0
+RESP_0112,21,Male,New Visitor,Laptop / Desktop,August,Weekday,Instagram / Social Ad,4,5.0,0,1.13,6.64,No,0.0
+RESP_0113,41,Male,Returning Customer,Laptop / Desktop,August,Weekend,Google Search,7,9.1,4,70.16,0.5,Yes,101.4
+RESP_0114,32,Male,Returning Customer,Laptop / Desktop,April,Weekday,Instagram / Social Ad,7,12.6,0,0.0,4.55,No,0.0
+RESP_0115,26,Female,Returning Customer,Tablet,March,Weekday,Google Search,27,20.2,1,95.52,3.22,No,0.0
+RESP_0116,35,Male,New Visitor,Smartphone,December,Weekday,Friend Recommendation,11,16.7,0,10.13,4.52,No,0.0
+RESP_0117,32,Male,Returning Customer,Smartphone,May,Weekday,Google Search,7,10.3,2,27.09,2.63,No,0.0
+RESP_0118,21,Male,Returning Customer,Smartphone,June,Weekend,Direct Website Visit,9,10.0,1,36.86,0.5,Yes,72.02
+RESP_0119,35,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,10,11.7,1,45.0,3.54,No,0.0
+RESP_0120,26,Female,Returning Customer,Smartphone,May,Weekday,Friend Recommendation,5,9.8,1,43.55,1.25,No,0.0
+RESP_0121,32,Female,Returning Customer,Smartphone,December,Weekday,Google Search,17,21.1,1,51.21,4.77,No,0.0
+RESP_0122,35,Female,Returning Customer,Laptop / Desktop,November,Weekday,Instagram / Social Ad,8,15.9,0,0.0,5.89,No,0.0
+RESP_0123,21,Male,Returning Customer,Laptop / Desktop,September,Weekday,Instagram / Social Ad,10,10.8,0,0.0,0.93,No,0.0
+RESP_0124,19,Female,Returning Customer,Smartphone,November,Weekend,Direct Website Visit,9,16.0,0,7.93,6.09,No,0.0
+RESP_0125,21,Male,New Visitor,Smartphone,January,Weekend,Google Search,46,59.6,2,60.79,1.9,Yes,101.4
+RESP_0126,23,Female,Returning Customer,Laptop / Desktop,May,Weekend,Google Search,3,5.7,0,0.0,7.29,No,0.0
+RESP_0127,32,Female,Returning Customer,Smartphone,July,Weekday,Google Search,6,11.0,0,0.0,5.31,No,0.0
+RESP_0128,35,Male,New Visitor,Smartphone,April,Weekday,Direct Website Visit,2,3.6,0,0.0,6.23,No,0.0
+RESP_0129,19,Male,Returning Customer,Smartphone,November,Weekday,Google Search,32,27.8,0,0.0,6.23,No,0.0
+RESP_0130,23,Female,New Visitor,Smartphone,December,Weekday,Instagram / Social Ad,9,10.7,2,53.58,2.79,Yes,95.23
+RESP_0131,23,Male,Returning Customer,Smartphone,June,Weekday,Google Search,3,7.0,1,57.68,4.45,No,0.0
+RESP_0132,21,Male,New Visitor,Tablet,May,Weekend,Email Promo,11,17.4,0,0.0,1.99,No,0.0
+RESP_0133,19,Female,Returning Customer,Smartphone,December,Weekday,Friend Recommendation,31,35.9,0,0.0,4.38,No,0.0
+RESP_0134,21,Male,Returning Customer,Smartphone,July,Weekday,Instagram / Social Ad,5,4.5,0,0.11,5.44,No,0.0
+RESP_0135,41,Male,Returning Customer,Smartphone,July,Weekday,Instagram / Social Ad,9,9.2,0,0.0,4.02,No,0.0
+RESP_0136,21,Male,New Visitor,Smartphone,May,Weekday,Google Search,17,20.4,0,0.0,4.59,No,0.0
+RESP_0137,23,Female,Returning Customer,Laptop / Desktop,December,Weekday,Google Search,5,10.1,0,0.0,4.14,No,0.0
+RESP_0138,28,Male,Returning Customer,Laptop / Desktop,September,Weekend,Google Search,28,31.2,0,0.0,2.72,No,0.0
+RESP_0139,23,Female,New Visitor,Laptop / Desktop,November,Weekday,Direct Website Visit,17,20.1,0,0.0,6.32,No,0.0
+RESP_0140,48,Female,New Visitor,Smartphone,November,Weekend,Instagram / Social Ad,10,6.5,1,49.42,4.72,No,0.0
+RESP_0141,48,Female,Returning Customer,Laptop / Desktop,May,Weekday,Friend Recommendation,2,9.0,0,0.0,2.42,No,0.0
+RESP_0142,21,Female,New Visitor,Laptop / Desktop,July,Weekday,Instagram / Social Ad,8,14.9,0,4.56,4.86,No,0.0
+RESP_0143,23,Male,New Visitor,Laptop / Desktop,November,Weekday,Direct Website Visit,17,25.3,0,0.0,3.99,No,0.0
+RESP_0144,21,Male,Returning Customer,Smartphone,May,Weekend,Instagram / Social Ad,18,14.6,2,36.74,1.49,No,0.0
+RESP_0145,21,Male,Returning Customer,Smartphone,November,Weekend,Instagram / Social Ad,9,12.6,2,37.31,4.09,Yes,65.48
+RESP_0146,19,Female,Returning Customer,Smartphone,December,Weekday,Google Search,6,9.3,0,0.0,3.7,No,0.0
+RESP_0147,26,Female,Returning Customer,Laptop / Desktop,September,Weekday,Instagram / Social Ad,17,25.8,1,24.05,4.63,No,0.0
+RESP_0148,23,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,22,18.7,0,0.0,4.82,No,0.0
+RESP_0149,19,Male,Returning Customer,Smartphone,November,Weekday,Direct Website Visit,17,19.7,3,37.27,1.53,Yes,70.58
+RESP_0150,21,Female,Returning Customer,Laptop / Desktop,November,Weekend,Friend Recommendation,5,9.6,0,3.75,4.25,No,0.0
+RESP_0151,35,Male,Returning Customer,Laptop / Desktop,June,Weekday,Google Search,36,37.2,0,0.0,4.1,No,0.0
+RESP_0152,21,Male,Returning Customer,Laptop / Desktop,January,Weekday,Google Search,8,10.4,1,38.56,3.32,Yes,75.46
+RESP_0153,19,Female,New Visitor,Smartphone,June,Weekday,Instagram / Social Ad,15,18.4,1,40.0,4.32,No,0.0
+RESP_0154,23,Male,New Visitor,Laptop / Desktop,October,Weekday,Instagram / Social Ad,4,9.0,0,18.89,6.7,No,0.0
+RESP_0155,55,Female,Returning Customer,Smartphone,July,Weekday,Google Search,1,2.8,1,72.48,6.5,Yes,103.2
+RESP_0156,21,Male,New Visitor,Smartphone,November,Weekday,Direct Website Visit,9,13.6,2,121.57,3.83,Yes,185.89
+RESP_0157,26,Male,Returning Customer,Smartphone,May,Weekend,Friend Recommendation,5,9.0,2,96.57,0.5,Yes,111.08
+RESP_0158,28,Female,Returning Customer,Smartphone,October,Weekend,Friend Recommendation,10,16.1,1,46.04,3.59,No,0.0
+RESP_0159,21,Female,Returning Customer,Smartphone,March,Weekday,Google Search,18,28.7,1,34.18,2.05,No,0.0
+RESP_0160,28,Male,Returning Customer,Laptop / Desktop,November,Weekend,Email Promo,5,12.0,1,29.02,0.5,Yes,50.8
+RESP_0161,23,Male,New Visitor,Smartphone,August,Weekday,Direct Website Visit,17,27.8,0,0.0,3.33,No,0.0
+RESP_0162,26,Female,Returning Customer,Laptop / Desktop,April,Weekday,Instagram / Social Ad,16,26.4,0,6.83,3.91,No,0.0
+RESP_0163,26,Male,Returning Customer,Smartphone,May,Weekday,Instagram / Social Ad,11,17.5,0,0.0,4.96,No,0.0
+RESP_0164,26,Male,Returning Customer,Smartphone,November,Weekday,Email Promo,11,13.5,3,56.14,1.36,Yes,97.04
+RESP_0165,19,Male,Returning Customer,Smartphone,July,Weekday,Instagram / Social Ad,6,8.7,0,10.82,4.1,No,0.0
+RESP_0166,32,Female,Returning Customer,Smartphone,April,Weekday,Instagram / Social Ad,7,6.6,1,38.97,3.84,No,0.0
+RESP_0167,21,Male,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,4,5.3,0,0.0,6.38,No,0.0
+RESP_0168,21,Male,Returning Customer,Smartphone,October,Weekend,Instagram / Social Ad,4,9.9,0,0.0,6.79,No,0.0
+RESP_0169,19,Female,New Visitor,Smartphone,December,Weekday,Google Search,3,8.1,1,182.82,3.45,Yes,199.55
+RESP_0170,26,Female,New Visitor,Smartphone,June,Weekday,Email Promo,15,12.7,1,41.01,3.51,No,0.0
+RESP_0171,26,Male,Returning Customer,Smartphone,July,Weekday,Direct Website Visit,25,24.2,3,67.58,3.49,Yes,91.23
+RESP_0172,19,Female,New Visitor,Laptop / Desktop,November,Weekday,Instagram / Social Ad,28,40.6,0,0.0,3.27,No,0.0
+RESP_0173,23,Male,Returning Customer,Smartphone,August,Weekday,Google Search,3,8.9,2,76.17,4.56,Yes,101.29
+RESP_0174,21,Female,Returning Customer,Laptop / Desktop,October,Weekend,Instagram / Social Ad,7,9.1,0,0.0,2.97,No,0.0
+RESP_0175,26,Female,Returning Customer,Laptop / Desktop,May,Weekday,Google Search,28,25.1,4,46.28,3.83,Yes,72.4
+RESP_0176,21,Male,Returning Customer,Laptop / Desktop,July,Weekday,Google Search,2,5.3,2,27.41,3.84,No,0.0
+RESP_0177,28,Female,New Visitor,Laptop / Desktop,March,Weekday,Instagram / Social Ad,8,14.1,1,101.56,2.87,Yes,114.98
+RESP_0178,23,Female,Returning Customer,Smartphone,April,Weekday,Instagram / Social Ad,5,8.4,1,27.0,4.76,No,0.0
+RESP_0179,41,Female,Returning Customer,Laptop / Desktop,January,Weekday,Instagram / Social Ad,3,9.7,0,0.0,4.5,No,0.0
+RESP_0180,19,Male,Returning Customer,Laptop / Desktop,January,Weekday,Google Search,10,15.7,1,34.89,3.3,No,0.0
+RESP_0181,21,Female,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,36,51.3,0,0.0,2.95,No,0.0
+RESP_0182,19,Female,New Visitor,Smartphone,April,Weekday,Google Search,12,18.7,0,0.0,4.97,No,0.0
+RESP_0183,41,Male,Returning Customer,Smartphone,October,Weekday,Friend Recommendation,12,24.5,0,0.0,2.49,No,0.0
+RESP_0184,35,Female,Returning Customer,Laptop / Desktop,November,Weekend,Instagram / Social Ad,11,12.2,0,0.0,6.83,No,0.0
+RESP_0185,21,Male,Returning Customer,Laptop / Desktop,August,Weekday,Direct Website Visit,5,7.8,1,39.7,3.26,No,0.0
+RESP_0186,26,Female,Returning Customer,Smartphone,March,Weekend,Google Search,12,21.0,4,89.52,0.5,Yes,127.02
+RESP_0187,32,Male,Returning Customer,Smartphone,November,Weekend,Google Search,5,8.2,0,0.0,3.91,No,0.0
+RESP_0188,26,Female,Returning Customer,Smartphone,September,Weekday,Friend Recommendation,17,22.2,2,89.19,2.43,Yes,134.09
+RESP_0189,23,Male,Returning Customer,Smartphone,November,Weekday,Google Search,5,9.1,2,142.51,4.07,Yes,155.58
+RESP_0190,21,Female,Returning Customer,Tablet,November,Weekday,Instagram / Social Ad,8,4.8,1,43.48,0.86,No,0.0
+RESP_0191,19,Female,New Visitor,Smartphone,December,Weekday,Instagram / Social Ad,7,14.9,1,38.97,6.28,Yes,71.7
+RESP_0192,35,Female,New Visitor,Smartphone,September,Weekday,Google Search,3,7.1,1,42.34,6.23,No,0.0
+RESP_0193,35,Female,Returning Customer,Smartphone,May,Weekend,Direct Website Visit,6,8.6,0,0.0,2.64,No,0.0
+RESP_0194,26,Female,Returning Customer,Laptop / Desktop,October,Weekend,Instagram / Social Ad,16,15.4,0,0.0,4.27,No,0.0
+RESP_0195,21,Female,Returning Customer,Smartphone,February,Weekday,Google Search,10,15.9,0,0.0,4.41,No,0.0
+RESP_0196,21,Male,New Visitor,Laptop / Desktop,November,Weekday,Google Search,42,63.1,0,0.0,0.89,No,0.0
+RESP_0197,28,Female,Returning Customer,Smartphone,March,Weekday,Google Search,9,18.0,1,31.29,5.01,No,0.0
+RESP_0198,35,Female,Returning Customer,Smartphone,May,Weekend,Email Promo,2,1.0,0,1.05,5.1,No,0.0
+RESP_0199,35,Male,Returning Customer,Smartphone,November,Weekday,Direct Website Visit,8,8.8,2,174.87,4.33,Yes,244.73
+RESP_0200,28,Male,Returning Customer,Smartphone,September,Weekday,Google Search,1,2.6,1,23.67,1.83,Yes,48.34
+RESP_0201,26,Female,Returning Customer,Smartphone,June,Weekday,Google Search,7,7.1,3,38.11,0.57,Yes,58.97
+RESP_0202,19,Female,Returning Customer,Laptop / Desktop,July,Weekday,Direct Website Visit,8,10.9,1,59.18,3.28,No,0.0
+RESP_0203,21,Female,Returning Customer,Laptop / Desktop,November,Weekend,Instagram / Social Ad,8,16.4,3,42.91,1.49,Yes,75.19
+RESP_0204,35,Male,Returning Customer,Tablet,May,Weekday,Instagram / Social Ad,12,20.2,0,1.27,1.57,No,0.0
+RESP_0205,26,Male,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,6,8.0,0,0.0,4.58,No,0.0
+RESP_0206,19,Female,Returning Customer,Tablet,February,Weekend,Google Search,5,9.9,0,1.73,1.28,No,0.0
+RESP_0207,19,Male,Returning Customer,Smartphone,November,Weekday,Direct Website Visit,4,8.7,3,51.01,0.5,No,0.0
+RESP_0208,26,Male,Returning Customer,Smartphone,November,Weekday,Friend Recommendation,109,75.0,2,64.12,1.39,Yes,105.63
+RESP_0209,19,Male,Returning Customer,Smartphone,March,Weekday,Google Search,25,27.9,1,17.86,5.22,No,0.0
+RESP_0210,21,Male,Returning Customer,Smartphone,July,Weekday,Instagram / Social Ad,12,19.5,1,46.29,4.32,No,0.0
+RESP_0211,26,Female,New Visitor,Laptop / Desktop,March,Weekday,Instagram / Social Ad,4,10.6,2,47.26,3.71,No,0.0
+RESP_0212,28,Female,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,22,29.9,1,48.74,3.36,Yes,69.29
+RESP_0213,26,Female,Returning Customer,Smartphone,August,Weekday,Google Search,5,6.4,4,59.76,0.83,Yes,103.2
+RESP_0214,21,Female,Returning Customer,Laptop / Desktop,October,Weekday,Direct Website Visit,13,15.5,2,51.29,2.37,No,0.0
+RESP_0215,28,Male,Returning Customer,Smartphone,April,Weekend,Instagram / Social Ad,3,6.8,1,83.99,3.79,Yes,106.7
+RESP_0216,21,Male,Returning Customer,Smartphone,April,Weekend,Instagram / Social Ad,6,8.5,1,31.73,1.22,No,0.0
+RESP_0217,21,Female,Returning Customer,Smartphone,January,Weekday,Google Search,1,4.1,1,64.66,5.45,No,0.0
+RESP_0218,28,Female,Returning Customer,Laptop / Desktop,May,Weekday,Google Search,4,6.7,4,152.19,0.95,Yes,175.56
+RESP_0219,26,Female,New Visitor,Laptop / Desktop,August,Weekday,Google Search,17,29.7,4,48.57,0.5,Yes,84.67
+RESP_0220,32,Male,Returning Customer,Smartphone,November,Weekday,Direct Website Visit,31,48.0,0,0.0,2.96,No,0.0
+RESP_0221,26,Female,New Visitor,Smartphone,October,Weekend,Google Search,5,9.8,2,33.0,0.5,Yes,43.95
+RESP_0222,26,Female,New Visitor,Smartphone,July,Weekday,Direct Website Visit,6,9.7,0,0.0,1.53,No,0.0
+RESP_0223,19,Female,Returning Customer,Laptop / Desktop,December,Weekday,Instagram / Social Ad,22,25.7,1,118.99,3.47,Yes,145.39
+RESP_0224,23,Female,New Visitor,Smartphone,October,Weekday,Instagram / Social Ad,4,12.9,1,44.0,5.26,Yes,82.01
+RESP_0225,21,Male,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,2,2.8,1,50.5,3.91,No,0.0
+RESP_0226,21,Male,New Visitor,Smartphone,August,Weekday,Instagram / Social Ad,8,10.7,1,45.66,3.73,No,0.0
+RESP_0227,48,Female,Returning Customer,Smartphone,May,Weekday,Google Search,15,25.0,0,0.0,0.98,No,0.0
+RESP_0228,23,Male,Returning Customer,Smartphone,January,Weekend,Google Search,42,64.0,1,42.91,2.93,Yes,76.5
+RESP_0229,35,Male,Returning Customer,Laptop / Desktop,November,Weekend,Direct Website Visit,14,22.3,0,0.0,4.58,No,0.0
+RESP_0230,26,Male,Returning Customer,Smartphone,March,Weekday,Direct Website Visit,8,11.5,1,54.31,2.51,No,0.0
+RESP_0231,32,Female,Returning Customer,Smartphone,May,Weekday,Google Search,10,11.4,2,30.15,5.23,No,0.0
+RESP_0232,23,Female,Returning Customer,Laptop / Desktop,August,Weekend,Instagram / Social Ad,18,22.9,1,52.87,4.22,No,0.0
+RESP_0233,26,Female,Returning Customer,Laptop / Desktop,September,Weekday,Google Search,8,11.7,1,57.77,4.14,Yes,73.0
+RESP_0234,23,Male,Returning Customer,Smartphone,September,Weekday,Google Search,12,17.2,2,55.55,1.9,No,0.0
+RESP_0235,21,Female,Returning Customer,Smartphone,March,Weekday,Google Search,19,28.7,3,95.66,2.58,Yes,137.49
+RESP_0236,28,Female,Returning Customer,Smartphone,June,Weekend,Email Promo,3,2.9,3,36.78,4.62,Yes,59.42
+RESP_0237,21,Female,New Visitor,Laptop / Desktop,September,Weekday,Google Search,9,18.9,0,0.0,4.35,No,0.0
+RESP_0238,19,Male,New Visitor,Smartphone,December,Weekday,Google Search,16,20.1,1,130.55,0.74,Yes,136.65
+RESP_0239,26,Female,New Visitor,Laptop / Desktop,November,Weekend,Google Search,3,4.6,3,71.35,2.58,Yes,90.15
+RESP_0240,21,Male,Returning Customer,Laptop / Desktop,December,Weekend,Google Search,12,15.3,0,0.0,3.35,No,0.0
+RESP_0241,41,Male,Returning Customer,Smartphone,November,Weekend,Instagram / Social Ad,7,4.7,2,80.8,1.21,Yes,131.38
+RESP_0242,41,Female,Returning Customer,Smartphone,September,Weekday,Google Search,11,15.6,0,0.0,3.3,No,0.0
+RESP_0243,35,Male,New Visitor,Smartphone,April,Weekday,Google Search,27,33.4,1,56.49,1.97,No,0.0
+RESP_0244,23,Female,Returning Customer,Smartphone,October,Weekend,Instagram / Social Ad,4,9.1,2,36.29,6.48,No,0.0
+RESP_0245,19,Male,Returning Customer,Smartphone,September,Weekend,Google Search,8,15.1,2,45.75,0.79,No,0.0
+RESP_0246,41,Female,Returning Customer,Laptop / Desktop,September,Weekday,Direct Website Visit,9,14.2,0,0.0,2.94,No,0.0
+RESP_0247,23,Male,New Visitor,Tablet,July,Weekday,Instagram / Social Ad,1,7.1,2,51.31,5.72,Yes,83.52
+RESP_0248,48,Male,Returning Customer,Smartphone,August,Weekend,Google Search,3,3.3,2,69.86,3.95,Yes,101.22
+RESP_0249,48,Male,Returning Customer,Laptop / Desktop,May,Weekend,Direct Website Visit,17,23.3,1,40.44,0.5,Yes,59.21
+RESP_0250,32,Male,Returning Customer,Smartphone,August,Weekday,Google Search,8,11.7,0,4.19,4.99,No,0.0
+RESP_0251,21,Female,Returning Customer,Smartphone,April,Weekday,Instagram / Social Ad,14,24.2,0,0.84,3.06,No,0.0
+RESP_0252,23,Male,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,4,9.7,0,0.0,4.45,No,0.0
+RESP_0253,32,Male,Returning Customer,Laptop / Desktop,March,Weekday,Google Search,6,10.2,1,96.33,4.26,Yes,153.56
+RESP_0254,21,Male,Returning Customer,Laptop / Desktop,February,Weekday,Instagram / Social Ad,7,8.3,0,0.83,4.09,No,0.0
+RESP_0255,21,Female,New Visitor,Laptop / Desktop,July,Weekday,Email Promo,10,14.4,0,0.0,4.07,No,0.0
+RESP_0256,26,Male,Returning Customer,Smartphone,October,Weekday,Friend Recommendation,10,19.0,1,86.74,3.18,Yes,110.76
+RESP_0257,41,Male,New Visitor,Smartphone,July,Weekday,Instagram / Social Ad,17,23.9,0,0.0,2.99,No,0.0
+RESP_0258,28,Male,New Visitor,Smartphone,May,Weekday,Instagram / Social Ad,20,25.6,2,66.95,2.38,Yes,84.01
+RESP_0259,26,Female,Returning Customer,Smartphone,August,Weekend,Google Search,1,4.6,1,17.91,5.74,No,0.0
+RESP_0260,19,Male,Returning Customer,Laptop / Desktop,May,Weekday,Google Search,2,4.0,0,0.0,5.19,No,0.0
+RESP_0261,26,Female,Returning Customer,Laptop / Desktop,December,Weekday,Instagram / Social Ad,11,12.9,0,0.58,3.14,No,0.0
+RESP_0262,55,Male,New Visitor,Laptop / Desktop,December,Weekend,Instagram / Social Ad,23,31.0,0,0.0,3.53,No,0.0
+RESP_0263,19,Female,Returning Customer,Smartphone,August,Weekday,Email Promo,13,16.9,1,114.29,2.61,Yes,126.21
+RESP_0264,23,Male,Returning Customer,Smartphone,May,Weekend,Instagram / Social Ad,11,18.9,0,0.0,7.7,No,0.0
+RESP_0265,35,Male,Returning Customer,Smartphone,November,Weekend,Instagram / Social Ad,21,27.0,0,0.0,2.81,No,0.0
+RESP_0266,28,Female,Returning Customer,Smartphone,January,Weekday,Instagram / Social Ad,7,13.9,2,46.68,4.04,No,0.0
+RESP_0267,28,Male,Returning Customer,Smartphone,July,Weekend,Email Promo,32,34.0,0,0.0,5.72,No,0.0
+RESP_0268,28,Female,Returning Customer,Laptop / Desktop,May,Weekday,Direct Website Visit,4,4.6,0,11.74,6.56,No,0.0
+RESP_0269,23,Male,Returning Customer,Laptop / Desktop,December,Weekday,Instagram / Social Ad,5,8.1,1,73.91,4.49,Yes,85.64
+RESP_0270,21,Male,Returning Customer,Smartphone,January,Weekday,Google Search,43,42.4,0,1.7,5.79,No,0.0
+RESP_0271,32,Male,Returning Customer,Smartphone,August,Weekday,Direct Website Visit,17,26.0,1,115.64,4.26,Yes,135.69
+RESP_0272,32,Male,Returning Customer,Smartphone,November,Weekend,Google Search,19,19.2,1,91.42,4.94,Yes,127.24
+RESP_0273,35,Male,Returning Customer,Smartphone,July,Weekday,Email Promo,4,9.6,1,54.42,3.23,Yes,84.51
+RESP_0274,35,Female,Returning Customer,Laptop / Desktop,February,Weekday,Instagram / Social Ad,12,17.4,0,15.47,4.13,No,0.0
+RESP_0275,23,Female,New Visitor,Smartphone,December,Weekday,Instagram / Social Ad,11,14.8,0,3.98,4.23,No,0.0
+RESP_0276,23,Male,Returning Customer,Smartphone,August,Weekday,Instagram / Social Ad,3,8.0,0,0.0,5.32,No,0.0
+RESP_0277,32,Male,Returning Customer,Smartphone,September,Weekday,Direct Website Visit,16,24.9,3,82.47,4.52,Yes,136.59
+RESP_0278,26,Male,Returning Customer,Laptop / Desktop,April,Weekday,Google Search,30,23.3,0,0.0,4.56,No,0.0
+RESP_0279,28,Male,Returning Customer,Smartphone,July,Weekend,Email Promo,23,35.1,0,8.44,4.18,No,0.0
+RESP_0280,32,Female,Returning Customer,Smartphone,June,Weekday,Instagram / Social Ad,2,6.5,0,0.0,5.94,No,0.0
+RESP_0281,35,Male,Returning Customer,Smartphone,February,Weekend,Google Search,2,3.4,2,108.73,1.88,Yes,147.31
+RESP_0282,21,Female,New Visitor,Laptop / Desktop,February,Weekday,Google Search,8,13.1,1,40.22,4.62,No,0.0
+RESP_0283,23,Male,Returning Customer,Tablet,November,Weekend,Instagram / Social Ad,16,24.5,0,0.66,4.25,No,0.0
+RESP_0284,19,Female,Returning Customer,Smartphone,April,Weekday,Instagram / Social Ad,21,27.2,0,0.0,6.79,No,0.0
+RESP_0285,26,Female,Returning Customer,Laptop / Desktop,April,Weekday,Instagram / Social Ad,36,42.8,1,34.56,1.48,No,0.0
+RESP_0286,19,Female,Returning Customer,Laptop / Desktop,August,Weekday,Direct Website Visit,24,30.3,0,0.0,4.79,No,0.0
+RESP_0287,23,Female,Returning Customer,Laptop / Desktop,November,Weekend,Instagram / Social Ad,44,41.5,1,39.6,4.32,No,0.0
+RESP_0288,26,Male,Returning Customer,Laptop / Desktop,February,Weekday,Friend Recommendation,1,3.6,2,56.7,3.69,Yes,88.67
+RESP_0289,21,Female,Returning Customer,Laptop / Desktop,September,Weekend,Instagram / Social Ad,7,11.5,0,0.0,5.78,No,0.0
+RESP_0290,26,Female,Returning Customer,Smartphone,March,Weekday,Direct Website Visit,16,17.5,0,0.0,4.08,No,0.0
+RESP_0291,19,Female,Returning Customer,Laptop / Desktop,January,Weekday,Google Search,10,16.4,1,68.13,2.9,Yes,114.08
+RESP_0292,19,Female,Returning Customer,Smartphone,January,Weekday,Instagram / Social Ad,13,22.6,4,78.46,0.93,Yes,90.77
+RESP_0293,32,Female,Returning Customer,Laptop / Desktop,November,Weekend,Google Search,36,47.6,2,41.04,3.66,Yes,59.39
+RESP_0294,23,Female,Returning Customer,Smartphone,March,Weekday,Instagram / Social Ad,31,51.0,3,47.11,2.98,No,0.0
+RESP_0295,19,Male,New Visitor,Laptop / Desktop,January,Weekend,Email Promo,7,11.7,2,58.31,5.4,No,0.0
+RESP_0296,23,Male,Returning Customer,Laptop / Desktop,July,Weekend,Google Search,2,1.0,0,14.8,3.1,No,0.0
+RESP_0297,28,Male,Returning Customer,Smartphone,November,Weekday,Google Search,12,14.6,0,5.64,4.42,No,0.0
+RESP_0298,21,Female,Returning Customer,Laptop / Desktop,May,Weekday,Email Promo,10,12.0,2,24.41,2.15,No,0.0
+RESP_0299,26,Female,New Visitor,Smartphone,June,Weekend,Google Search,10,15.0,1,32.22,4.77,No,0.0
+RESP_0300,19,Male,New Visitor,Laptop / Desktop,January,Weekday,Direct Website Visit,40,64.2,3,72.68,1.71,Yes,90.85
+RESP_0301,19,Female,Returning Customer,Smartphone,July,Weekend,Instagram / Social Ad,8,8.5,1,130.19,1.71,Yes,193.17
+RESP_0302,26,Female,New Visitor,Smartphone,September,Weekday,Email Promo,4,6.6,0,0.0,7.31,No,0.0
+RESP_0303,26,Female,Returning Customer,Laptop / Desktop,September,Weekday,Google Search,5,9.3,3,46.54,0.5,No,0.0
+RESP_0304,26,Female,Returning Customer,Smartphone,May,Weekend,Google Search,19,25.7,0,0.0,3.59,No,0.0
+RESP_0305,28,Female,New Visitor,Laptop / Desktop,May,Weekday,Instagram / Social Ad,3,3.6,0,0.0,5.69,No,0.0
+RESP_0306,48,Female,New Visitor,Smartphone,February,Weekday,Friend Recommendation,11,5.5,3,88.04,2.64,Yes,116.39
+RESP_0307,23,Male,Returning Customer,Smartphone,May,Weekday,Instagram / Social Ad,11,17.6,0,0.0,3.78,No,0.0
+RESP_0308,21,Male,Returning Customer,Smartphone,February,Weekday,Google Search,4,8.5,0,0.91,6.0,No,0.0
+RESP_0309,32,Male,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,12,12.4,0,3.1,2.26,No,0.0
+RESP_0310,21,Male,Returning Customer,Smartphone,December,Weekend,Friend Recommendation,21,24.0,3,70.21,1.56,Yes,80.08
+RESP_0311,23,Male,New Visitor,Smartphone,December,Weekday,Email Promo,13,24.0,2,109.44,1.61,Yes,136.43
+RESP_0312,19,Male,Returning Customer,Smartphone,November,Weekday,Friend Recommendation,12,15.1,3,55.41,3.95,Yes,77.36
+RESP_0313,19,Male,Returning Customer,Smartphone,September,Weekday,Google Search,7,12.2,1,36.36,3.07,No,0.0
+RESP_0314,48,Female,Returning Customer,Tablet,October,Weekday,Google Search,9,9.6,0,0.0,5.94,No,0.0
+RESP_0315,32,Female,Returning Customer,Tablet,May,Weekday,Instagram / Social Ad,19,26.5,0,0.0,3.77,No,0.0
+RESP_0316,28,Female,Returning Customer,Smartphone,October,Weekend,Direct Website Visit,8,16.6,1,56.77,1.35,No,0.0
+RESP_0317,23,Male,Returning Customer,Laptop / Desktop,July,Weekend,Google Search,8,8.2,3,46.59,2.18,Yes,73.53
+RESP_0318,21,Male,New Visitor,Smartphone,July,Weekday,Google Search,10,18.9,0,0.0,1.92,No,0.0
+RESP_0319,21,Female,New Visitor,Laptop / Desktop,November,Weekday,Direct Website Visit,11,15.4,2,39.41,4.05,No,0.0
+RESP_0320,21,Male,Returning Customer,Laptop / Desktop,May,Weekday,Google Search,3,5.8,2,53.69,3.7,No,0.0
+RESP_0321,26,Female,New Visitor,Laptop / Desktop,May,Weekday,Instagram / Social Ad,11,11.6,0,0.0,3.72,No,0.0
+RESP_0322,28,Male,New Visitor,Smartphone,December,Weekday,Instagram / Social Ad,3,9.2,0,0.0,3.95,No,0.0
+RESP_0323,26,Female,New Visitor,Laptop / Desktop,January,Weekday,Instagram / Social Ad,40,36.4,1,27.2,5.0,No,0.0
+RESP_0324,21,Female,Returning Customer,Smartphone,July,Weekday,Direct Website Visit,32,39.1,0,0.0,4.41,No,0.0
+RESP_0325,41,Female,Returning Customer,Tablet,December,Weekday,Instagram / Social Ad,6,9.5,0,4.74,4.45,No,0.0
+RESP_0326,28,Female,Returning Customer,Smartphone,September,Weekday,Instagram / Social Ad,10,15.0,1,38.5,5.12,No,0.0
+RESP_0327,26,Female,Returning Customer,Laptop / Desktop,August,Weekend,Instagram / Social Ad,3,2.8,1,38.64,6.33,No,0.0
+RESP_0328,26,Female,Returning Customer,Laptop / Desktop,April,Weekday,Instagram / Social Ad,31,30.2,1,60.12,5.6,No,0.0
+RESP_0329,23,Male,Returning Customer,Laptop / Desktop,May,Weekday,Instagram / Social Ad,43,71.8,0,0.81,5.59,No,0.0
+RESP_0330,21,Male,Returning Customer,Smartphone,November,Weekday,Google Search,10,17.2,1,44.84,5.37,No,0.0
+RESP_0331,23,Female,Returning Customer,Laptop / Desktop,August,Weekday,Google Search,1,5.8,0,10.04,5.6,No,0.0
+RESP_0332,28,Male,Returning Customer,Smartphone,August,Weekday,Google Search,36,47.0,0,3.21,4.41,No,0.0
+RESP_0333,19,Male,Returning Customer,Laptop / Desktop,February,Weekday,Google Search,7,9.4,0,0.0,5.19,No,0.0
+RESP_0334,19,Female,New Visitor,Smartphone,January,Weekday,Instagram / Social Ad,7,7.9,0,0.99,3.83,No,0.0
+RESP_0335,19,Female,New Visitor,Smartphone,December,Weekday,Email Promo,12,18.7,0,7.53,4.05,No,0.0
+RESP_0336,19,Female,New Visitor,Smartphone,June,Weekend,Direct Website Visit,25,29.2,2,135.3,3.65,Yes,195.99
+RESP_0337,32,Female,New Visitor,Smartphone,September,Weekday,Direct Website Visit,7,11.2,0,17.97,3.28,No,0.0
+RESP_0338,28,Male,Returning Customer,Smartphone,February,Weekday,Instagram / Social Ad,6,10.4,0,0.0,3.68,No,0.0
+RESP_0339,23,Female,New Visitor,Smartphone,October,Weekday,Instagram / Social Ad,8,15.1,0,0.0,3.62,No,0.0
+RESP_0340,19,Male,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,1,3.7,3,70.14,4.13,Yes,107.12
+RESP_0341,23,Male,Returning Customer,Laptop / Desktop,September,Weekday,Google Search,2,5.6,2,54.08,2.69,Yes,68.43
+RESP_0342,23,Female,Returning Customer,Laptop / Desktop,March,Weekday,Google Search,8,14.4,0,0.0,4.37,No,0.0
+RESP_0343,21,Male,Returning Customer,Smartphone,September,Weekday,Instagram / Social Ad,3,5.6,4,112.78,4.2,Yes,172.24
+RESP_0344,23,Female,Returning Customer,Smartphone,November,Weekend,Friend Recommendation,2,2.6,0,0.23,4.88,No,0.0
+RESP_0345,23,Male,Returning Customer,Smartphone,June,Weekday,Google Search,4,5.0,0,0.0,5.77,No,0.0
+RESP_0346,26,Female,New Visitor,Smartphone,November,Weekday,Google Search,10,17.1,1,45.51,1.36,Yes,79.39
+RESP_0347,26,Male,Returning Customer,Laptop / Desktop,October,Weekday,Direct Website Visit,8,11.5,1,26.38,3.28,No,0.0
+RESP_0348,19,Male,Returning Customer,Laptop / Desktop,November,Weekend,Google Search,4,11.3,0,0.0,5.94,No,0.0
+RESP_0349,23,Female,New Visitor,Smartphone,September,Weekday,Direct Website Visit,7,10.9,0,0.0,3.29,No,0.0
+RESP_0350,26,Male,Returning Customer,Smartphone,March,Weekday,Direct Website Visit,8,10.1,1,37.93,3.76,No,0.0
+RESP_0351,23,Male,Returning Customer,Smartphone,May,Weekday,Friend Recommendation,5,6.6,0,5.86,6.02,No,0.0
+RESP_0352,32,Male,Returning Customer,Laptop / Desktop,April,Weekday,Instagram / Social Ad,4,5.0,0,10.09,5.63,No,0.0
+RESP_0353,26,Male,Returning Customer,Tablet,December,Weekday,Direct Website Visit,14,16.8,0,0.0,4.64,No,0.0
+RESP_0354,21,Male,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,10,18.0,0,0.0,3.36,No,0.0
+RESP_0355,19,Female,New Visitor,Smartphone,October,Weekend,Instagram / Social Ad,3,6.7,0,0.0,4.36,No,0.0
+RESP_0356,26,Female,Returning Customer,Laptop / Desktop,May,Weekend,Instagram / Social Ad,11,17.1,1,62.94,0.65,Yes,111.45
+RESP_0357,19,Male,Returning Customer,Laptop / Desktop,March,Weekday,Google Search,26,38.6,2,34.81,4.22,No,0.0
+RESP_0358,26,Female,New Visitor,Smartphone,November,Weekday,Instagram / Social Ad,8,6.5,0,0.0,1.97,No,0.0
+RESP_0359,41,Male,Returning Customer,Smartphone,July,Weekend,Instagram / Social Ad,13,11.5,0,0.0,3.33,No,0.0
+RESP_0360,26,Male,Returning Customer,Smartphone,April,Weekday,Direct Website Visit,10,11.9,0,2.22,4.34,No,0.0
+RESP_0361,23,Female,Returning Customer,Smartphone,September,Weekday,Direct Website Visit,30,45.5,0,0.0,3.91,No,0.0
+RESP_0362,26,Female,Returning Customer,Smartphone,January,Weekday,Direct Website Visit,16,28.8,1,52.35,1.99,No,0.0
+RESP_0363,23,Male,Returning Customer,Smartphone,May,Weekday,Google Search,8,13.8,4,102.61,2.47,Yes,119.15
+RESP_0364,26,Female,Returning Customer,Smartphone,July,Weekday,Direct Website Visit,25,36.4,3,64.22,1.65,Yes,90.94
+RESP_0365,41,Male,Returning Customer,Smartphone,March,Weekday,Instagram / Social Ad,11,22.7,2,33.46,1.75,No,0.0
+RESP_0366,23,Female,New Visitor,Laptop / Desktop,December,Weekday,Email Promo,7,8.9,1,108.72,1.86,Yes,132.08
+RESP_0367,48,Male,Returning Customer,Smartphone,April,Weekday,Email Promo,4,6.7,0,0.0,6.47,No,0.0
+RESP_0368,35,Female,Returning Customer,Smartphone,March,Weekday,Google Search,5,9.7,0,0.0,6.27,No,0.0
+RESP_0369,21,Male,Returning Customer,Smartphone,April,Weekday,Direct Website Visit,17,18.7,0,0.0,4.54,No,0.0
+RESP_0370,19,Female,Returning Customer,Smartphone,November,Weekend,Google Search,7,10.7,0,0.0,6.71,No,0.0
+RESP_0371,19,Male,Returning Customer,Tablet,June,Weekday,Instagram / Social Ad,7,11.2,1,42.56,2.76,No,0.0
+RESP_0372,19,Female,Returning Customer,Smartphone,September,Weekday,Instagram / Social Ad,6,10.7,1,75.38,4.07,Yes,115.38
+RESP_0373,19,Male,New Visitor,Smartphone,January,Weekend,Google Search,10,17.8,0,0.0,5.27,No,0.0
+RESP_0374,28,Male,Returning Customer,Laptop / Desktop,January,Weekend,Direct Website Visit,8,11.0,0,0.0,2.75,No,0.0
+RESP_0375,19,Female,Returning Customer,Smartphone,July,Weekday,Google Search,3,5.2,3,100.55,2.36,Yes,111.33
+RESP_0376,21,Female,Returning Customer,Laptop / Desktop,November,Weekday,Google Search,8,11.1,0,0.0,3.43,No,0.0
+RESP_0377,32,Female,Returning Customer,Smartphone,November,Weekend,Instagram / Social Ad,8,14.1,0,0.0,4.24,No,0.0
+RESP_0378,19,Male,Returning Customer,Smartphone,February,Weekend,Direct Website Visit,9,17.8,0,19.29,5.13,No,0.0
+RESP_0379,32,Male,Returning Customer,Smartphone,August,Weekend,Email Promo,7,12.8,0,1.15,3.76,No,0.0
+RESP_0380,21,Male,Returning Customer,Smartphone,December,Weekend,Direct Website Visit,24,41.3,0,0.0,4.62,No,0.0
+RESP_0381,19,Female,Returning Customer,Laptop / Desktop,June,Weekday,Direct Website Visit,2,4.3,0,4.71,5.68,No,0.0
+RESP_0382,28,Female,New Visitor,Laptop / Desktop,November,Weekday,Instagram / Social Ad,15,20.2,0,0.0,5.5,No,0.0
+RESP_0383,26,Male,New Visitor,Smartphone,March,Weekday,Google Search,39,32.9,0,9.92,3.25,No,0.0
+RESP_0384,35,Female,New Visitor,Smartphone,December,Weekday,Google Search,25,34.9,1,96.07,3.37,Yes,158.07
+RESP_0385,28,Male,New Visitor,Laptop / Desktop,November,Weekday,Instagram / Social Ad,4,9.0,0,0.0,5.8,No,0.0
+RESP_0386,32,Female,Returning Customer,Laptop / Desktop,December,Weekday,Direct Website Visit,2,7.1,0,0.0,5.13,No,0.0
+RESP_0387,21,Male,New Visitor,Smartphone,October,Weekday,Instagram / Social Ad,25,23.4,1,19.94,0.73,No,0.0
+RESP_0388,21,Female,Returning Customer,Smartphone,May,Weekend,Direct Website Visit,6,11.0,1,35.91,2.62,No,0.0
+RESP_0389,28,Female,New Visitor,Smartphone,December,Weekday,Instagram / Social Ad,26,29.4,2,86.55,1.66,Yes,98.16
+RESP_0390,32,Male,New Visitor,Laptop / Desktop,May,Weekday,Google Search,4,10.6,4,69.65,2.19,Yes,93.92
+RESP_0391,55,Male,Returning Customer,Smartphone,May,Weekday,Google Search,18,24.9,4,80.63,5.32,Yes,99.04
+RESP_0392,23,Male,New Visitor,Smartphone,October,Weekday,Email Promo,26,34.0,0,5.52,4.14,No,0.0
+RESP_0393,23,Female,Returning Customer,Laptop / Desktop,November,Weekend,Direct Website Visit,9,11.9,0,0.0,3.44,No,0.0
+RESP_0394,28,Female,Returning Customer,Smartphone,December,Weekday,Email Promo,6,2.5,1,18.0,4.43,No,0.0
+RESP_0395,21,Male,Returning Customer,Smartphone,April,Weekend,Google Search,5,10.1,1,20.31,5.02,No,0.0
+RESP_0396,41,Male,Returning Customer,Smartphone,November,Weekday,Friend Recommendation,13,19.7,0,0.0,3.76,No,0.0
+RESP_0397,32,Female,Returning Customer,Smartphone,November,Weekday,Google Search,7,13.5,0,4.79,2.91,No,0.0
+RESP_0398,23,Female,Returning Customer,Smartphone,February,Weekday,Google Search,22,32.7,1,126.53,1.19,Yes,152.56
+RESP_0399,28,Female,New Visitor,Smartphone,June,Weekday,Friend Recommendation,16,24.8,1,29.05,2.73,No,0.0
+RESP_0400,28,Male,Returning Customer,Smartphone,May,Weekend,Google Search,2,6.8,1,54.27,4.81,No,0.0
+RESP_0401,19,Female,New Visitor,Smartphone,May,Weekday,Direct Website Visit,51,59.9,0,0.0,4.45,No,0.0
+RESP_0402,35,Female,New Visitor,Laptop / Desktop,December,Weekend,Google Search,9,12.0,1,40.96,3.7,No,0.0
+RESP_0403,23,Female,New Visitor,Laptop / Desktop,October,Weekday,Instagram / Social Ad,8,11.4,3,71.95,2.22,Yes,123.01
+RESP_0404,32,Female,New Visitor,Smartphone,October,Weekend,Email Promo,8,14.6,2,110.65,3.51,Yes,155.57
+RESP_0405,21,Female,Returning Customer,Smartphone,December,Weekday,Google Search,9,16.0,0,2.79,3.83,No,0.0
+RESP_0406,35,Female,New Visitor,Smartphone,June,Weekend,Direct Website Visit,4,9.7,0,7.37,3.96,No,0.0
+RESP_0407,23,Female,New Visitor,Smartphone,November,Weekday,Google Search,16,26.8,0,0.0,1.5,No,0.0
+RESP_0408,19,Male,Returning Customer,Smartphone,July,Weekday,Instagram / Social Ad,18,21.9,0,0.0,1.18,No,0.0
+RESP_0409,35,Female,Returning Customer,Laptop / Desktop,November,Weekday,Google Search,9,12.0,2,167.8,2.26,Yes,217.37
+RESP_0410,19,Male,Returning Customer,Smartphone,March,Weekend,Google Search,8,12.6,1,60.07,4.11,No,0.0
+RESP_0411,21,Male,Returning Customer,Smartphone,December,Weekday,Google Search,34,39.5,0,0.0,3.41,No,0.0
+RESP_0412,41,Male,Returning Customer,Smartphone,April,Weekday,Google Search,9,18.0,0,0.0,4.89,No,0.0
+RESP_0413,41,Male,Returning Customer,Laptop / Desktop,May,Weekend,Email Promo,7,14.1,0,0.0,3.82,No,0.0
+RESP_0414,26,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,32,29.7,1,23.71,1.38,Yes,48.99
+RESP_0415,26,Female,Returning Customer,Laptop / Desktop,June,Weekday,Google Search,8,10.2,2,32.64,3.24,No,0.0
+RESP_0416,23,Male,New Visitor,Smartphone,September,Weekday,Instagram / Social Ad,16,24.2,0,0.0,2.98,No,0.0
+RESP_0417,21,Male,Returning Customer,Laptop / Desktop,July,Weekday,Google Search,6,10.8,0,2.64,5.16,No,0.0
+RESP_0418,21,Male,Returning Customer,Laptop / Desktop,November,Weekend,Direct Website Visit,9,11.2,0,8.34,4.22,No,0.0
+RESP_0419,26,Male,Returning Customer,Smartphone,April,Weekend,Friend Recommendation,21,23.7,1,55.01,2.85,Yes,91.09
+RESP_0420,28,Male,Returning Customer,Smartphone,January,Weekday,Instagram / Social Ad,13,20.2,2,44.09,4.21,No,0.0
+RESP_0421,32,Female,New Visitor,Smartphone,May,Weekend,Email Promo,3,6.1,0,0.0,8.01,No,0.0
+RESP_0422,32,Female,Returning Customer,Smartphone,July,Weekday,Instagram / Social Ad,13,17.5,0,3.42,4.56,No,0.0
+RESP_0423,19,Male,Returning Customer,Laptop / Desktop,March,Weekday,Google Search,3,6.6,1,90.69,2.42,Yes,144.59
+RESP_0424,23,Male,Returning Customer,Laptop / Desktop,May,Weekday,Direct Website Visit,4,5.6,2,78.64,4.41,Yes,114.27
+RESP_0425,19,Female,Returning Customer,Laptop / Desktop,June,Weekday,Instagram / Social Ad,9,15.3,0,0.0,5.37,No,0.0
+RESP_0426,26,Male,New Visitor,Laptop / Desktop,January,Weekday,Direct Website Visit,4,7.9,4,56.13,1.87,Yes,69.36
+RESP_0427,23,Female,Returning Customer,Smartphone,September,Weekend,Email Promo,56,75.0,1,26.07,1.47,No,0.0
+RESP_0428,35,Male,Returning Customer,Smartphone,November,Weekend,Instagram / Social Ad,6,8.4,2,49.01,1.36,Yes,65.03
+RESP_0429,23,Female,Returning Customer,Laptop / Desktop,March,Weekday,Email Promo,17,25.9,0,0.0,6.33,No,0.0
+RESP_0430,19,Female,Returning Customer,Smartphone,September,Weekday,Direct Website Visit,13,13.2,0,0.0,4.17,No,0.0
+RESP_0431,19,Male,Returning Customer,Laptop / Desktop,October,Weekend,Instagram / Social Ad,12,13.8,2,56.57,0.76,No,0.0
+RESP_0432,28,Female,Returning Customer,Smartphone,June,Weekend,Instagram / Social Ad,1,8.4,0,6.27,3.46,No,0.0
+RESP_0433,26,Male,Returning Customer,Smartphone,October,Weekend,Google Search,9,11.7,0,0.0,4.67,No,0.0
+RESP_0434,19,Male,Returning Customer,Tablet,June,Weekday,Friend Recommendation,7,12.5,1,75.9,4.24,No,0.0
+RESP_0435,19,Male,Returning Customer,Smartphone,August,Weekend,Direct Website Visit,5,5.3,1,83.89,5.37,No,0.0
+RESP_0436,28,Female,New Visitor,Tablet,January,Weekday,Google Search,9,13.8,1,105.62,4.59,Yes,151.58
+RESP_0437,19,Female,New Visitor,Tablet,October,Weekday,Google Search,18,27.9,0,7.74,4.18,No,0.0
+RESP_0438,32,Female,Returning Customer,Laptop / Desktop,October,Weekday,Instagram / Social Ad,9,10.4,1,40.37,3.17,No,0.0
+RESP_0439,28,Male,New Visitor,Laptop / Desktop,January,Weekday,Google Search,8,14.7,2,62.46,1.35,Yes,109.07
+RESP_0440,19,Male,Returning Customer,Smartphone,May,Weekday,Google Search,16,24.1,0,0.0,3.15,No,0.0
+RESP_0441,19,Male,Returning Customer,Laptop / Desktop,December,Weekday,Instagram / Social Ad,50,54.1,1,32.89,4.6,No,0.0
+RESP_0442,55,Male,New Visitor,Smartphone,June,Weekday,Google Search,4,7.2,1,58.33,3.25,No,0.0
+RESP_0443,23,Male,New Visitor,Smartphone,August,Weekend,Instagram / Social Ad,4,8.0,1,41.11,4.07,No,0.0
+RESP_0444,23,Male,New Visitor,Laptop / Desktop,December,Weekday,Google Search,10,15.0,0,9.99,6.27,No,0.0
+RESP_0445,32,Female,Returning Customer,Smartphone,October,Weekday,Google Search,38,53.9,4,49.85,0.5,Yes,85.61
+RESP_0446,41,Male,Returning Customer,Smartphone,September,Weekday,Direct Website Visit,4,5.7,0,0.0,2.84,No,0.0
+RESP_0447,55,Female,New Visitor,Smartphone,November,Weekend,Instagram / Social Ad,11,16.6,1,80.12,4.8,Yes,118.92
+RESP_0448,28,Male,Returning Customer,Smartphone,November,Weekday,Google Search,11,9.5,0,2.09,5.17,No,0.0
+RESP_0449,23,Male,Returning Customer,Laptop / Desktop,July,Weekday,Google Search,19,27.3,0,0.0,5.23,No,0.0
+RESP_0450,19,Male,Returning Customer,Smartphone,July,Weekday,Instagram / Social Ad,4,9.2,0,0.0,5.67,No,0.0
+RESP_0451,28,Female,Returning Customer,Laptop / Desktop,June,Weekend,Google Search,16,24.7,0,16.48,3.95,No,0.0
+RESP_0452,26,Female,Returning Customer,Laptop / Desktop,December,Weekend,Google Search,19,27.0,0,1.2,3.69,No,0.0
+RESP_0453,23,Female,Returning Customer,Laptop / Desktop,October,Weekday,Google Search,4,5.5,1,25.55,5.01,No,0.0
+RESP_0454,35,Female,New Visitor,Smartphone,February,Weekday,Direct Website Visit,8,13.9,0,14.26,2.99,No,0.0
+RESP_0455,19,Female,Returning Customer,Laptop / Desktop,November,Weekend,Direct Website Visit,11,19.3,0,0.0,5.85,No,0.0
+RESP_0456,23,Male,Returning Customer,Smartphone,July,Weekday,Direct Website Visit,3,5.1,0,0.0,2.98,No,0.0
+RESP_0457,19,Male,Returning Customer,Laptop / Desktop,February,Weekday,Direct Website Visit,12,17.8,0,1.71,7.97,No,0.0
+RESP_0458,23,Female,Returning Customer,Smartphone,August,Weekday,Direct Website Visit,7,8.4,0,0.0,3.88,No,0.0
+RESP_0459,19,Female,Returning Customer,Laptop / Desktop,June,Weekday,Instagram / Social Ad,6,13.6,0,0.0,3.53,No,0.0
+RESP_0460,19,Female,Returning Customer,Tablet,November,Weekday,Instagram / Social Ad,4,10.1,1,65.0,4.54,Yes,94.53
+RESP_0461,19,Male,New Visitor,Smartphone,April,Weekday,Google Search,3,6.9,1,22.47,4.33,No,0.0
+RESP_0462,26,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,35,49.5,2,25.84,2.55,Yes,43.75
+RESP_0463,28,Male,New Visitor,Laptop / Desktop,August,Weekend,Direct Website Visit,14,23.7,0,10.42,7.06,No,0.0
+RESP_0464,26,Female,Returning Customer,Smartphone,January,Weekday,Instagram / Social Ad,41,29.9,1,34.53,4.29,Yes,57.89
+RESP_0465,48,Male,Returning Customer,Laptop / Desktop,December,Weekend,Instagram / Social Ad,6,9.1,3,58.66,0.5,Yes,81.85
+RESP_0466,23,Male,Returning Customer,Smartphone,August,Weekday,Google Search,16,17.3,2,53.38,2.24,No,0.0
+RESP_0467,21,Female,Returning Customer,Smartphone,May,Weekday,Instagram / Social Ad,6,5.8,1,31.22,1.42,No,0.0
+RESP_0468,35,Male,New Visitor,Tablet,July,Weekday,Direct Website Visit,17,22.7,1,42.74,1.55,No,0.0
+RESP_0469,21,Female,Returning Customer,Laptop / Desktop,November,Weekend,Email Promo,5,9.5,1,41.15,4.2,No,0.0
+RESP_0470,48,Male,Returning Customer,Laptop / Desktop,May,Weekend,Google Search,6,12.9,0,4.4,4.8,No,0.0
+RESP_0471,19,Female,New Visitor,Smartphone,April,Weekday,Direct Website Visit,5,9.6,1,90.05,4.75,Yes,142.89
+RESP_0472,48,Male,New Visitor,Laptop / Desktop,March,Weekend,Instagram / Social Ad,8,14.2,0,9.77,6.98,No,0.0
+RESP_0473,19,Male,New Visitor,Smartphone,May,Weekday,Email Promo,102,75.0,0,9.18,3.05,No,0.0
+RESP_0474,35,Male,Returning Customer,Laptop / Desktop,November,Weekend,Instagram / Social Ad,54,48.8,0,0.0,4.31,No,0.0
+RESP_0475,23,Male,New Visitor,Laptop / Desktop,July,Weekday,Instagram / Social Ad,44,66.6,1,52.95,3.3,Yes,80.18
+RESP_0476,55,Female,Returning Customer,Smartphone,April,Weekend,Instagram / Social Ad,10,16.5,0,0.0,3.84,No,0.0
+RESP_0477,19,Female,Returning Customer,Smartphone,March,Weekday,Direct Website Visit,5,4.8,1,41.42,5.39,No,0.0
+RESP_0478,26,Female,Returning Customer,Smartphone,May,Weekday,Friend Recommendation,14,22.0,0,0.0,6.59,No,0.0
+RESP_0479,48,Female,Returning Customer,Laptop / Desktop,December,Weekday,Google Search,4,6.4,1,24.45,6.54,No,0.0
+RESP_0480,23,Male,Returning Customer,Smartphone,May,Weekday,Google Search,2,6.8,1,35.65,5.57,No,0.0
+RESP_0481,26,Female,Returning Customer,Laptop / Desktop,December,Weekday,Friend Recommendation,3,4.4,1,66.24,3.96,Yes,116.32
+RESP_0482,28,Male,New Visitor,Smartphone,July,Weekday,Instagram / Social Ad,15,14.4,1,68.14,2.91,Yes,90.34
+RESP_0483,23,Male,Returning Customer,Laptop / Desktop,March,Weekday,Instagram / Social Ad,8,13.5,1,43.0,2.66,No,0.0
+RESP_0484,26,Male,Returning Customer,Laptop / Desktop,November,Weekday,Instagram / Social Ad,8,9.7,1,38.06,2.71,Yes,66.88
+RESP_0485,26,Female,Returning Customer,Smartphone,July,Weekday,Google Search,18,26.2,0,5.24,5.78,No,0.0
+RESP_0486,35,Male,New Visitor,Smartphone,October,Weekday,Direct Website Visit,46,34.2,0,0.0,2.87,No,0.0
+RESP_0487,19,Male,Returning Customer,Smartphone,December,Weekend,Direct Website Visit,8,9.8,0,0.0,6.98,No,0.0
+RESP_0488,21,Female,Returning Customer,Laptop / Desktop,January,Weekday,Google Search,26,40.0,0,0.0,2.55,No,0.0
+RESP_0489,41,Male,New Visitor,Laptop / Desktop,February,Weekday,Google Search,13,21.9,1,49.5,4.6,No,0.0
+RESP_0490,35,Male,New Visitor,Smartphone,November,Weekday,Email Promo,4,8.1,0,0.0,7.2,No,0.0
+RESP_0491,23,Female,Returning Customer,Laptop / Desktop,May,Weekday,Google Search,12,17.0,2,60.03,0.63,Yes,100.43
+RESP_0492,26,Female,Returning Customer,Smartphone,March,Weekday,Email Promo,14,23.2,1,34.52,3.6,No,0.0
+RESP_0493,21,Female,New Visitor,Smartphone,January,Weekday,Google Search,5,10.6,0,0.0,3.77,No,0.0
+RESP_0494,21,Female,Returning Customer,Laptop / Desktop,January,Weekday,Instagram / Social Ad,3,5.5,0,7.48,3.53,No,0.0
+RESP_0495,23,Female,Returning Customer,Smartphone,November,Weekend,Friend Recommendation,6,8.8,0,0.0,5.04,No,0.0
+RESP_0496,23,Female,New Visitor,Smartphone,March,Weekday,Direct Website Visit,14,20.9,0,0.0,2.58,No,0.0
+RESP_0497,26,Female,Returning Customer,Smartphone,July,Weekday,Instagram / Social Ad,40,39.4,1,59.3,1.53,No,0.0
+RESP_0498,19,Female,Returning Customer,Smartphone,September,Weekday,Direct Website Visit,8,9.6,1,48.17,2.11,Yes,54.48
+RESP_0499,48,Male,Returning Customer,Smartphone,June,Weekday,Google Search,3,3.8,0,0.0,9.02,No,0.0
+RESP_0500,55,Male,Returning Customer,Smartphone,January,Weekend,Google Search,4,7.1,0,0.0,5.89,No,0.0
+RESP_0501,28,Male,Returning Customer,Laptop / Desktop,November,Weekday,Friend Recommendation,12,19.9,0,1.49,5.34,No,0.0
+RESP_0502,26,Female,New Visitor,Smartphone,January,Weekday,Direct Website Visit,2,3.9,0,0.0,5.41,No,0.0
+RESP_0503,21,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,26,26.7,3,52.86,3.47,Yes,99.96
+RESP_0504,32,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,49,57.6,0,0.0,3.21,No,0.0
+RESP_0505,28,Female,Returning Customer,Smartphone,July,Weekday,Google Search,11,16.1,2,76.97,3.24,Yes,89.62
+RESP_0506,21,Female,Returning Customer,Laptop / Desktop,August,Weekend,Google Search,2,4.8,2,34.1,1.24,No,0.0
+RESP_0507,35,Male,New Visitor,Tablet,July,Weekend,Instagram / Social Ad,11,14.1,1,19.88,5.16,No,0.0
+RESP_0508,32,Female,Returning Customer,Smartphone,June,Weekend,Direct Website Visit,23,34.9,0,0.0,3.2,No,0.0
+RESP_0509,41,Male,Returning Customer,Laptop / Desktop,November,Weekend,Instagram / Social Ad,7,13.4,0,0.0,3.33,No,0.0
+RESP_0510,28,Male,Returning Customer,Smartphone,November,Weekday,Email Promo,7,8.9,1,87.41,1.46,Yes,104.38
+RESP_0511,26,Female,Returning Customer,Smartphone,May,Weekday,Google Search,10,18.3,0,0.0,4.29,No,0.0
+RESP_0512,23,Female,Returning Customer,Smartphone,September,Weekend,Instagram / Social Ad,18,24.5,0,8.86,4.59,No,0.0
+RESP_0513,41,Male,Returning Customer,Smartphone,December,Weekend,Google Search,6,9.6,2,56.93,1.12,Yes,78.68
+RESP_0514,35,Female,New Visitor,Smartphone,December,Weekend,Instagram / Social Ad,4,7.9,1,31.13,4.41,No,0.0
+RESP_0515,19,Female,Returning Customer,Laptop / Desktop,August,Weekday,Google Search,3,10.4,1,94.1,4.83,Yes,118.27
+RESP_0516,19,Male,Returning Customer,Smartphone,July,Weekday,Friend Recommendation,14,16.8,0,0.0,5.51,No,0.0
+RESP_0517,23,Female,Returning Customer,Laptop / Desktop,May,Weekend,Google Search,43,47.6,1,126.79,2.32,Yes,164.01
+RESP_0518,32,Male,New Visitor,Smartphone,December,Weekend,Email Promo,9,11.0,2,22.63,3.55,No,0.0
+RESP_0519,55,Male,Returning Customer,Smartphone,March,Weekend,Instagram / Social Ad,4,3.9,2,52.84,3.8,No,0.0
+RESP_0520,21,Female,Returning Customer,Laptop / Desktop,September,Weekday,Friend Recommendation,44,54.6,1,21.09,4.21,No,0.0
+RESP_0521,26,Female,Returning Customer,Smartphone,May,Weekday,Instagram / Social Ad,4,5.4,0,0.0,7.01,No,0.0
+RESP_0522,23,Female,Returning Customer,Smartphone,May,Weekday,Friend Recommendation,12,19.6,1,36.5,4.22,No,0.0
+RESP_0523,48,Female,New Visitor,Laptop / Desktop,June,Weekend,Google Search,58,75.0,0,0.0,4.98,No,0.0
+RESP_0524,32,Female,Returning Customer,Laptop / Desktop,December,Weekday,Direct Website Visit,36,44.4,0,0.0,1.63,No,0.0
+RESP_0525,32,Male,Returning Customer,Laptop / Desktop,January,Weekday,Email Promo,5,8.3,0,0.0,8.2,No,0.0
+RESP_0526,23,Female,New Visitor,Laptop / Desktop,September,Weekend,Google Search,1,6.5,2,29.38,2.89,No,0.0
+RESP_0527,23,Female,New Visitor,Laptop / Desktop,February,Weekday,Google Search,15,21.9,2,41.5,4.29,No,0.0
+RESP_0528,21,Male,New Visitor,Laptop / Desktop,March,Weekend,Instagram / Social Ad,3,5.1,1,56.68,4.65,No,0.0
+RESP_0529,19,Male,New Visitor,Smartphone,July,Weekday,Friend Recommendation,14,19.1,0,14.64,2.82,No,0.0
+RESP_0530,35,Male,Returning Customer,Smartphone,August,Weekend,Instagram / Social Ad,8,14.5,2,71.65,1.69,Yes,77.42
+RESP_0531,32,Female,Returning Customer,Smartphone,May,Weekday,Instagram / Social Ad,7,13.2,2,32.37,3.97,Yes,57.48
+RESP_0532,55,Male,Returning Customer,Smartphone,May,Weekend,Google Search,3,6.3,0,0.0,4.81,No,0.0
+RESP_0533,55,Male,Returning Customer,Laptop / Desktop,February,Weekend,Google Search,12,14.8,2,37.63,2.94,No,0.0
+RESP_0534,26,Female,Returning Customer,Laptop / Desktop,May,Weekday,Direct Website Visit,12,18.0,2,26.91,2.02,No,0.0
+RESP_0535,28,Female,Returning Customer,Smartphone,December,Weekday,Google Search,5,13.6,0,0.0,2.54,No,0.0
+RESP_0536,41,Male,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,4,6.9,0,4.81,4.59,No,0.0
+RESP_0537,32,Female,New Visitor,Laptop / Desktop,May,Weekday,Email Promo,8,20.6,1,17.96,6.94,No,0.0
+RESP_0538,21,Female,Returning Customer,Smartphone,September,Weekend,Google Search,4,6.2,2,46.09,4.39,No,0.0
+RESP_0539,23,Female,New Visitor,Laptop / Desktop,December,Weekday,Direct Website Visit,13,9.6,3,33.45,0.5,No,0.0
+RESP_0540,19,Female,Returning Customer,Smartphone,January,Weekday,Google Search,8,12.3,0,0.0,4.66,No,0.0
+RESP_0541,41,Male,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,12,21.5,2,144.13,3.38,Yes,202.51
+RESP_0542,26,Male,Returning Customer,Smartphone,December,Weekend,Google Search,7,11.6,2,55.86,1.26,Yes,83.9
+RESP_0543,21,Male,Returning Customer,Smartphone,February,Weekend,Direct Website Visit,2,4.7,3,35.02,3.47,Yes,66.55
+RESP_0544,26,Female,Returning Customer,Laptop / Desktop,March,Weekday,Google Search,8,11.6,1,66.5,2.24,No,0.0
+RESP_0545,26,Female,New Visitor,Laptop / Desktop,December,Weekday,Instagram / Social Ad,5,3.8,1,24.39,2.52,No,0.0
+RESP_0546,23,Female,Returning Customer,Laptop / Desktop,August,Weekday,Instagram / Social Ad,4,1.0,0,0.0,3.89,No,0.0
+RESP_0547,19,Female,Returning Customer,Smartphone,January,Weekday,Google Search,34,49.9,0,0.0,6.52,No,0.0
+RESP_0548,26,Female,Returning Customer,Smartphone,May,Weekday,Direct Website Visit,8,6.8,0,0.0,5.22,No,0.0
+RESP_0549,23,Male,Returning Customer,Laptop / Desktop,July,Weekday,Google Search,4,11.7,1,90.59,6.68,No,0.0
+RESP_0550,28,Female,New Visitor,Laptop / Desktop,October,Weekday,Direct Website Visit,35,47.1,1,125.93,6.32,Yes,176.31
+RESP_0551,23,Male,New Visitor,Smartphone,November,Weekday,Google Search,12,23.2,0,0.0,4.58,No,0.0
+RESP_0552,32,Female,Returning Customer,Smartphone,December,Weekday,Direct Website Visit,3,2.4,0,1.72,7.87,No,0.0
+RESP_0553,26,Female,Returning Customer,Laptop / Desktop,May,Weekday,Google Search,23,28.1,0,11.86,3.61,No,0.0
+RESP_0554,26,Female,Returning Customer,Smartphone,August,Weekday,Instagram / Social Ad,10,14.2,2,43.55,2.67,Yes,69.97
+RESP_0555,35,Male,New Visitor,Smartphone,August,Weekend,Google Search,12,14.6,2,41.66,2.58,Yes,68.22
+RESP_0556,23,Male,Returning Customer,Smartphone,June,Weekday,Direct Website Visit,4,5.9,3,54.69,3.39,Yes,74.4
+RESP_0557,19,Male,Returning Customer,Smartphone,March,Weekday,Google Search,2,6.9,2,32.29,3.68,No,0.0
+RESP_0558,19,Female,New Visitor,Laptop / Desktop,December,Weekday,Email Promo,8,13.0,0,0.0,4.43,No,0.0
+RESP_0559,28,Female,Returning Customer,Tablet,November,Weekend,Email Promo,8,9.2,0,0.0,4.77,No,0.0
+RESP_0560,26,Male,New Visitor,Smartphone,August,Weekend,Google Search,9,14.0,3,80.87,1.33,Yes,122.42
+RESP_0561,28,Female,Returning Customer,Smartphone,September,Weekday,Instagram / Social Ad,7,12.9,1,28.29,4.34,No,0.0
+RESP_0562,21,Male,Returning Customer,Smartphone,April,Weekday,Google Search,5,8.2,0,1.22,2.03,No,0.0
+RESP_0563,19,Female,Returning Customer,Smartphone,August,Weekday,Instagram / Social Ad,9,13.1,0,0.0,6.21,No,0.0
+RESP_0564,19,Female,New Visitor,Smartphone,October,Weekday,Direct Website Visit,16,23.5,2,75.39,2.39,Yes,115.1
+RESP_0565,23,Female,New Visitor,Laptop / Desktop,August,Weekday,Direct Website Visit,4,4.8,1,52.57,4.28,No,0.0
+RESP_0566,26,Female,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,5,10.3,2,64.57,3.86,Yes,112.11
+RESP_0567,23,Male,Returning Customer,Smartphone,September,Weekday,Google Search,31,28.0,0,0.0,2.98,No,0.0
+RESP_0568,23,Female,Returning Customer,Smartphone,June,Weekday,Instagram / Social Ad,4,6.9,0,0.0,8.75,No,0.0
+RESP_0569,35,Female,New Visitor,Smartphone,November,Weekday,Google Search,9,11.1,4,128.31,0.5,Yes,137.08
+RESP_0570,21,Female,Returning Customer,Smartphone,March,Weekday,Direct Website Visit,9,13.4,4,53.45,2.49,Yes,89.6
+RESP_0571,23,Female,Returning Customer,Smartphone,June,Weekday,Instagram / Social Ad,6,10.7,0,0.0,2.43,No,0.0
+RESP_0572,32,Male,Returning Customer,Tablet,May,Weekday,Direct Website Visit,7,14.9,0,0.0,4.37,No,0.0
+RESP_0573,23,Male,New Visitor,Smartphone,July,Weekday,Google Search,7,12.3,0,4.46,1.49,No,0.0
+RESP_0574,26,Male,Returning Customer,Smartphone,November,Weekend,Google Search,4,6.8,1,82.57,5.71,No,0.0
+RESP_0575,35,Male,Returning Customer,Laptop / Desktop,July,Weekday,Google Search,59,75.0,2,28.72,2.64,No,0.0
+RESP_0576,41,Female,Returning Customer,Tablet,November,Weekday,Google Search,28,44.2,1,133.05,2.61,Yes,174.58
+RESP_0577,19,Male,New Visitor,Smartphone,September,Weekend,Google Search,8,12.3,2,78.66,2.74,Yes,120.12
+RESP_0578,41,Female,Returning Customer,Laptop / Desktop,May,Weekday,Direct Website Visit,7,11.9,1,48.56,5.17,No,0.0
+RESP_0579,23,Female,Returning Customer,Smartphone,November,Weekday,Email Promo,15,25.4,2,32.92,3.75,Yes,70.26
+RESP_0580,21,Male,New Visitor,Smartphone,April,Weekday,Instagram / Social Ad,3,4.8,0,0.0,3.53,No,0.0
+RESP_0581,23,Female,Returning Customer,Smartphone,April,Weekend,Instagram / Social Ad,12,17.6,2,31.37,3.25,No,0.0
+RESP_0582,55,Male,Returning Customer,Laptop / Desktop,August,Weekend,Google Search,33,50.8,0,0.0,2.89,No,0.0
+RESP_0583,23,Female,Returning Customer,Laptop / Desktop,May,Weekend,Email Promo,8,11.4,2,44.1,2.94,No,0.0
+RESP_0584,21,Male,New Visitor,Smartphone,January,Weekday,Google Search,28,30.9,0,7.7,4.19,No,0.0
+RESP_0585,26,Male,Returning Customer,Smartphone,October,Weekday,Friend Recommendation,35,37.0,2,62.44,3.22,No,0.0
+RESP_0586,21,Male,New Visitor,Laptop / Desktop,August,Weekday,Instagram / Social Ad,8,14.3,0,0.0,3.83,No,0.0
+RESP_0587,19,Male,Returning Customer,Smartphone,July,Weekday,Google Search,11,11.1,0,3.31,3.99,No,0.0
+RESP_0588,19,Male,Returning Customer,Smartphone,December,Weekday,Email Promo,31,25.6,0,0.0,6.21,No,0.0
+RESP_0589,19,Female,Returning Customer,Laptop / Desktop,September,Weekday,Google Search,8,14.4,1,41.7,3.83,No,0.0
+RESP_0590,21,Female,New Visitor,Laptop / Desktop,November,Weekend,Instagram / Social Ad,5,11.4,0,0.0,3.49,No,0.0
+RESP_0591,19,Female,Returning Customer,Laptop / Desktop,March,Weekday,Instagram / Social Ad,3,8.6,2,46.96,6.31,No,0.0
+RESP_0592,26,Male,New Visitor,Laptop / Desktop,September,Weekday,Google Search,5,5.6,0,0.0,4.57,No,0.0
+RESP_0593,21,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,6,7.8,3,120.53,0.5,Yes,164.57
+RESP_0594,21,Male,Returning Customer,Laptop / Desktop,September,Weekend,Direct Website Visit,7,10.5,1,62.77,4.87,No,0.0
+RESP_0595,35,Female,Returning Customer,Laptop / Desktop,October,Weekend,Direct Website Visit,11,9.6,0,0.95,5.83,No,0.0
+RESP_0596,23,Female,New Visitor,Smartphone,June,Weekday,Google Search,7,9.9,0,21.49,3.1,No,0.0
+RESP_0597,26,Male,Returning Customer,Smartphone,February,Weekday,Friend Recommendation,36,36.7,0,0.0,3.83,No,0.0
+RESP_0598,21,Female,Returning Customer,Smartphone,July,Weekday,Google Search,14,21.4,1,59.01,3.38,No,0.0
+RESP_0599,21,Female,Returning Customer,Smartphone,June,Weekend,Google Search,16,22.7,2,32.72,0.5,Yes,55.02
+RESP_0600,19,Female,New Visitor,Laptop / Desktop,November,Weekday,Google Search,13,16.6,1,26.7,1.53,No,0.0
+RESP_0601,21,Male,Returning Customer,Laptop / Desktop,April,Weekday,Google Search,8,8.6,1,94.64,2.26,Yes,131.86
+RESP_0602,21,Male,New Visitor,Smartphone,December,Weekday,Google Search,9,12.0,1,25.45,4.97,No,0.0
+RESP_0603,21,Female,Returning Customer,Smartphone,December,Weekday,Friend Recommendation,7,14.1,1,26.49,6.7,No,0.0
+RESP_0604,19,Female,Returning Customer,Tablet,April,Weekend,Google Search,3,7.4,0,0.0,5.14,No,0.0
+RESP_0605,19,Female,Returning Customer,Smartphone,May,Weekday,Google Search,15,23.4,2,88.86,3.05,Yes,121.48
+RESP_0606,23,Male,New Visitor,Smartphone,November,Weekday,Google Search,11,13.5,0,0.19,4.21,No,0.0
+RESP_0607,21,Male,New Visitor,Smartphone,December,Weekday,Direct Website Visit,15,25.4,1,71.03,2.69,Yes,102.62
+RESP_0608,23,Female,Returning Customer,Smartphone,July,Weekday,Email Promo,18,18.7,1,23.55,6.09,No,0.0
+RESP_0609,23,Female,Returning Customer,Smartphone,May,Weekend,Google Search,9,11.7,1,76.96,3.71,Yes,126.77
+RESP_0610,28,Female,Returning Customer,Smartphone,August,Weekday,Google Search,6,16.1,3,55.92,3.34,Yes,99.67
+RESP_0611,19,Male,Returning Customer,Smartphone,October,Weekend,Google Search,2,10.4,1,137.3,3.38,Yes,213.56
+RESP_0612,32,Male,Returning Customer,Smartphone,May,Weekend,Google Search,10,8.0,2,111.37,2.01,Yes,174.05
+RESP_0613,26,Female,Returning Customer,Smartphone,November,Weekday,Google Search,9,11.4,2,37.34,3.4,Yes,66.49
+RESP_0614,19,Female,Returning Customer,Smartphone,January,Weekday,Instagram / Social Ad,9,8.8,0,0.0,3.17,No,0.0
+RESP_0615,35,Female,Returning Customer,Laptop / Desktop,January,Weekday,Google Search,9,13.0,1,54.93,4.51,No,0.0
+RESP_0616,41,Male,Returning Customer,Laptop / Desktop,June,Weekend,Instagram / Social Ad,47,63.6,2,79.66,3.66,Yes,114.19
+RESP_0617,19,Female,Returning Customer,Smartphone,May,Weekday,Google Search,45,40.8,1,135.34,2.8,Yes,152.49
+RESP_0618,21,Male,Returning Customer,Smartphone,May,Weekday,Friend Recommendation,6,7.8,2,132.78,4.37,Yes,212.76
+RESP_0619,32,Male,Returning Customer,Laptop / Desktop,August,Weekday,Email Promo,2,2.5,0,0.0,4.32,No,0.0
+RESP_0620,28,Female,New Visitor,Smartphone,May,Weekend,Instagram / Social Ad,10,19.9,0,0.0,2.51,No,0.0
+RESP_0621,21,Female,Returning Customer,Smartphone,April,Weekday,Instagram / Social Ad,8,7.7,0,0.0,1.42,No,0.0
+RESP_0622,21,Female,Returning Customer,Laptop / Desktop,May,Weekday,Instagram / Social Ad,5,7.9,4,96.02,1.36,Yes,109.31
+RESP_0623,23,Male,Returning Customer,Laptop / Desktop,December,Weekday,Instagram / Social Ad,13,24.5,1,55.78,4.51,No,0.0
+RESP_0624,23,Male,Returning Customer,Laptop / Desktop,June,Weekday,Direct Website Visit,13,20.6,0,0.0,4.2,No,0.0
+RESP_0625,26,Male,Returning Customer,Smartphone,July,Weekend,Instagram / Social Ad,5,9.3,2,70.05,4.25,Yes,110.03
+RESP_0626,23,Male,Returning Customer,Laptop / Desktop,September,Weekday,Email Promo,63,48.7,0,4.52,3.23,No,0.0
+RESP_0627,23,Female,New Visitor,Smartphone,December,Weekend,Friend Recommendation,14,21.1,1,54.07,5.63,Yes,90.93
+RESP_0628,28,Male,Returning Customer,Laptop / Desktop,April,Weekday,Google Search,10,17.3,0,0.0,5.14,No,0.0
+RESP_0629,19,Male,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,10,9.7,4,117.92,0.57,Yes,143.63
+RESP_0630,21,Female,Returning Customer,Smartphone,October,Weekday,Google Search,27,24.5,0,4.12,5.54,No,0.0
+RESP_0631,28,Male,Returning Customer,Laptop / Desktop,September,Weekday,Google Search,10,17.8,4,46.0,0.5,Yes,68.84
+RESP_0632,35,Male,Returning Customer,Smartphone,February,Weekday,Instagram / Social Ad,5,8.2,4,45.94,0.5,Yes,91.64
+RESP_0633,23,Male,New Visitor,Smartphone,October,Weekday,Google Search,13,12.5,1,80.37,2.88,Yes,100.35
+RESP_0634,26,Male,Returning Customer,Laptop / Desktop,February,Weekday,Email Promo,6,11.5,0,0.0,4.57,No,0.0
+RESP_0635,19,Male,Returning Customer,Smartphone,September,Weekday,Google Search,5,13.0,0,0.0,6.43,No,0.0
+RESP_0636,23,Male,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,6,9.8,2,72.86,2.32,Yes,93.34
+RESP_0637,26,Female,Returning Customer,Smartphone,April,Weekend,Instagram / Social Ad,7,12.2,0,17.07,3.94,No,0.0
+RESP_0638,21,Female,New Visitor,Laptop / Desktop,November,Weekday,Direct Website Visit,13,15.7,0,3.61,1.48,No,0.0
+RESP_0639,21,Male,Returning Customer,Laptop / Desktop,January,Weekday,Instagram / Social Ad,10,13.6,0,0.0,3.9,No,0.0
+RESP_0640,23,Female,Returning Customer,Smartphone,November,Weekday,Email Promo,7,11.9,0,0.0,1.49,No,0.0
+RESP_0641,19,Female,Returning Customer,Laptop / Desktop,July,Weekend,Instagram / Social Ad,4,10.3,1,126.86,5.32,Yes,183.28
+RESP_0642,21,Female,New Visitor,Smartphone,April,Weekend,Instagram / Social Ad,9,8.4,1,45.64,2.22,No,0.0
+RESP_0643,21,Female,Returning Customer,Laptop / Desktop,March,Weekday,Google Search,8,16.2,0,0.0,4.56,No,0.0
+RESP_0644,21,Male,Returning Customer,Smartphone,December,Weekend,Instagram / Social Ad,17,25.4,4,46.7,1.34,Yes,64.13
+RESP_0645,19,Male,Returning Customer,Smartphone,February,Weekday,Direct Website Visit,1,2.2,0,1.2,4.28,No,0.0
+RESP_0646,35,Female,Returning Customer,Laptop / Desktop,April,Weekday,Instagram / Social Ad,11,18.1,2,43.71,1.6,Yes,83.56
+RESP_0647,26,Female,Returning Customer,Smartphone,May,Weekend,Email Promo,5,13.1,0,6.78,4.19,No,0.0
+RESP_0648,26,Female,Returning Customer,Smartphone,September,Weekend,Instagram / Social Ad,44,67.5,2,28.49,2.14,Yes,58.68
+RESP_0649,32,Male,Returning Customer,Smartphone,August,Weekday,Google Search,28,25.2,0,0.0,3.05,No,0.0
+RESP_0650,23,Male,Returning Customer,Tablet,March,Weekend,Google Search,19,22.7,0,0.0,5.46,No,0.0
+RESP_0651,19,Female,Returning Customer,Smartphone,May,Weekday,Google Search,34,50.4,1,32.35,4.97,No,0.0
+RESP_0652,26,Male,Returning Customer,Smartphone,April,Weekend,Direct Website Visit,13,18.9,0,0.0,1.77,No,0.0
+RESP_0653,26,Male,Returning Customer,Smartphone,April,Weekday,Direct Website Visit,9,12.7,4,92.1,0.94,Yes,120.3
+RESP_0654,28,Male,Returning Customer,Smartphone,June,Weekday,Google Search,3,6.8,1,46.14,1.11,No,0.0
+RESP_0655,23,Male,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,8,8.8,2,106.35,2.91,Yes,121.56
+RESP_0656,19,Female,New Visitor,Laptop / Desktop,April,Weekday,Instagram / Social Ad,23,22.2,2,32.77,3.43,No,0.0
+RESP_0657,21,Male,Returning Customer,Tablet,May,Weekday,Instagram / Social Ad,4,6.6,1,39.87,9.43,No,0.0
+RESP_0658,23,Female,Returning Customer,Smartphone,June,Weekday,Google Search,2,4.1,0,0.0,2.72,No,0.0
+RESP_0659,26,Male,Returning Customer,Smartphone,December,Weekday,Google Search,4,9.4,2,42.28,2.48,No,0.0
+RESP_0660,26,Male,New Visitor,Smartphone,December,Weekday,Google Search,5,9.0,3,77.07,0.52,Yes,118.36
+RESP_0661,23,Male,Returning Customer,Smartphone,November,Weekday,Google Search,7,10.3,1,26.51,2.19,No,0.0
+RESP_0662,55,Male,Returning Customer,Laptop / Desktop,April,Weekday,Google Search,74,75.0,2,161.07,3.15,Yes,226.52
+RESP_0663,26,Female,Returning Customer,Smartphone,February,Weekday,Google Search,7,10.0,1,65.45,5.56,No,0.0
+RESP_0664,21,Male,Returning Customer,Smartphone,May,Weekend,Instagram / Social Ad,14,17.6,0,0.0,1.82,No,0.0
+RESP_0665,19,Male,Returning Customer,Laptop / Desktop,May,Weekend,Google Search,18,26.0,0,3.65,6.04,No,0.0
+RESP_0666,21,Male,Returning Customer,Smartphone,August,Weekend,Friend Recommendation,4,10.1,0,0.0,7.82,No,0.0
+RESP_0667,21,Female,Returning Customer,Laptop / Desktop,November,Weekday,Google Search,10,11.1,2,52.47,0.5,Yes,77.79
+RESP_0668,21,Female,New Visitor,Smartphone,November,Weekend,Google Search,3,6.1,0,0.0,4.95,No,0.0
+RESP_0669,21,Female,Returning Customer,Laptop / Desktop,November,Weekday,Instagram / Social Ad,4,7.3,1,24.42,4.47,No,0.0
+RESP_0670,21,Male,Returning Customer,Laptop / Desktop,May,Weekday,Google Search,29,34.6,1,14.75,0.97,No,0.0
+RESP_0671,21,Male,Returning Customer,Laptop / Desktop,October,Weekday,Email Promo,4,4.1,1,32.13,3.93,No,0.0
+RESP_0672,35,Female,Returning Customer,Tablet,May,Weekend,Google Search,10,13.9,2,84.66,3.87,Yes,121.2
+RESP_0673,19,Female,Returning Customer,Smartphone,February,Weekday,Friend Recommendation,9,13.1,1,71.51,4.96,Yes,89.41
+RESP_0674,23,Male,Returning Customer,Smartphone,October,Weekday,Email Promo,4,6.9,0,0.0,7.65,No,0.0
+RESP_0675,23,Male,Returning Customer,Laptop / Desktop,January,Weekday,Instagram / Social Ad,15,16.5,3,51.19,2.7,No,0.0
+RESP_0676,55,Male,New Visitor,Smartphone,June,Weekend,Instagram / Social Ad,4,7.5,3,60.06,2.89,Yes,82.66
+RESP_0677,19,Male,New Visitor,Smartphone,May,Weekday,Direct Website Visit,3,5.4,0,0.0,6.49,No,0.0
+RESP_0678,23,Female,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,8,15.0,0,0.0,4.45,No,0.0
+RESP_0679,48,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,16,22.8,0,2.71,4.14,No,0.0
+RESP_0680,35,Male,New Visitor,Smartphone,May,Weekday,Google Search,13,23.4,1,16.7,3.43,No,0.0
+RESP_0681,32,Male,Returning Customer,Smartphone,November,Weekday,Google Search,9,12.8,1,24.77,4.17,No,0.0
+RESP_0682,21,Male,New Visitor,Laptop / Desktop,May,Weekday,Instagram / Social Ad,28,33.5,0,0.0,2.65,No,0.0
+RESP_0683,21,Male,Returning Customer,Smartphone,July,Weekend,Instagram / Social Ad,2,1.0,1,58.78,4.05,Yes,105.75
+RESP_0684,26,Male,Returning Customer,Smartphone,November,Weekday,Email Promo,17,24.3,2,48.87,1.34,No,0.0
+RESP_0685,41,Female,Returning Customer,Smartphone,October,Weekday,Google Search,5,5.4,0,0.0,3.95,No,0.0
+RESP_0686,26,Female,Returning Customer,Smartphone,December,Weekday,Direct Website Visit,58,56.5,0,0.0,5.3,No,0.0
+RESP_0687,26,Female,Returning Customer,Laptop / Desktop,April,Weekday,Google Search,34,52.5,2,93.9,0.5,Yes,128.39
+RESP_0688,21,Female,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,4,7.0,1,46.94,2.29,No,0.0
+RESP_0689,28,Male,Returning Customer,Smartphone,September,Weekday,Google Search,11,11.1,1,28.91,4.95,No,0.0
+RESP_0690,21,Male,Returning Customer,Laptop / Desktop,December,Weekday,Instagram / Social Ad,10,18.8,0,0.0,5.15,No,0.0
+RESP_0691,21,Female,Returning Customer,Smartphone,March,Weekend,Google Search,10,10.7,2,89.27,0.64,Yes,133.46
+RESP_0692,23,Female,New Visitor,Smartphone,November,Weekday,Instagram / Social Ad,3,10.0,0,0.0,6.16,No,0.0
+RESP_0693,23,Male,Returning Customer,Smartphone,September,Weekday,Direct Website Visit,22,31.7,1,75.52,0.5,Yes,114.09
+RESP_0694,21,Female,New Visitor,Laptop / Desktop,May,Weekend,Instagram / Social Ad,9,16.6,1,32.79,3.93,No,0.0
+RESP_0695,19,Male,Returning Customer,Smartphone,July,Weekday,Instagram / Social Ad,2,3.7,1,41.08,3.29,No,0.0
+RESP_0696,26,Male,Returning Customer,Smartphone,May,Weekend,Email Promo,15,11.2,3,49.24,1.95,Yes,80.21
+RESP_0697,21,Male,New Visitor,Smartphone,September,Weekday,Direct Website Visit,5,7.6,0,0.87,3.27,No,0.0
+RESP_0698,26,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,22,21.6,0,0.0,7.18,No,0.0
+RESP_0699,21,Female,Returning Customer,Smartphone,September,Weekend,Google Search,9,12.4,0,0.0,3.92,No,0.0
+RESP_0700,23,Male,Returning Customer,Smartphone,October,Weekday,Email Promo,5,10.0,1,33.9,4.06,No,0.0
+RESP_0701,26,Male,Returning Customer,Smartphone,August,Weekday,Instagram / Social Ad,30,28.9,1,22.7,3.95,No,0.0
+RESP_0702,19,Female,Returning Customer,Laptop / Desktop,January,Weekend,Google Search,56,75.0,4,52.57,0.5,Yes,93.06
+RESP_0703,21,Male,New Visitor,Laptop / Desktop,April,Weekday,Google Search,38,62.4,1,56.81,2.33,Yes,80.17
+RESP_0704,19,Female,Returning Customer,Smartphone,August,Weekday,Direct Website Visit,10,11.0,1,15.0,0.5,No,0.0
+RESP_0705,19,Male,Returning Customer,Laptop / Desktop,May,Weekday,Google Search,13,18.7,0,0.0,2.75,No,0.0
+RESP_0706,55,Female,Returning Customer,Smartphone,March,Weekend,Friend Recommendation,10,13.0,0,0.0,4.78,No,0.0
+RESP_0707,21,Male,Returning Customer,Smartphone,August,Weekend,Google Search,7,12.2,0,0.0,4.39,No,0.0
+RESP_0708,32,Female,Returning Customer,Laptop / Desktop,May,Weekday,Direct Website Visit,4,5.1,0,14.64,5.81,No,0.0
+RESP_0709,21,Female,Returning Customer,Laptop / Desktop,May,Weekday,Instagram / Social Ad,13,21.7,0,0.0,5.96,No,0.0
+RESP_0710,28,Female,Returning Customer,Laptop / Desktop,July,Weekend,Instagram / Social Ad,6,8.4,3,101.79,2.07,Yes,147.37
+RESP_0711,28,Female,Returning Customer,Smartphone,March,Weekday,Email Promo,39,40.8,3,56.45,3.44,Yes,89.74
+RESP_0712,26,Male,Returning Customer,Laptop / Desktop,December,Weekday,Instagram / Social Ad,17,22.4,0,0.0,5.76,No,0.0
+RESP_0713,23,Male,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,7,14.1,1,65.51,3.25,Yes,93.49
+RESP_0714,23,Female,Returning Customer,Laptop / Desktop,October,Weekend,Google Search,6,8.7,0,6.15,3.22,No,0.0
+RESP_0715,21,Female,Returning Customer,Tablet,February,Weekend,Google Search,6,12.6,1,61.52,1.19,Yes,83.32
+RESP_0716,41,Male,New Visitor,Smartphone,November,Weekday,Google Search,9,9.1,1,92.83,2.23,No,0.0
+RESP_0717,32,Male,Returning Customer,Laptop / Desktop,November,Weekday,Direct Website Visit,7,12.7,3,60.37,1.75,Yes,95.37
+RESP_0718,48,Male,Returning Customer,Smartphone,November,Weekday,Google Search,16,25.2,4,104.65,1.21,Yes,163.3
+RESP_0719,19,Female,Returning Customer,Smartphone,March,Weekday,Google Search,26,23.6,4,130.36,1.03,Yes,171.46
+RESP_0720,28,Female,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,17,28.2,0,7.2,4.52,No,0.0
+RESP_0721,41,Male,Returning Customer,Smartphone,November,Weekend,Instagram / Social Ad,14,25.6,1,55.32,1.05,No,0.0
+RESP_0722,21,Female,Returning Customer,Laptop / Desktop,September,Weekday,Direct Website Visit,9,20.2,1,69.57,2.09,Yes,105.04
+RESP_0723,19,Male,Returning Customer,Laptop / Desktop,October,Weekend,Google Search,18,23.0,1,64.75,1.33,Yes,105.63
+RESP_0724,28,Female,Returning Customer,Smartphone,July,Weekday,Google Search,8,15.5,0,0.0,4.24,No,0.0
+RESP_0725,26,Male,Returning Customer,Laptop / Desktop,August,Weekday,Friend Recommendation,24,17.4,1,37.58,2.43,No,0.0
+RESP_0726,32,Female,Returning Customer,Tablet,January,Weekday,Google Search,21,32.2,2,60.99,2.35,Yes,76.98
+RESP_0727,19,Male,Returning Customer,Smartphone,October,Weekday,Email Promo,14,17.6,2,82.22,0.5,Yes,127.57
+RESP_0728,32,Female,Returning Customer,Tablet,February,Weekday,Email Promo,22,24.4,2,81.88,1.25,Yes,125.45
+RESP_0729,21,Male,New Visitor,Smartphone,July,Weekend,Direct Website Visit,4,11.2,2,32.43,3.45,No,0.0
+RESP_0730,21,Female,New Visitor,Laptop / Desktop,May,Weekend,Google Search,3,4.7,0,16.4,8.51,No,0.0
+RESP_0731,21,Male,New Visitor,Smartphone,August,Weekday,Direct Website Visit,18,28.5,1,37.0,5.86,No,0.0
+RESP_0732,32,Male,New Visitor,Smartphone,March,Weekday,Direct Website Visit,10,12.6,0,0.0,7.42,No,0.0
+RESP_0733,26,Male,New Visitor,Smartphone,October,Weekend,Instagram / Social Ad,2,2.0,4,82.09,3.24,Yes,119.88
+RESP_0734,23,Male,Returning Customer,Laptop / Desktop,November,Weekday,Google Search,15,19.6,2,28.08,1.24,Yes,58.93
+RESP_0735,23,Male,Returning Customer,Smartphone,March,Weekday,Google Search,12,19.1,1,51.79,3.8,Yes,84.97
+RESP_0736,35,Male,Returning Customer,Smartphone,February,Weekday,Google Search,3,7.7,1,73.49,5.68,No,0.0
+RESP_0737,23,Female,Returning Customer,Smartphone,March,Weekend,Instagram / Social Ad,6,8.1,1,46.83,5.13,No,0.0
+RESP_0738,32,Male,Returning Customer,Laptop / Desktop,November,Weekday,Instagram / Social Ad,7,8.1,2,56.39,2.79,Yes,99.87
+RESP_0739,23,Female,Returning Customer,Smartphone,August,Weekday,Instagram / Social Ad,14,14.9,0,13.46,3.86,No,0.0
+RESP_0740,23,Female,Returning Customer,Smartphone,July,Weekend,Instagram / Social Ad,40,33.8,1,34.13,4.81,No,0.0
+RESP_0741,23,Female,Returning Customer,Smartphone,February,Weekday,Instagram / Social Ad,4,8.9,1,104.76,9.22,Yes,114.44
+RESP_0742,21,Female,New Visitor,Smartphone,October,Weekday,Instagram / Social Ad,12,23.0,1,21.74,0.77,No,0.0
+RESP_0743,28,Male,Returning Customer,Laptop / Desktop,November,Weekday,Email Promo,19,29.7,0,0.0,3.94,No,0.0
+RESP_0744,23,Male,Returning Customer,Laptop / Desktop,November,Weekend,Google Search,6,6.9,0,15.06,4.09,No,0.0
+RESP_0745,21,Male,Returning Customer,Smartphone,September,Weekday,Instagram / Social Ad,16,16.1,0,0.0,0.97,No,0.0
+RESP_0746,35,Female,Returning Customer,Smartphone,February,Weekend,Google Search,8,12.5,1,41.56,3.7,No,0.0
+RESP_0747,23,Female,New Visitor,Laptop / Desktop,March,Weekday,Instagram / Social Ad,68,75.0,3,87.14,2.27,Yes,99.03
+RESP_0748,26,Female,Returning Customer,Smartphone,January,Weekday,Direct Website Visit,6,5.2,0,0.0,6.3,No,0.0
+RESP_0749,35,Female,New Visitor,Laptop / Desktop,May,Weekend,Friend Recommendation,5,8.5,0,8.24,3.12,No,0.0
+RESP_0750,26,Female,Returning Customer,Laptop / Desktop,March,Weekday,Google Search,10,18.1,0,0.0,5.02,No,0.0
+RESP_0751,19,Female,Returning Customer,Laptop / Desktop,May,Weekday,Friend Recommendation,15,24.9,1,28.73,1.34,No,0.0
+RESP_0752,41,Female,Returning Customer,Smartphone,June,Weekday,Google Search,2,8.0,2,48.85,1.13,No,0.0
+RESP_0753,26,Male,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,21,35.0,0,0.0,4.62,No,0.0
+RESP_0754,21,Male,Returning Customer,Tablet,September,Weekday,Google Search,4,9.3,1,40.67,7.23,No,0.0
+RESP_0755,19,Male,Returning Customer,Smartphone,November,Weekday,Email Promo,15,15.9,0,0.0,4.76,No,0.0
+RESP_0756,32,Male,Returning Customer,Laptop / Desktop,October,Weekday,Instagram / Social Ad,5,5.7,0,1.68,5.28,No,0.0
+RESP_0757,26,Male,New Visitor,Smartphone,March,Weekend,Direct Website Visit,4,1.5,1,42.0,4.06,No,0.0
+RESP_0758,26,Female,Returning Customer,Laptop / Desktop,November,Weekday,Email Promo,6,10.8,1,62.49,2.56,No,0.0
+RESP_0759,35,Male,New Visitor,Smartphone,May,Weekend,Google Search,21,28.3,2,72.6,3.71,Yes,111.46
+RESP_0760,32,Male,Returning Customer,Smartphone,October,Weekday,Google Search,12,12.9,1,28.63,3.39,No,0.0
+RESP_0761,21,Female,Returning Customer,Smartphone,May,Weekday,Email Promo,10,16.2,0,0.0,7.56,No,0.0
+RESP_0762,21,Female,Returning Customer,Laptop / Desktop,December,Weekday,Google Search,9,7.2,0,0.0,1.61,No,0.0
+RESP_0763,21,Male,Returning Customer,Laptop / Desktop,May,Weekday,Google Search,10,21.2,0,0.0,2.84,No,0.0
+RESP_0764,28,Female,Returning Customer,Smartphone,May,Weekday,Instagram / Social Ad,8,12.8,2,38.14,2.78,No,0.0
+RESP_0765,19,Male,Returning Customer,Smartphone,December,Weekend,Instagram / Social Ad,3,5.6,0,0.0,7.88,No,0.0
+RESP_0766,26,Male,Returning Customer,Laptop / Desktop,January,Weekend,Google Search,12,17.7,2,42.38,2.86,No,0.0
+RESP_0767,28,Female,New Visitor,Smartphone,October,Weekend,Google Search,6,9.7,3,34.76,0.5,Yes,43.64
+RESP_0768,35,Female,Returning Customer,Smartphone,November,Weekday,Google Search,7,10.2,0,0.0,4.7,No,0.0
+RESP_0769,21,Female,New Visitor,Smartphone,November,Weekend,Instagram / Social Ad,21,26.7,0,0.0,4.46,No,0.0
+RESP_0770,32,Female,Returning Customer,Smartphone,December,Weekday,Email Promo,11,12.4,4,79.34,0.93,Yes,103.73
+RESP_0771,19,Female,Returning Customer,Smartphone,December,Weekday,Friend Recommendation,3,6.6,2,52.15,4.92,No,0.0
+RESP_0772,32,Male,Returning Customer,Smartphone,February,Weekend,Instagram / Social Ad,7,9.2,2,24.17,2.53,No,0.0
+RESP_0773,19,Female,Returning Customer,Smartphone,November,Weekday,Google Search,2,5.1,2,47.84,6.39,No,0.0
+RESP_0774,23,Female,Returning Customer,Smartphone,October,Weekday,Email Promo,32,43.8,3,73.06,3.96,Yes,101.4
+RESP_0775,32,Female,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,4,4.2,1,82.25,5.24,Yes,131.01
+RESP_0776,19,Male,Returning Customer,Smartphone,March,Weekday,Google Search,17,20.1,0,0.0,6.39,No,0.0
+RESP_0777,21,Female,Returning Customer,Smartphone,October,Weekend,Email Promo,6,10.4,0,0.0,2.86,No,0.0
+RESP_0778,28,Female,New Visitor,Laptop / Desktop,December,Weekday,Direct Website Visit,8,11.1,1,18.94,4.13,No,0.0
+RESP_0779,28,Male,New Visitor,Smartphone,December,Weekend,Direct Website Visit,3,6.2,1,133.7,4.8,Yes,154.94
+RESP_0780,26,Male,Returning Customer,Smartphone,July,Weekday,Direct Website Visit,5,10.9,0,0.0,5.76,No,0.0
+RESP_0781,28,Female,Returning Customer,Smartphone,January,Weekday,Google Search,2,6.4,1,41.69,4.03,No,0.0
+RESP_0782,26,Male,Returning Customer,Smartphone,May,Weekday,Google Search,5,6.7,0,8.46,3.36,No,0.0
+RESP_0783,21,Female,Returning Customer,Smartphone,November,Weekday,Direct Website Visit,11,15.9,1,33.29,3.8,No,0.0
+RESP_0784,21,Female,Returning Customer,Smartphone,October,Weekday,Google Search,8,14.8,0,2.4,3.41,No,0.0
+RESP_0785,21,Female,Returning Customer,Laptop / Desktop,July,Weekend,Instagram / Social Ad,17,14.6,0,0.0,2.35,No,0.0
+RESP_0786,35,Female,Returning Customer,Smartphone,January,Weekend,Direct Website Visit,15,18.7,0,0.0,3.36,No,0.0
+RESP_0787,26,Male,Returning Customer,Tablet,June,Weekend,Direct Website Visit,2,6.2,1,38.8,3.64,No,0.0
+RESP_0788,23,Female,Returning Customer,Smartphone,July,Weekend,Instagram / Social Ad,7,18.5,0,0.0,2.19,No,0.0
+RESP_0789,23,Female,New Visitor,Smartphone,December,Weekend,Direct Website Visit,30,28.8,1,97.41,5.5,Yes,140.82
+RESP_0790,41,Male,New Visitor,Smartphone,October,Weekday,Email Promo,10,17.8,2,98.47,2.42,Yes,159.31
+RESP_0791,21,Male,Returning Customer,Smartphone,May,Weekend,Direct Website Visit,4,4.0,4,79.81,3.73,Yes,113.98
+RESP_0792,26,Female,New Visitor,Smartphone,August,Weekday,Google Search,10,19.4,0,0.0,5.46,No,0.0
+RESP_0793,23,Male,New Visitor,Laptop / Desktop,February,Weekday,Google Search,8,6.0,1,35.75,3.11,No,0.0
+RESP_0794,26,Female,Returning Customer,Smartphone,December,Weekday,Google Search,3,7.7,1,62.16,6.81,No,0.0
+RESP_0795,19,Male,Returning Customer,Laptop / Desktop,May,Weekday,Google Search,45,64.8,0,3.7,4.62,No,0.0
+RESP_0796,35,Male,Returning Customer,Laptop / Desktop,July,Weekday,Google Search,33,41.4,0,5.27,2.68,No,0.0
+RESP_0797,41,Male,New Visitor,Smartphone,May,Weekend,Google Search,7,13.8,3,69.16,0.5,Yes,109.0
+RESP_0798,26,Female,New Visitor,Smartphone,October,Weekday,Instagram / Social Ad,36,54.1,4,114.35,1.82,Yes,122.65
+RESP_0799,28,Female,Returning Customer,Smartphone,October,Weekday,Email Promo,8,13.4,0,0.0,4.75,No,0.0
+RESP_0800,41,Female,Returning Customer,Smartphone,October,Weekday,Google Search,9,11.7,0,0.43,1.62,No,0.0
+RESP_0801,28,Female,Returning Customer,Smartphone,May,Weekday,Direct Website Visit,16,23.4,2,69.11,2.83,Yes,103.37
+RESP_0802,21,Female,Returning Customer,Smartphone,May,Weekday,Direct Website Visit,19,28.1,1,43.4,2.69,No,0.0
+RESP_0803,26,Male,Returning Customer,Smartphone,March,Weekday,Google Search,7,12.9,0,0.0,3.5,No,0.0
+RESP_0804,26,Female,New Visitor,Smartphone,October,Weekday,Email Promo,5,8.7,2,29.95,1.09,Yes,48.03
+RESP_0805,23,Female,Returning Customer,Tablet,January,Weekday,Instagram / Social Ad,21,29.3,0,3.49,4.11,No,0.0
+RESP_0806,28,Male,New Visitor,Laptop / Desktop,September,Weekend,Instagram / Social Ad,10,12.9,1,27.86,3.12,No,0.0
+RESP_0807,41,Female,New Visitor,Laptop / Desktop,November,Weekend,Direct Website Visit,10,18.7,1,52.02,2.92,Yes,93.36
+RESP_0808,41,Male,Returning Customer,Smartphone,November,Weekday,Google Search,7,12.9,0,0.0,1.49,No,0.0
+RESP_0809,23,Female,Returning Customer,Smartphone,July,Weekday,Direct Website Visit,9,15.5,1,77.6,5.09,No,0.0
+RESP_0810,19,Female,Returning Customer,Smartphone,July,Weekday,Google Search,12,16.1,1,51.0,2.66,No,0.0
+RESP_0811,55,Female,Returning Customer,Smartphone,February,Weekend,Email Promo,2,2.8,2,61.13,1.49,Yes,83.0
+RESP_0812,32,Female,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,15,22.0,1,33.43,3.42,Yes,53.66
+RESP_0813,19,Male,Returning Customer,Laptop / Desktop,November,Weekday,Instagram / Social Ad,12,21.1,0,32.01,5.08,No,0.0
+RESP_0814,41,Female,Returning Customer,Laptop / Desktop,April,Weekend,Google Search,4,1.5,0,0.0,5.37,No,0.0
+RESP_0815,35,Male,Returning Customer,Smartphone,June,Weekday,Direct Website Visit,5,11.7,0,0.0,4.47,No,0.0
+RESP_0816,23,Female,Returning Customer,Smartphone,November,Weekday,Direct Website Visit,10,16.6,1,78.97,5.82,Yes,112.94
+RESP_0817,26,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,4,6.5,0,0.0,7.31,No,0.0
+RESP_0818,23,Male,Returning Customer,Smartphone,April,Weekend,Instagram / Social Ad,8,10.8,0,0.0,3.42,No,0.0
+RESP_0819,19,Female,Returning Customer,Smartphone,August,Weekend,Instagram / Social Ad,31,49.9,1,63.6,2.38,Yes,85.6
+RESP_0820,21,Male,Returning Customer,Smartphone,April,Weekday,Email Promo,18,27.9,2,74.61,2.84,No,0.0
+RESP_0821,32,Male,Returning Customer,Smartphone,February,Weekday,Instagram / Social Ad,14,14.3,2,50.88,4.66,No,0.0
+RESP_0822,19,Male,Returning Customer,Tablet,December,Weekday,Email Promo,10,8.1,2,41.18,1.34,No,0.0
+RESP_0823,21,Male,Returning Customer,Smartphone,November,Weekend,Direct Website Visit,12,16.5,1,117.52,1.54,Yes,156.37
+RESP_0824,23,Female,Returning Customer,Laptop / Desktop,November,Weekend,Instagram / Social Ad,3,3.2,1,16.0,4.82,No,0.0
+RESP_0825,26,Female,Returning Customer,Smartphone,January,Weekday,Google Search,37,36.0,1,42.17,3.74,Yes,80.45
+RESP_0826,35,Female,New Visitor,Smartphone,November,Weekend,Instagram / Social Ad,17,27.2,1,21.47,4.54,No,0.0
+RESP_0827,21,Male,Returning Customer,Smartphone,July,Weekday,Direct Website Visit,12,11.0,0,0.0,4.03,No,0.0
+RESP_0828,21,Male,Returning Customer,Smartphone,May,Weekday,Google Search,2,7.9,0,0.0,4.98,No,0.0
+RESP_0829,28,Female,Returning Customer,Smartphone,August,Weekday,Instagram / Social Ad,9,14.2,0,0.0,4.19,No,0.0
+RESP_0830,23,Male,Returning Customer,Laptop / Desktop,February,Weekday,Direct Website Visit,6,12.4,0,0.0,3.9,No,0.0
+RESP_0831,21,Female,Returning Customer,Laptop / Desktop,November,Weekend,Instagram / Social Ad,16,15.3,1,113.72,7.56,Yes,118.38
+RESP_0832,23,Male,Returning Customer,Smartphone,September,Weekday,Instagram / Social Ad,28,28.1,0,0.0,4.61,No,0.0
+RESP_0833,19,Female,Returning Customer,Smartphone,March,Weekday,Google Search,9,9.9,2,72.48,4.14,Yes,112.47
+RESP_0834,21,Male,Returning Customer,Laptop / Desktop,March,Weekend,Google Search,9,13.7,0,0.0,5.45,No,0.0
+RESP_0835,23,Male,Returning Customer,Smartphone,March,Weekend,Direct Website Visit,1,7.2,1,28.28,6.71,No,0.0
+RESP_0836,23,Female,Returning Customer,Smartphone,January,Weekday,Google Search,5,13.7,0,0.0,4.35,No,0.0
+RESP_0837,35,Female,Returning Customer,Smartphone,September,Weekday,Google Search,3,7.6,0,0.0,6.43,No,0.0
+RESP_0838,23,Female,New Visitor,Laptop / Desktop,November,Weekday,Email Promo,23,31.8,0,0.0,6.4,No,0.0
+RESP_0839,26,Female,Returning Customer,Tablet,January,Weekday,Google Search,5,9.1,0,0.0,3.56,No,0.0
+RESP_0840,26,Female,Returning Customer,Smartphone,January,Weekend,Friend Recommendation,19,28.9,0,0.0,2.68,No,0.0
+RESP_0841,19,Male,Returning Customer,Laptop / Desktop,September,Weekend,Friend Recommendation,9,13.8,1,23.05,5.05,No,0.0
+RESP_0842,26,Male,Returning Customer,Laptop / Desktop,November,Weekday,Google Search,5,5.3,0,0.24,1.04,No,0.0
+RESP_0843,21,Male,Returning Customer,Smartphone,May,Weekday,Google Search,12,17.1,4,62.29,0.5,Yes,79.04
+RESP_0844,48,Female,Returning Customer,Smartphone,May,Weekday,Direct Website Visit,4,6.2,1,67.54,2.54,No,0.0
+RESP_0845,19,Male,Returning Customer,Smartphone,September,Weekend,Instagram / Social Ad,26,25.9,0,0.0,3.76,No,0.0
+RESP_0846,23,Male,Returning Customer,Tablet,May,Weekday,Google Search,8,19.6,1,72.46,3.25,Yes,106.06
+RESP_0847,19,Female,Returning Customer,Smartphone,January,Weekday,Direct Website Visit,14,24.5,0,8.32,3.06,No,0.0
+RESP_0848,55,Male,Returning Customer,Laptop / Desktop,November,Weekday,Google Search,22,25.1,1,26.45,5.1,No,0.0
+RESP_0849,23,Male,New Visitor,Smartphone,September,Weekday,Email Promo,9,14.6,1,53.67,6.55,No,0.0
+RESP_0850,26,Female,Returning Customer,Laptop / Desktop,September,Weekday,Google Search,5,6.2,0,17.6,2.37,No,0.0
+RESP_0851,19,Female,Returning Customer,Smartphone,November,Weekday,Google Search,3,7.5,0,8.24,7.23,No,0.0
+RESP_0852,28,Female,Returning Customer,Smartphone,October,Weekend,Google Search,10,23.0,4,86.83,0.5,Yes,141.93
+RESP_0853,21,Female,Returning Customer,Laptop / Desktop,April,Weekend,Friend Recommendation,17,16.6,1,58.62,6.08,No,0.0
+RESP_0854,35,Male,Returning Customer,Laptop / Desktop,May,Weekend,Direct Website Visit,24,37.1,0,0.0,2.88,No,0.0
+RESP_0855,21,Male,Returning Customer,Laptop / Desktop,March,Weekday,Direct Website Visit,6,14.6,0,0.0,2.79,No,0.0
+RESP_0856,21,Male,Returning Customer,Smartphone,March,Weekday,Instagram / Social Ad,28,45.2,1,31.63,3.7,No,0.0
+RESP_0857,19,Female,Returning Customer,Laptop / Desktop,October,Weekday,Google Search,10,10.3,1,15.64,4.53,No,0.0
+RESP_0858,23,Female,Returning Customer,Smartphone,November,Weekday,Google Search,8,18.0,0,3.96,4.49,No,0.0
+RESP_0859,26,Male,Returning Customer,Smartphone,December,Weekend,Instagram / Social Ad,89,75.0,0,0.0,4.72,No,0.0
+RESP_0860,19,Male,New Visitor,Smartphone,September,Weekday,Instagram / Social Ad,9,15.1,0,0.0,4.09,No,0.0
+RESP_0861,28,Female,Returning Customer,Smartphone,March,Weekday,Instagram / Social Ad,23,25.1,1,88.91,3.07,Yes,102.78
+RESP_0862,23,Female,Returning Customer,Smartphone,February,Weekend,Google Search,16,26.5,1,44.06,3.32,No,0.0
+RESP_0863,23,Male,Returning Customer,Tablet,November,Weekend,Friend Recommendation,16,18.1,1,54.07,0.75,Yes,100.65
+RESP_0864,23,Female,Returning Customer,Smartphone,September,Weekday,Google Search,3,10.5,0,0.0,6.51,No,0.0
+RESP_0865,23,Female,New Visitor,Laptop / Desktop,September,Weekday,Friend Recommendation,5,10.9,0,0.0,4.97,No,0.0
+RESP_0866,26,Male,Returning Customer,Smartphone,November,Weekday,Google Search,6,17.2,0,1.16,4.98,No,0.0
+RESP_0867,21,Female,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,8,17.4,0,0.34,4.37,No,0.0
+RESP_0868,21,Female,Returning Customer,Smartphone,November,Weekday,Google Search,7,14.0,4,60.63,5.56,Yes,111.45
+RESP_0869,35,Female,Returning Customer,Laptop / Desktop,January,Weekday,Instagram / Social Ad,1,2.8,0,0.0,4.35,No,0.0
+RESP_0870,41,Female,Returning Customer,Laptop / Desktop,November,Weekend,Instagram / Social Ad,3,8.4,2,83.25,7.78,Yes,92.22
+RESP_0871,23,Male,Returning Customer,Laptop / Desktop,November,Weekday,Instagram / Social Ad,21,35.8,1,90.32,3.56,Yes,145.14
+RESP_0872,21,Female,Returning Customer,Tablet,May,Weekday,Instagram / Social Ad,10,14.4,0,1.21,4.13,No,0.0
+RESP_0873,26,Female,Returning Customer,Smartphone,October,Weekday,Direct Website Visit,26,29.7,1,39.81,3.37,No,0.0
+RESP_0874,23,Male,Returning Customer,Smartphone,May,Weekday,Direct Website Visit,5,10.7,0,0.0,3.12,No,0.0
+RESP_0875,19,Male,New Visitor,Laptop / Desktop,December,Weekend,Email Promo,2,6.1,1,93.03,6.1,Yes,144.31
+RESP_0876,21,Male,New Visitor,Smartphone,January,Weekday,Google Search,3,3.6,0,0.0,2.48,No,0.0
+RESP_0877,28,Female,New Visitor,Smartphone,September,Weekday,Instagram / Social Ad,8,13.1,3,70.86,0.5,Yes,81.86
+RESP_0878,26,Female,Returning Customer,Smartphone,March,Weekday,Instagram / Social Ad,10,18.1,2,63.89,2.96,Yes,92.02
+RESP_0879,19,Male,Returning Customer,Smartphone,October,Weekend,Instagram / Social Ad,9,16.0,0,0.0,4.42,No,0.0
+RESP_0880,21,Male,New Visitor,Smartphone,March,Weekday,Instagram / Social Ad,5,10.4,0,0.0,1.83,No,0.0
+RESP_0881,21,Female,Returning Customer,Smartphone,April,Weekend,Google Search,10,19.7,0,0.0,5.8,No,0.0
+RESP_0882,26,Female,Returning Customer,Smartphone,August,Weekday,Google Search,18,21.1,0,14.2,5.38,No,0.0
+RESP_0883,19,Female,New Visitor,Smartphone,December,Weekday,Google Search,12,22.3,2,91.0,0.98,Yes,133.06
+RESP_0884,19,Male,New Visitor,Smartphone,April,Weekday,Google Search,11,17.8,4,58.29,3.14,Yes,82.61
+RESP_0885,32,Male,Returning Customer,Smartphone,March,Weekend,Direct Website Visit,4,6.9,0,0.0,6.86,No,0.0
+RESP_0886,21,Female,Returning Customer,Laptop / Desktop,November,Weekend,Direct Website Visit,12,11.7,1,87.14,1.09,Yes,109.58
+RESP_0887,26,Female,Returning Customer,Smartphone,August,Weekday,Friend Recommendation,16,24.2,1,59.12,3.2,No,0.0
+RESP_0888,21,Male,New Visitor,Smartphone,December,Weekday,Direct Website Visit,5,8.8,2,55.3,1.8,Yes,88.49
+RESP_0889,19,Male,New Visitor,Laptop / Desktop,March,Weekday,Google Search,7,10.3,0,0.0,3.16,No,0.0
+RESP_0890,21,Female,Returning Customer,Smartphone,October,Weekday,Email Promo,11,20.7,0,0.0,0.5,No,0.0
+RESP_0891,28,Male,Returning Customer,Smartphone,April,Weekday,Email Promo,12,20.1,1,62.02,2.21,Yes,76.34
+RESP_0892,32,Male,New Visitor,Laptop / Desktop,March,Weekend,Instagram / Social Ad,8,10.1,0,0.0,5.86,No,0.0
+RESP_0893,32,Female,Returning Customer,Smartphone,October,Weekend,Instagram / Social Ad,7,9.6,1,82.67,2.78,No,0.0
+RESP_0894,23,Male,Returning Customer,Laptop / Desktop,September,Weekday,Friend Recommendation,8,14.6,3,57.34,0.96,Yes,109.04
+RESP_0895,26,Female,New Visitor,Laptop / Desktop,November,Weekday,Instagram / Social Ad,5,7.8,2,43.48,4.67,Yes,78.45
+RESP_0896,21,Male,Returning Customer,Laptop / Desktop,May,Weekend,Email Promo,15,22.6,0,3.85,5.39,No,0.0
+RESP_0897,21,Male,Returning Customer,Smartphone,July,Weekend,Google Search,13,14.4,1,57.34,2.96,Yes,90.86
+RESP_0898,35,Male,Returning Customer,Smartphone,June,Weekday,Google Search,16,24.3,2,34.41,2.52,No,0.0
+RESP_0899,19,Male,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,4,7.4,0,0.0,7.4,No,0.0
+RESP_0900,19,Female,New Visitor,Smartphone,May,Weekday,Instagram / Social Ad,12,18.1,2,86.05,2.42,Yes,141.88
+RESP_0901,21,Male,Returning Customer,Smartphone,May,Weekday,Direct Website Visit,4,10.1,0,0.0,7.4,No,0.0
+RESP_0902,19,Male,New Visitor,Smartphone,May,Weekday,Friend Recommendation,6,9.2,1,25.16,2.31,No,0.0
+RESP_0903,21,Female,Returning Customer,Smartphone,September,Weekday,Instagram / Social Ad,13,20.7,0,0.0,1.05,No,0.0
+RESP_0904,26,Male,Returning Customer,Smartphone,May,Weekday,Google Search,9,18.4,0,0.0,4.09,No,0.0
+RESP_0905,23,Male,Returning Customer,Smartphone,December,Weekday,Direct Website Visit,127,75.0,1,50.93,2.08,Yes,70.78
+RESP_0906,35,Female,Returning Customer,Smartphone,May,Weekday,Instagram / Social Ad,19,16.1,1,47.73,2.71,No,0.0
+RESP_0907,32,Male,Returning Customer,Laptop / Desktop,November,Weekday,Google Search,17,26.4,0,4.95,4.86,No,0.0
+RESP_0908,21,Male,Returning Customer,Smartphone,February,Weekend,Instagram / Social Ad,16,20.2,1,18.62,4.81,No,0.0
+RESP_0909,21,Female,Returning Customer,Smartphone,October,Weekend,Direct Website Visit,7,11.0,1,52.57,5.46,No,0.0
+RESP_0910,23,Male,Returning Customer,Laptop / Desktop,December,Weekday,Direct Website Visit,5,10.5,3,70.49,1.0,Yes,121.29
+RESP_0911,26,Female,Returning Customer,Smartphone,March,Weekday,Instagram / Social Ad,7,8.9,2,52.92,0.5,Yes,74.72
+RESP_0912,21,Female,Returning Customer,Smartphone,December,Weekend,Google Search,14,22.5,2,77.28,4.63,Yes,96.61
+RESP_0913,26,Female,Returning Customer,Smartphone,July,Weekday,Friend Recommendation,17,15.9,0,0.0,4.51,No,0.0
+RESP_0914,23,Male,Returning Customer,Laptop / Desktop,December,Weekday,Direct Website Visit,6,7.6,0,0.0,4.35,No,0.0
+RESP_0915,26,Male,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,17,15.6,4,90.02,4.57,Yes,141.51
+RESP_0916,23,Female,Returning Customer,Smartphone,May,Weekday,Google Search,39,62.5,1,27.92,4.46,No,0.0
+RESP_0917,21,Female,Returning Customer,Smartphone,March,Weekday,Direct Website Visit,3,5.0,2,92.47,2.47,Yes,131.27
+RESP_0918,41,Male,Returning Customer,Laptop / Desktop,May,Weekend,Google Search,18,30.5,4,58.69,3.04,Yes,87.23
+RESP_0919,28,Female,New Visitor,Smartphone,February,Weekday,Google Search,37,56.7,1,51.69,2.28,No,0.0
+RESP_0920,19,Male,New Visitor,Smartphone,March,Weekday,Instagram / Social Ad,16,17.6,1,39.71,1.67,No,0.0
+RESP_0921,35,Male,Returning Customer,Laptop / Desktop,February,Weekend,Google Search,10,20.5,0,0.0,4.75,No,0.0
+RESP_0922,23,Female,Returning Customer,Smartphone,June,Weekday,Instagram / Social Ad,4,11.0,2,49.37,4.62,No,0.0
+RESP_0923,35,Male,New Visitor,Laptop / Desktop,November,Weekday,Google Search,12,14.5,0,5.71,3.62,No,0.0
+RESP_0924,32,Female,Returning Customer,Smartphone,March,Weekday,Direct Website Visit,18,25.4,4,76.62,0.5,Yes,113.52
+RESP_0925,23,Male,New Visitor,Laptop / Desktop,March,Weekday,Google Search,10,18.1,1,70.09,5.38,No,0.0
+RESP_0926,19,Male,New Visitor,Smartphone,October,Weekday,Google Search,2,5.5,1,65.34,5.6,No,0.0
+RESP_0927,21,Male,New Visitor,Laptop / Desktop,April,Weekday,Google Search,3,7.8,2,23.3,5.33,No,0.0
+RESP_0928,26,Female,Returning Customer,Laptop / Desktop,February,Weekday,Friend Recommendation,30,33.2,2,42.04,1.3,No,0.0
+RESP_0929,26,Male,Returning Customer,Smartphone,March,Weekday,Email Promo,2,5.4,0,0.0,7.24,No,0.0
+RESP_0930,21,Female,Returning Customer,Smartphone,December,Weekday,Google Search,1,3.8,0,0.0,4.9,No,0.0
+RESP_0931,19,Female,Returning Customer,Smartphone,November,Weekday,Direct Website Visit,6,13.7,0,4.75,4.05,No,0.0
+RESP_0932,32,Female,Returning Customer,Smartphone,May,Weekday,Instagram / Social Ad,8,10.7,1,79.73,3.88,Yes,120.45
+RESP_0933,55,Male,Returning Customer,Smartphone,October,Weekday,Friend Recommendation,5,7.1,2,74.16,0.5,Yes,110.14
+RESP_0934,23,Male,Returning Customer,Smartphone,August,Weekday,Instagram / Social Ad,34,43.8,0,0.0,4.35,No,0.0
+RESP_0935,21,Male,New Visitor,Smartphone,October,Weekend,Direct Website Visit,6,8.2,2,65.56,3.64,Yes,92.68
+RESP_0936,21,Male,Returning Customer,Smartphone,October,Weekday,Google Search,20,33.4,0,0.0,2.9,No,0.0
+RESP_0937,19,Female,New Visitor,Smartphone,September,Weekday,Instagram / Social Ad,21,22.7,2,84.24,4.52,Yes,102.16
+RESP_0938,35,Male,New Visitor,Laptop / Desktop,May,Weekend,Friend Recommendation,3,9.1,0,1.27,8.45,No,0.0
+RESP_0939,19,Female,Returning Customer,Smartphone,January,Weekday,Instagram / Social Ad,16,14.8,2,84.03,3.39,Yes,110.23
+RESP_0940,26,Male,Returning Customer,Smartphone,July,Weekday,Google Search,5,10.2,0,5.84,6.27,No,0.0
+RESP_0941,21,Male,New Visitor,Smartphone,November,Weekend,Google Search,18,28.0,2,44.39,4.65,Yes,73.14
+RESP_0942,26,Male,Returning Customer,Smartphone,September,Weekend,Direct Website Visit,3,8.5,1,69.46,3.3,No,0.0
+RESP_0943,26,Male,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,2,4.7,0,0.0,1.93,No,0.0
+RESP_0944,32,Female,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,58,75.0,0,0.0,3.91,No,0.0
+RESP_0945,21,Female,Returning Customer,Smartphone,March,Weekday,Friend Recommendation,13,23.4,1,11.07,2.56,No,0.0
+RESP_0946,19,Male,Returning Customer,Laptop / Desktop,October,Weekend,Google Search,9,14.9,0,0.0,4.47,No,0.0
+RESP_0947,19,Female,Returning Customer,Smartphone,October,Weekday,Google Search,11,13.0,0,0.0,4.14,No,0.0
+RESP_0948,35,Female,Returning Customer,Laptop / Desktop,December,Weekday,Email Promo,15,12.3,0,0.0,3.51,No,0.0
+RESP_0949,35,Female,Returning Customer,Laptop / Desktop,December,Weekend,Google Search,5,8.6,4,69.65,0.87,Yes,97.0
+RESP_0950,26,Male,Returning Customer,Laptop / Desktop,October,Weekday,Google Search,19,27.5,0,0.0,4.49,No,0.0
+RESP_0951,26,Female,Returning Customer,Laptop / Desktop,April,Weekend,Instagram / Social Ad,7,7.5,2,139.59,3.17,Yes,153.18
+RESP_0952,26,Female,Returning Customer,Smartphone,November,Weekday,Direct Website Visit,10,20.3,0,0.91,2.92,No,0.0
+RESP_0953,21,Male,New Visitor,Smartphone,February,Weekday,Google Search,48,75.0,1,70.28,3.41,Yes,104.43
+RESP_0954,35,Male,Returning Customer,Laptop / Desktop,November,Weekday,Friend Recommendation,28,30.7,3,75.33,5.25,Yes,102.01
+RESP_0955,23,Female,Returning Customer,Smartphone,December,Weekend,Direct Website Visit,12,15.3,1,46.55,3.59,No,0.0
+RESP_0956,23,Female,Returning Customer,Smartphone,June,Weekday,Google Search,32,45.6,0,0.0,5.76,No,0.0
+RESP_0957,23,Female,Returning Customer,Laptop / Desktop,October,Weekday,Direct Website Visit,11,11.2,1,37.03,5.22,No,0.0
+RESP_0958,19,Female,Returning Customer,Laptop / Desktop,July,Weekday,Instagram / Social Ad,5,10.0,1,69.3,3.74,No,0.0
+RESP_0959,21,Female,New Visitor,Laptop / Desktop,July,Weekday,Instagram / Social Ad,11,14.7,0,0.0,3.69,No,0.0
+RESP_0960,28,Male,Returning Customer,Tablet,May,Weekend,Direct Website Visit,8,10.6,1,40.25,4.54,No,0.0
+RESP_0961,19,Male,New Visitor,Laptop / Desktop,November,Weekday,Friend Recommendation,1,6.0,0,1.56,6.17,No,0.0
+RESP_0962,26,Male,Returning Customer,Smartphone,December,Weekday,Google Search,4,7.4,2,39.38,5.76,No,0.0
+RESP_0963,21,Female,Returning Customer,Laptop / Desktop,December,Weekend,Instagram / Social Ad,4,4.5,1,42.46,3.92,No,0.0
+RESP_0964,23,Male,Returning Customer,Smartphone,March,Weekday,Instagram / Social Ad,28,30.5,1,24.39,0.5,No,0.0
+RESP_0965,21,Female,New Visitor,Smartphone,November,Weekday,Instagram / Social Ad,7,13.9,1,55.03,6.38,Yes,98.5
+RESP_0966,23,Male,Returning Customer,Laptop / Desktop,November,Weekday,Instagram / Social Ad,1,3.8,1,38.64,4.76,No,0.0
+RESP_0967,28,Male,Returning Customer,Smartphone,May,Weekend,Google Search,9,7.3,0,11.57,4.47,No,0.0
+RESP_0968,21,Female,Returning Customer,Smartphone,February,Weekday,Direct Website Visit,7,10.9,2,27.0,2.14,No,0.0
+RESP_0969,26,Male,Returning Customer,Smartphone,May,Weekday,Instagram / Social Ad,9,14.7,4,71.48,0.5,Yes,89.23
+RESP_0970,23,Female,Returning Customer,Laptop / Desktop,December,Weekday,Google Search,15,23.5,1,26.43,3.63,No,0.0
+RESP_0971,26,Male,Returning Customer,Smartphone,October,Weekday,Direct Website Visit,10,13.3,1,53.41,1.86,No,0.0
+RESP_0972,41,Female,Returning Customer,Laptop / Desktop,November,Weekday,Direct Website Visit,8,12.2,0,2.68,5.4,No,0.0
+RESP_0973,28,Female,Returning Customer,Smartphone,May,Weekday,Instagram / Social Ad,5,8.2,2,94.88,2.2,Yes,140.48
+RESP_0974,21,Male,Returning Customer,Laptop / Desktop,October,Weekday,Google Search,16,22.7,0,0.0,2.06,No,0.0
+RESP_0975,19,Female,New Visitor,Laptop / Desktop,January,Weekday,Instagram / Social Ad,16,24.4,0,0.0,4.75,No,0.0
+RESP_0976,21,Male,New Visitor,Smartphone,June,Weekday,Google Search,11,14.5,1,22.91,3.86,No,0.0
+RESP_0977,26,Female,New Visitor,Smartphone,September,Weekend,Google Search,45,58.1,0,0.0,3.13,No,0.0
+RESP_0978,19,Male,Returning Customer,Smartphone,March,Weekend,Direct Website Visit,22,18.7,1,27.44,0.56,Yes,42.92
+RESP_0979,23,Male,Returning Customer,Tablet,November,Weekend,Google Search,18,20.5,0,0.0,3.22,No,0.0
+RESP_0980,26,Female,Returning Customer,Laptop / Desktop,April,Weekday,Google Search,3,6.6,0,3.08,6.37,No,0.0
+RESP_0981,21,Female,Returning Customer,Laptop / Desktop,October,Weekday,Google Search,6,9.8,4,96.21,2.68,Yes,111.69
+RESP_0982,28,Female,Returning Customer,Smartphone,June,Weekday,Google Search,5,7.2,1,38.78,4.09,No,0.0
+RESP_0983,19,Female,Returning Customer,Laptop / Desktop,September,Weekend,Google Search,1,2.9,3,61.79,2.76,Yes,114.49
+RESP_0984,19,Female,Returning Customer,Laptop / Desktop,February,Weekend,Friend Recommendation,5,4.8,1,41.83,4.17,No,0.0
+RESP_0985,28,Male,Returning Customer,Laptop / Desktop,January,Weekend,Google Search,17,13.8,1,80.95,3.86,Yes,118.86
+RESP_0986,23,Male,New Visitor,Tablet,December,Weekday,Google Search,17,14.8,0,0.0,5.06,No,0.0
+RESP_0987,28,Male,Returning Customer,Smartphone,May,Weekday,Google Search,17,17.7,0,0.0,3.59,No,0.0
+RESP_0988,23,Male,Returning Customer,Smartphone,November,Weekday,Friend Recommendation,6,12.9,0,2.51,4.64,No,0.0
+RESP_0989,21,Male,Returning Customer,Laptop / Desktop,December,Weekday,Instagram / Social Ad,7,11.1,4,91.57,0.58,Yes,149.07
+RESP_0990,32,Male,Returning Customer,Laptop / Desktop,April,Weekday,Instagram / Social Ad,5,12.2,3,50.81,0.65,Yes,76.92
+RESP_0991,32,Female,Returning Customer,Smartphone,May,Weekend,Email Promo,6,9.4,1,27.31,3.2,No,0.0
+RESP_0992,28,Male,New Visitor,Smartphone,October,Weekday,Instagram / Social Ad,2,4.6,1,24.8,5.61,No,0.0
+RESP_0993,21,Male,New Visitor,Smartphone,December,Weekday,Google Search,2,4.5,1,89.62,3.27,Yes,123.21
+RESP_0994,26,Male,Returning Customer,Smartphone,December,Weekday,Google Search,10,15.6,0,0.0,5.15,No,0.0
+RESP_0995,23,Female,New Visitor,Smartphone,August,Weekend,Instagram / Social Ad,3,2.8,1,69.46,5.08,No,0.0
+RESP_0996,19,Female,New Visitor,Laptop / Desktop,November,Weekday,Google Search,3,8.4,0,4.94,4.98,No,0.0
+RESP_0997,35,Female,New Visitor,Laptop / Desktop,March,Weekday,Direct Website Visit,31,48.6,2,47.29,1.04,Yes,88.18
+RESP_0998,19,Male,New Visitor,Smartphone,December,Weekend,Google Search,6,16.6,2,29.77,4.79,No,0.0
+RESP_0999,41,Male,Returning Customer,Smartphone,December,Weekday,Instagram / Social Ad,29,34.3,0,0.0,1.18,No,0.0
+RESP_1000,23,Female,Returning Customer,Smartphone,March,Weekday,Google Search,35,31.4,2,47.72,2.56,Yes,72.29
+RESP_1001,21,Male,Returning Customer,Smartphone,May,Weekday,Google Search,14,18.7,0,0.0,4.21,No,0.0
+RESP_1002,26,Female,Returning Customer,Laptop / Desktop,February,Weekday,Instagram / Social Ad,10,14.5,0,0.0,3.62,No,0.0
+RESP_1003,35,Female,New Visitor,Laptop / Desktop,May,Weekend,Friend Recommendation,8,12.5,1,64.89,2.13,Yes,92.05
+RESP_1004,28,Female,Returning Customer,Smartphone,November,Weekend,Instagram / Social Ad,8,14.2,1,56.76,4.71,Yes,97.31
+RESP_1005,32,Male,Returning Customer,Laptop / Desktop,June,Weekday,Direct Website Visit,5,4.9,2,36.1,0.71,No,0.0
+RESP_1006,26,Male,New Visitor,Laptop / Desktop,February,Weekday,Google Search,12,17.0,2,75.56,2.12,Yes,89.87
+RESP_1007,28,Female,New Visitor,Laptop / Desktop,May,Weekday,Google Search,20,32.2,1,43.9,4.79,No,0.0
+RESP_1008,32,Male,New Visitor,Smartphone,December,Weekday,Google Search,18,26.8,0,18.01,5.38,No,0.0
+RESP_1009,21,Female,Returning Customer,Tablet,September,Weekday,Google Search,7,13.7,2,135.65,3.94,Yes,142.1
+RESP_1010,23,Male,Returning Customer,Smartphone,June,Weekday,Google Search,14,22.7,0,0.0,3.73,No,0.0
+RESP_1011,21,Male,Returning Customer,Smartphone,March,Weekday,Google Search,3,1.1,2,110.16,4.87,Yes,175.4
+RESP_1012,55,Male,Returning Customer,Smartphone,December,Weekend,Direct Website Visit,28,43.1,0,0.0,6.14,No,0.0
+RESP_1013,41,Female,Returning Customer,Smartphone,November,Weekday,Google Search,1,1.0,0,0.0,4.07,No,0.0
+RESP_1014,19,Male,Returning Customer,Smartphone,May,Weekday,Instagram / Social Ad,11,17.6,0,1.93,7.62,No,0.0
+RESP_1015,28,Male,New Visitor,Smartphone,February,Weekday,Instagram / Social Ad,12,14.8,0,0.0,1.83,No,0.0
+RESP_1016,41,Female,Returning Customer,Smartphone,January,Weekend,Instagram / Social Ad,7,7.8,0,0.0,4.19,No,0.0
+RESP_1017,21,Male,Returning Customer,Laptop / Desktop,March,Weekday,Instagram / Social Ad,14,24.2,0,0.0,6.08,No,0.0
+RESP_1018,26,Female,Returning Customer,Laptop / Desktop,September,Weekday,Google Search,8,8.3,1,19.51,4.12,No,0.0
+RESP_1019,35,Male,Returning Customer,Smartphone,December,Weekday,Google Search,7,14.4,0,0.0,2.6,No,0.0
+RESP_1020,19,Female,Returning Customer,Laptop / Desktop,August,Weekend,Direct Website Visit,8,12.8,0,0.0,5.87,No,0.0
+RESP_1021,28,Male,New Visitor,Laptop / Desktop,November,Weekday,Email Promo,8,11.6,0,0.0,5.59,No,0.0
+RESP_1022,21,Male,Returning Customer,Laptop / Desktop,July,Weekend,Google Search,25,40.5,2,40.86,5.39,No,0.0
+RESP_1023,41,Female,New Visitor,Smartphone,October,Weekend,Google Search,12,15.5,0,0.0,4.33,No,0.0
+RESP_1024,48,Female,Returning Customer,Laptop / Desktop,November,Weekend,Email Promo,3,8.5,0,0.0,4.96,No,0.0
+RESP_1025,41,Female,New Visitor,Laptop / Desktop,March,Weekday,Google Search,4,9.1,0,0.0,3.82,No,0.0
+RESP_1026,23,Female,Returning Customer,Laptop / Desktop,May,Weekday,Instagram / Social Ad,49,72.7,0,5.85,5.73,No,0.0
+RESP_1027,35,Female,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,8,13.5,2,121.27,5.26,Yes,151.19
+RESP_1028,32,Male,Returning Customer,Smartphone,February,Weekend,Google Search,4,11.1,2,48.4,4.53,Yes,77.11
+RESP_1029,21,Female,New Visitor,Laptop / Desktop,May,Weekday,Instagram / Social Ad,18,21.8,0,0.0,4.86,No,0.0
+RESP_1030,32,Female,Returning Customer,Smartphone,August,Weekday,Instagram / Social Ad,23,21.7,1,28.61,4.76,No,0.0
+RESP_1031,19,Male,Returning Customer,Smartphone,December,Weekday,Google Search,11,10.1,0,0.0,4.3,No,0.0
+RESP_1032,26,Female,New Visitor,Smartphone,July,Weekday,Instagram / Social Ad,27,24.0,0,0.0,2.86,No,0.0
+RESP_1033,21,Male,New Visitor,Laptop / Desktop,November,Weekday,Direct Website Visit,2,3.0,3,115.27,3.77,Yes,153.89
+RESP_1034,19,Male,Returning Customer,Laptop / Desktop,July,Weekday,Instagram / Social Ad,10,16.2,1,64.29,2.68,No,0.0
+RESP_1035,19,Male,Returning Customer,Smartphone,November,Weekday,Google Search,9,14.5,1,42.71,3.52,No,0.0
+RESP_1036,28,Male,Returning Customer,Tablet,September,Weekend,Instagram / Social Ad,5,9.5,0,0.96,5.48,No,0.0
+RESP_1037,21,Male,Returning Customer,Smartphone,November,Weekday,Direct Website Visit,28,27.6,0,0.0,3.81,No,0.0
+RESP_1038,28,Female,Returning Customer,Laptop / Desktop,June,Weekday,Direct Website Visit,10,12.5,2,28.55,1.88,No,0.0
+RESP_1039,19,Female,New Visitor,Laptop / Desktop,September,Weekday,Instagram / Social Ad,22,24.5,0,0.0,2.23,No,0.0
+RESP_1040,21,Female,New Visitor,Laptop / Desktop,October,Weekday,Google Search,12,18.4,1,26.47,0.5,No,0.0
+RESP_1041,26,Male,Returning Customer,Laptop / Desktop,June,Weekend,Direct Website Visit,3,5.3,2,154.27,5.86,Yes,222.35
+RESP_1042,32,Female,Returning Customer,Smartphone,March,Weekday,Direct Website Visit,15,23.3,3,67.74,1.02,Yes,75.55
+RESP_1043,21,Male,Returning Customer,Laptop / Desktop,February,Weekday,Google Search,10,14.1,0,0.0,3.58,No,0.0
+RESP_1044,26,Male,New Visitor,Smartphone,January,Weekday,Instagram / Social Ad,13,16.9,1,80.1,5.92,Yes,109.24
+RESP_1045,35,Male,New Visitor,Laptop / Desktop,November,Weekend,Google Search,1,5.7,1,30.43,5.57,No,0.0
+RESP_1046,26,Male,Returning Customer,Laptop / Desktop,April,Weekday,Direct Website Visit,2,1.3,0,0.06,7.53,No,0.0
+RESP_1047,21,Female,New Visitor,Laptop / Desktop,April,Weekend,Google Search,29,47.8,0,11.04,4.18,No,0.0
+RESP_1048,19,Male,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,2,5.1,2,58.06,4.22,Yes,76.67
+RESP_1049,35,Male,Returning Customer,Laptop / Desktop,May,Weekday,Email Promo,4,8.6,1,20.0,2.63,No,0.0
+RESP_1050,19,Female,Returning Customer,Smartphone,August,Weekday,Direct Website Visit,2,4.4,0,1.66,7.65,No,0.0
+RESP_1051,35,Female,Returning Customer,Smartphone,March,Weekend,Email Promo,14,14.3,0,0.0,3.62,No,0.0
+RESP_1052,23,Male,Returning Customer,Laptop / Desktop,December,Weekday,Friend Recommendation,17,15.4,0,0.0,4.38,No,0.0
+RESP_1053,41,Male,Returning Customer,Smartphone,November,Weekend,Google Search,1,4.7,0,0.0,7.32,No,0.0
+RESP_1054,32,Male,Returning Customer,Laptop / Desktop,November,Weekday,Instagram / Social Ad,28,22.7,1,31.99,0.5,No,0.0
+RESP_1055,55,Male,New Visitor,Smartphone,June,Weekday,Instagram / Social Ad,11,18.0,0,0.0,1.18,No,0.0
+RESP_1056,23,Male,Returning Customer,Smartphone,November,Weekday,Email Promo,12,19.7,0,0.0,3.62,No,0.0
+RESP_1057,28,Female,Returning Customer,Laptop / Desktop,March,Weekend,Google Search,58,70.8,2,33.46,4.82,Yes,63.96
+RESP_1058,23,Female,Returning Customer,Smartphone,January,Weekday,Friend Recommendation,3,6.2,1,29.26,4.14,No,0.0
+RESP_1059,23,Female,Returning Customer,Smartphone,January,Weekend,Instagram / Social Ad,5,10.6,0,0.0,3.3,No,0.0
+RESP_1060,26,Female,Returning Customer,Laptop / Desktop,September,Weekend,Direct Website Visit,9,17.1,0,0.0,7.07,No,0.0
+RESP_1061,35,Male,Returning Customer,Smartphone,July,Weekend,Google Search,2,4.6,1,81.1,3.42,Yes,114.66
+RESP_1062,55,Male,Returning Customer,Laptop / Desktop,August,Weekday,Google Search,15,17.9,2,28.32,0.5,Yes,60.49
+RESP_1063,28,Male,Returning Customer,Smartphone,January,Weekday,Direct Website Visit,11,15.6,3,81.87,3.71,Yes,134.75
+RESP_1064,23,Female,Returning Customer,Laptop / Desktop,June,Weekend,Google Search,7,12.9,0,0.0,7.27,No,0.0
+RESP_1065,23,Male,Returning Customer,Laptop / Desktop,October,Weekday,Direct Website Visit,5,9.3,1,84.3,1.6,Yes,117.67
+RESP_1066,28,Male,Returning Customer,Laptop / Desktop,July,Weekday,Google Search,15,17.3,1,87.48,4.5,Yes,120.61
+RESP_1067,21,Male,Returning Customer,Smartphone,November,Weekday,Direct Website Visit,6,9.3,1,22.62,1.23,No,0.0
+RESP_1068,19,Male,Returning Customer,Laptop / Desktop,April,Weekday,Instagram / Social Ad,23,23.5,3,88.63,1.99,Yes,136.19
+RESP_1069,23,Female,New Visitor,Laptop / Desktop,November,Weekday,Instagram / Social Ad,37,44.9,0,0.0,5.11,No,0.0
+RESP_1070,21,Female,Returning Customer,Laptop / Desktop,September,Weekday,Direct Website Visit,50,59.5,4,63.86,1.53,Yes,105.44
+RESP_1071,21,Female,Returning Customer,Smartphone,April,Weekday,Google Search,14,17.1,1,57.78,3.85,No,0.0
+RESP_1072,21,Female,New Visitor,Laptop / Desktop,April,Weekday,Google Search,30,34.2,0,0.0,5.92,No,0.0
+RESP_1073,19,Female,Returning Customer,Laptop / Desktop,September,Weekday,Google Search,5,9.4,1,67.24,4.12,Yes,106.66
+RESP_1074,19,Male,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,8,13.6,0,0.0,5.74,No,0.0
+RESP_1075,55,Male,New Visitor,Smartphone,June,Weekday,Instagram / Social Ad,10,15.7,3,96.62,2.84,Yes,103.64
+RESP_1076,23,Male,New Visitor,Laptop / Desktop,May,Weekday,Direct Website Visit,32,27.1,1,59.69,6.0,Yes,94.47
+RESP_1077,23,Male,New Visitor,Smartphone,November,Weekday,Instagram / Social Ad,1,2.8,0,0.0,4.36,No,0.0
+RESP_1078,26,Female,Returning Customer,Tablet,October,Weekday,Instagram / Social Ad,6,12.8,0,0.0,5.58,No,0.0
+RESP_1079,21,Male,Returning Customer,Laptop / Desktop,July,Weekday,Instagram / Social Ad,9,17.0,1,52.87,2.67,No,0.0
+RESP_1080,41,Female,Returning Customer,Laptop / Desktop,July,Weekend,Google Search,8,13.6,1,52.0,0.69,No,0.0
+RESP_1081,32,Female,Returning Customer,Smartphone,April,Weekday,Google Search,8,13.7,0,0.0,2.4,No,0.0
+RESP_1082,19,Female,Returning Customer,Smartphone,September,Weekend,Friend Recommendation,2,5.6,2,39.65,3.06,Yes,50.87
+RESP_1083,23,Female,Returning Customer,Laptop / Desktop,May,Weekday,Email Promo,21,27.4,2,46.75,4.5,No,0.0
+RESP_1084,35,Female,New Visitor,Smartphone,December,Weekday,Google Search,12,22.1,1,16.26,4.32,No,0.0
+RESP_1085,41,Female,Returning Customer,Laptop / Desktop,July,Weekday,Instagram / Social Ad,5,9.9,0,0.0,5.97,No,0.0
+RESP_1086,23,Female,Returning Customer,Smartphone,July,Weekday,Email Promo,12,18.4,1,53.26,3.6,No,0.0
+RESP_1087,26,Male,Returning Customer,Smartphone,September,Weekday,Instagram / Social Ad,17,28.9,4,115.86,1.97,Yes,181.39
+RESP_1088,21,Female,Returning Customer,Smartphone,December,Weekday,Google Search,6,9.5,0,0.0,4.17,No,0.0
+RESP_1089,55,Female,Returning Customer,Smartphone,November,Weekday,Google Search,9,10.8,0,1.96,3.35,No,0.0
+RESP_1090,21,Female,Returning Customer,Tablet,July,Weekday,Instagram / Social Ad,8,16.5,2,82.53,3.81,Yes,111.92
+RESP_1091,41,Male,Returning Customer,Smartphone,October,Weekday,Friend Recommendation,10,20.2,0,0.0,4.25,No,0.0
+RESP_1092,26,Female,Returning Customer,Smartphone,September,Weekend,Direct Website Visit,20,31.7,1,43.16,1.63,No,0.0
+RESP_1093,26,Female,New Visitor,Smartphone,August,Weekday,Google Search,14,23.7,0,0.0,1.31,No,0.0
+RESP_1094,23,Female,New Visitor,Smartphone,April,Weekday,Google Search,15,15.9,0,0.0,3.92,No,0.0
+RESP_1095,21,Female,Returning Customer,Smartphone,July,Weekday,Direct Website Visit,3,7.0,0,16.93,6.69,No,0.0
+RESP_1096,21,Female,Returning Customer,Laptop / Desktop,April,Weekday,Email Promo,6,16.0,0,0.0,3.78,No,0.0
+RESP_1097,21,Female,New Visitor,Smartphone,December,Weekend,Instagram / Social Ad,44,33.9,1,38.41,2.8,Yes,69.41
+RESP_1098,21,Female,New Visitor,Smartphone,May,Weekday,Instagram / Social Ad,10,15.3,1,95.65,4.82,Yes,139.65
+RESP_1099,28,Female,Returning Customer,Smartphone,December,Weekday,Google Search,6,10.1,0,0.0,3.3,No,0.0
+RESP_1100,23,Female,Returning Customer,Tablet,August,Weekend,Direct Website Visit,5,8.9,0,4.15,3.5,No,0.0
+RESP_1101,19,Male,Returning Customer,Smartphone,October,Weekday,Direct Website Visit,17,27.5,0,0.0,4.41,No,0.0
+RESP_1102,48,Male,New Visitor,Smartphone,August,Weekday,Google Search,12,15.6,4,91.37,2.82,Yes,134.52
+RESP_1103,35,Female,New Visitor,Laptop / Desktop,March,Weekend,Direct Website Visit,4,10.8,0,2.95,6.08,No,0.0
+RESP_1104,41,Female,Returning Customer,Smartphone,June,Weekday,Google Search,13,12.5,0,0.0,1.85,No,0.0
+RESP_1105,55,Male,New Visitor,Smartphone,February,Weekday,Google Search,2,5.7,1,74.18,4.32,No,0.0
+RESP_1106,21,Female,Returning Customer,Smartphone,September,Weekday,Google Search,21,18.1,0,0.0,4.36,No,0.0
+RESP_1107,23,Female,New Visitor,Laptop / Desktop,July,Weekday,Google Search,28,43.9,0,0.0,2.36,No,0.0
+RESP_1108,28,Male,Returning Customer,Smartphone,November,Weekday,Google Search,10,9.0,0,2.93,2.73,No,0.0
+RESP_1109,28,Female,New Visitor,Laptop / Desktop,April,Weekend,Instagram / Social Ad,8,13.7,0,0.0,5.72,No,0.0
+RESP_1110,21,Female,Returning Customer,Laptop / Desktop,March,Weekday,Instagram / Social Ad,21,24.0,0,0.0,1.82,No,0.0
+RESP_1111,32,Female,Returning Customer,Smartphone,June,Weekend,Instagram / Social Ad,20,36.4,0,0.0,2.29,No,0.0
+RESP_1112,21,Male,Returning Customer,Smartphone,December,Weekend,Google Search,18,28.1,0,5.01,2.21,No,0.0
+RESP_1113,21,Female,New Visitor,Smartphone,October,Weekday,Google Search,26,28.8,0,0.0,9.23,No,0.0
+RESP_1114,26,Male,New Visitor,Laptop / Desktop,June,Weekday,Instagram / Social Ad,2,5.4,1,46.83,6.36,No,0.0
+RESP_1115,26,Male,New Visitor,Smartphone,August,Weekday,Instagram / Social Ad,9,11.5,0,0.0,3.45,No,0.0
+RESP_1116,26,Female,New Visitor,Smartphone,February,Weekend,Google Search,2,3.9,0,0.0,7.88,No,0.0
+RESP_1117,19,Female,Returning Customer,Smartphone,December,Weekend,Email Promo,15,25.0,1,67.39,4.46,No,0.0
+RESP_1118,35,Female,Returning Customer,Tablet,October,Weekday,Direct Website Visit,12,10.6,1,62.57,3.76,No,0.0
+RESP_1119,21,Female,Returning Customer,Smartphone,May,Weekday,Email Promo,2,7.3,0,0.0,5.52,No,0.0
+RESP_1120,19,Female,Returning Customer,Laptop / Desktop,September,Weekday,Instagram / Social Ad,18,17.3,0,0.0,2.78,No,0.0
+RESP_1121,35,Male,Returning Customer,Smartphone,February,Weekend,Google Search,25,24.3,0,0.0,5.05,No,0.0
+RESP_1122,41,Male,Returning Customer,Smartphone,December,Weekday,Direct Website Visit,12,14.5,0,0.0,6.21,No,0.0
+RESP_1123,35,Male,Returning Customer,Smartphone,March,Weekday,Google Search,20,18.9,0,12.88,4.9,No,0.0
+RESP_1124,32,Female,Returning Customer,Smartphone,October,Weekend,Instagram / Social Ad,8,10.2,2,125.74,2.89,Yes,138.17
+RESP_1125,26,Male,Returning Customer,Smartphone,April,Weekday,Google Search,4,5.3,1,133.23,5.69,Yes,139.02
+RESP_1126,26,Male,Returning Customer,Smartphone,October,Weekday,Direct Website Visit,14,16.3,1,35.87,1.58,No,0.0
+RESP_1127,19,Male,New Visitor,Laptop / Desktop,November,Weekday,Google Search,8,11.4,3,71.68,3.84,Yes,120.65
+RESP_1128,23,Female,New Visitor,Laptop / Desktop,October,Weekday,Email Promo,21,21.8,1,26.37,5.56,No,0.0
+RESP_1129,23,Male,New Visitor,Laptop / Desktop,September,Weekday,Email Promo,15,13.8,1,21.84,4.4,No,0.0
+RESP_1130,21,Female,Returning Customer,Smartphone,November,Weekend,Instagram / Social Ad,3,3.8,1,34.97,5.63,No,0.0
+RESP_1131,28,Female,Returning Customer,Smartphone,February,Weekday,Direct Website Visit,4,6.0,1,43.37,7.46,No,0.0
+RESP_1132,23,Female,New Visitor,Smartphone,May,Weekday,Instagram / Social Ad,14,17.4,4,90.26,2.09,Yes,135.52
+RESP_1133,19,Male,Returning Customer,Laptop / Desktop,April,Weekday,Direct Website Visit,7,4.9,0,0.23,3.58,No,0.0
+RESP_1134,21,Male,Returning Customer,Laptop / Desktop,December,Weekday,Instagram / Social Ad,25,33.0,4,49.13,0.5,Yes,72.57
+RESP_1135,28,Female,Returning Customer,Smartphone,June,Weekday,Direct Website Visit,10,22.1,1,89.63,1.36,Yes,144.48
+RESP_1136,19,Female,Returning Customer,Smartphone,November,Weekend,Instagram / Social Ad,14,25.7,0,0.0,1.32,No,0.0
+RESP_1137,32,Female,Returning Customer,Smartphone,October,Weekend,Friend Recommendation,14,23.1,4,99.26,0.55,Yes,155.71
+RESP_1138,23,Female,Returning Customer,Smartphone,April,Weekday,Instagram / Social Ad,6,8.7,0,0.0,4.36,No,0.0
+RESP_1139,23,Female,Returning Customer,Smartphone,April,Weekday,Instagram / Social Ad,11,19.6,0,0.08,3.89,No,0.0
+RESP_1140,26,Female,Returning Customer,Laptop / Desktop,May,Weekday,Direct Website Visit,10,14.3,1,52.37,6.69,No,0.0
+RESP_1141,32,Male,Returning Customer,Laptop / Desktop,June,Weekend,Direct Website Visit,6,17.1,1,64.89,4.23,No,0.0
+RESP_1142,21,Female,New Visitor,Smartphone,April,Weekday,Instagram / Social Ad,15,21.0,2,38.76,3.32,Yes,52.9
+RESP_1143,26,Female,Returning Customer,Smartphone,January,Weekend,Google Search,20,25.2,0,0.4,2.91,No,0.0
+RESP_1144,26,Female,Returning Customer,Tablet,November,Weekday,Instagram / Social Ad,26,35.9,1,59.07,5.43,Yes,81.57
+RESP_1145,21,Male,New Visitor,Smartphone,December,Weekend,Friend Recommendation,34,44.3,0,0.0,0.5,No,0.0
+RESP_1146,35,Male,Returning Customer,Smartphone,May,Weekday,Direct Website Visit,12,15.5,2,68.21,4.72,No,0.0
+RESP_1147,32,Male,Returning Customer,Smartphone,May,Weekend,Direct Website Visit,93,75.0,2,39.28,1.92,No,0.0
+RESP_1148,26,Female,Returning Customer,Smartphone,January,Weekday,Google Search,10,15.1,0,0.0,2.99,No,0.0
+RESP_1149,32,Male,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,6,13.2,3,42.4,0.5,Yes,57.2
+RESP_1150,35,Female,Returning Customer,Laptop / Desktop,November,Weekday,Instagram / Social Ad,31,48.6,0,0.0,1.39,No,0.0
+RESP_1151,28,Male,New Visitor,Smartphone,March,Weekend,Email Promo,7,11.0,1,47.99,4.83,No,0.0
+RESP_1152,32,Male,Returning Customer,Smartphone,March,Weekday,Google Search,6,10.0,1,43.89,2.23,No,0.0
+RESP_1153,28,Male,Returning Customer,Laptop / Desktop,November,Weekend,Email Promo,4,11.3,1,42.22,4.63,No,0.0
+RESP_1154,28,Male,Returning Customer,Smartphone,September,Weekend,Instagram / Social Ad,8,12.5,1,77.69,4.21,No,0.0
+RESP_1155,26,Male,Returning Customer,Laptop / Desktop,January,Weekday,Google Search,2,1.9,0,0.89,3.58,No,0.0
+RESP_1156,28,Female,Returning Customer,Laptop / Desktop,September,Weekend,Google Search,7,10.4,1,48.24,1.31,No,0.0
+RESP_1157,21,Male,Returning Customer,Smartphone,May,Weekday,Google Search,21,26.2,3,55.98,0.5,Yes,85.19
+RESP_1158,35,Female,Returning Customer,Laptop / Desktop,May,Weekday,Instagram / Social Ad,2,1.9,2,66.23,6.72,Yes,97.79
+RESP_1159,35,Male,Returning Customer,Smartphone,November,Weekday,Google Search,25,26.9,1,55.61,5.3,No,0.0
+RESP_1160,19,Female,Returning Customer,Tablet,November,Weekday,Google Search,16,21.3,3,114.47,2.28,Yes,126.14
+RESP_1161,32,Female,Returning Customer,Smartphone,June,Weekend,Direct Website Visit,7,9.3,0,5.09,5.45,No,0.0
+RESP_1162,19,Female,New Visitor,Tablet,December,Weekday,Google Search,43,68.5,0,3.53,6.18,No,0.0
+RESP_1163,21,Female,Returning Customer,Laptop / Desktop,June,Weekday,Google Search,18,27.0,0,0.0,3.75,No,0.0
+RESP_1164,28,Female,Returning Customer,Smartphone,November,Weekday,Instagram / Social Ad,4,11.8,0,0.0,4.27,No,0.0
+RESP_1165,21,Male,Returning Customer,Smartphone,July,Weekday,Instagram / Social Ad,9,19.2,0,0.0,3.63,No,0.0
+RESP_1166,32,Female,Returning Customer,Tablet,November,Weekday,Direct Website Visit,6,8.3,2,125.54,2.93,Yes,193.36
+RESP_1167,32,Female,Returning Customer,Laptop / Desktop,December,Weekend,Instagram / Social Ad,34,50.7,0,0.0,3.69,No,0.0
+RESP_1168,23,Male,Returning Customer,Smartphone,February,Weekday,Direct Website Visit,10,13.9,1,26.26,4.27,No,0.0
+RESP_1169,19,Female,New Visitor,Laptop / Desktop,December,Weekday,Instagram / Social Ad,13,25.3,0,0.0,3.58,No,0.0
+RESP_1170,21,Male,New Visitor,Smartphone,November,Weekday,Google Search,11,11.4,1,42.78,0.98,Yes,81.52
+RESP_1171,26,Male,Returning Customer,Smartphone,November,Weekday,Google Search,11,16.6,2,41.38,1.28,Yes,69.05
+RESP_1172,55,Male,Returning Customer,Smartphone,April,Weekend,Instagram / Social Ad,24,22.0,0,0.0,5.33,No,0.0
+RESP_1173,26,Male,New Visitor,Smartphone,November,Weekday,Instagram / Social Ad,8,10.0,2,37.65,5.54,No,0.0
+RESP_1174,21,Female,New Visitor,Laptop / Desktop,November,Weekend,Direct Website Visit,12,15.4,0,0.0,2.39,No,0.0
+RESP_1175,26,Male,New Visitor,Smartphone,May,Weekday,Instagram / Social Ad,47,55.6,2,52.75,4.24,Yes,83.6
+RESP_1176,26,Female,Returning Customer,Laptop / Desktop,December,Weekday,Instagram / Social Ad,2,5.2,2,48.52,5.6,Yes,67.16
+RESP_1177,28,Female,Returning Customer,Smartphone,January,Weekend,Google Search,13,16.1,3,51.68,2.93,No,0.0
+RESP_1178,19,Male,Returning Customer,Smartphone,March,Weekend,Google Search,11,14.0,0,0.0,5.65,No,0.0
+RESP_1179,28,Female,Returning Customer,Smartphone,August,Weekday,Instagram / Social Ad,6,12.2,1,23.72,5.75,No,0.0
+RESP_1180,26,Male,Returning Customer,Smartphone,September,Weekday,Instagram / Social Ad,1,3.4,4,39.04,1.45,Yes,53.98
+RESP_1181,48,Male,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,5,9.0,0,0.0,1.84,No,0.0
+RESP_1182,21,Male,New Visitor,Smartphone,January,Weekday,Google Search,6,12.4,1,86.33,0.5,Yes,114.65
+RESP_1183,26,Male,Returning Customer,Smartphone,December,Weekend,Direct Website Visit,46,65.2,0,0.0,4.96,No,0.0
+RESP_1184,41,Female,New Visitor,Smartphone,January,Weekend,Email Promo,21,30.6,2,65.24,2.76,Yes,109.15
+RESP_1185,19,Female,Returning Customer,Smartphone,March,Weekday,Google Search,6,12.7,0,22.16,4.47,No,0.0
+RESP_1186,41,Male,Returning Customer,Smartphone,January,Weekend,Instagram / Social Ad,15,15.2,0,2.73,1.57,No,0.0
+RESP_1187,28,Female,Returning Customer,Laptop / Desktop,September,Weekday,Friend Recommendation,43,44.1,1,52.96,1.13,Yes,69.19
+RESP_1188,19,Male,New Visitor,Laptop / Desktop,December,Weekday,Google Search,2,8.2,2,35.57,4.49,No,0.0
+RESP_1189,21,Male,Returning Customer,Smartphone,October,Weekday,Instagram / Social Ad,9,15.4,0,2.52,5.13,No,0.0
+RESP_1190,28,Male,Returning Customer,Smartphone,November,Weekday,Google Search,7,10.7,0,0.0,5.94,No,0.0
+RESP_1191,19,Female,New Visitor,Smartphone,January,Weekday,Instagram / Social Ad,9,16.8,1,64.71,5.01,No,0.0
+RESP_1192,26,Female,Returning Customer,Tablet,August,Weekday,Google Search,1,4.5,1,128.22,4.23,Yes,185.43
+RESP_1193,21,Female,Returning Customer,Smartphone,July,Weekday,Friend Recommendation,8,11.5,0,0.0,4.06,No,0.0
+RESP_1194,26,Female,Returning Customer,Smartphone,August,Weekday,Direct Website Visit,12,16.1,2,65.5,1.29,No,0.0
+RESP_1195,19,Male,Returning Customer,Smartphone,February,Weekend,Direct Website Visit,2,6.3,0,18.57,6.98,No,0.0
+RESP_1196,35,Female,Returning Customer,Smartphone,October,Weekday,Direct Website Visit,5,11.7,1,101.17,4.61,Yes,117.69
+RESP_1197,48,Female,Returning Customer,Smartphone,August,Weekday,Instagram / Social Ad,2,4.4,0,8.7,2.06,No,0.0
+RESP_1198,48,Female,Returning Customer,Laptop / Desktop,November,Weekend,Instagram / Social Ad,15,22.4,1,47.6,3.03,No,0.0
+RESP_1199,28,Male,Returning Customer,Smartphone,July,Weekend,Email Promo,4,9.9,3,41.22,2.38,Yes,67.84
+RESP_1200,19,Male,Returning Customer,Laptop / Desktop,March,Weekend,Friend Recommendation,5,10.7,0,2.7,6.23,No,0.0
