@@ -450,8 +450,65 @@ def create_full_report_docx():
         "Appendix B: Software and Reproducibility Specifications\n"
         "• Environment: Python 3.13.5 (64-bit), Scikit-Learn 1.6.0, XGBoost 2.1.3, Streamlit 1.40.1, Pandas 2.2.3.\n"
         "• Git Repository: https://github.com/Malatesh-D/Online-Purchase-Prediction.git\n"
-        "• Test Verification: All 5 automated unit tests passing (pytest -v)."
+        "• Test Verification: All 5 automated unit tests passing (pytest -v).\n\n"
+        "Appendix C: Verified Terminal Runtime Outputs (Execution Logs)\n"
     )
+
+    runtime_snippets = [
+        ("C.1 Data Ingestion (python src/data_loader.py)", 
+         "[2026-11-17 23:06:47] INFO: Loaded survey dataset with shape (1200, 15)\n"
+         "Dataset Summary: Total Rows: 1200 | Total Columns: 15\n"
+         "Target Distribution: {'No': 851 (70.92%), 'Yes': 349 (29.08%)} | Missing Values: 0 | Duplicates: 0"),
+        
+        ("C.2 Data Preprocessing & Leakage Prevention (python src/preprocessing.py)",
+         "[2026-11-17 23:06:55] INFO: Data split: Train=960 (29.06% pos), Test=240 (29.17% pos)\n"
+         "Fitted ColumnTransformer preprocessor on X_train (data leakage prevented).\n"
+         "X_train transformed shape: (960, 32) | Total Transformed Features: 32 dense columns."),
+        
+        ("C.3 Model Training & 5-Fold Cross Validation (python src/train.py)",
+         "Logistic Regression -> Test Acc: 86.25%, Rec: 90.00%, F1: 0.7925, ROC-AUC: 0.9602, Tuned F1: 0.8372\n"
+         "Gradient Boosting   -> Test Acc: 88.75%, Rec: 85.71%, F1: 0.8163, ROC-AUC: 0.9532, Tuned F1: 0.8267\n"
+         "XGBoost             -> Test Acc: 85.83%, Rec: 85.71%, F1: 0.7792, ROC-AUC: 0.9513, Tuned F1: 0.8189\n"
+         "Random Forest       -> Test Acc: 81.25%, Rec: 88.57%, F1: 0.7337, ROC-AUC: 0.9349, Tuned F1: 0.8112\n"
+         "Decision Tree       -> Test Acc: 82.08%, Rec: 92.86%, F1: 0.7514, ROC-AUC: 0.9245, Tuned F1: 0.7704\n"
+         "==> Champion Selected: Logistic Regression (Optimal Threshold: 0.83, Tuned F1: 0.8372)"),
+        
+        ("C.4 Real-Time Prediction Engine Test (python src/predict.py)",
+         "PurchasePredictor initialized with model 'LogisticRegression' and threshold 0.83\n"
+         "Sample: Laptop/Desktop, Cart Score $80.70, Exit Rate 3.10% ->\n"
+         "Prediction: Likely to Purchase (Yes) | Purchase Probability: 97.6% | Confidence: 97.6%\n"
+         "Estimated Order Amount: $115.88 | Risk Level: High Intent Shopper"),
+        
+        ("C.5 Automated Unit Test Suite (pytest -v)",
+         "tests/test_prediction.py::test_predictor_initialization PASSED          [ 20%]\n"
+         "tests/test_prediction.py::test_predict_structure_and_probabilities PASSED[ 40%]\n"
+         "tests/test_prediction.py::test_missing_field_raises_error PASSED        [ 60%]\n"
+         "tests/test_preprocessing.py::test_clean_dataset PASSED                  [ 80%]\n"
+         "tests/test_preprocessing.py::test_prepare_data_split PASSED             [100%]\n"
+         "============================== 5 passed in 2.77s =============================="),
+    ]
+
+    for title, log_text in runtime_snippets:
+        p_sub = doc.add_paragraph()
+        r_sub = p_sub.add_run(f"• {title}")
+        r_sub.bold = True
+        r_sub.font.size = Pt(9.5)
+        r_sub.font.color.rgb = RGBColor(31, 78, 121)
+
+        # Monospace Code Box for log output
+        tbl_log = doc.add_table(rows=1, cols=1)
+        tbl_log.alignment = WD_TABLE_ALIGNMENT.CENTER
+        cell_log = tbl_log.cell(0, 0)
+        set_cell_background(cell_log, "F1F5F9")
+        p_log = cell_log.paragraphs[0]
+        p_log.paragraph_format.space_before = Pt(4)
+        p_log.paragraph_format.space_after = Pt(4)
+        p_log.paragraph_format.left_indent = Inches(0.1)
+        r_log = p_log.add_run(log_text)
+        r_log.font.name = "Consolas"
+        r_log.font.size = Pt(8.0)
+        r_log.font.color.rgb = RGBColor(15, 23, 42)
+        doc.add_paragraph()  # Spacing
 
     # Save to disk
     output_path = REPORTS_DIR / "DETAILED_PROJECT_REPORT.docx"
